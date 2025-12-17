@@ -1,0 +1,9138 @@
+AŞAĞIDAKİ BİLGİLER MEB RESMİ BEP HAZIRLAMA KILAVUZUNDAN ALINMIŞTIR. BEP OLUŞTURURKEN BU KURALLARA KESİNLİKLE UY:
+
+BİREYSELLEŞTİRİLMİŞ
+EĞİTİM PROGRAMI
+TÜM ÖĞRETMENLER İÇİN
+Y O L H A R İ T A S I
+Özel Eğitim ve Rehberlik Hizmetleri
+Genel Müdürlüğü
+
+Genel Yayın Yönetmeni
+Prof. Dr. Kemal Varın NUMANOĞLU
+Yayın Koordinatörü
+Cemal ÖZDEMİR
+Editör
+Dr. Kübra AKBAYRAK
+Hazırlama Komisyonu
+Şule DOĞANOĞLU
+Recep GÜR
+Nazlı Deniz SARI
+Duygu BULUT GÜNEŞ
+Mehmet ÇELEBİ
+Altan Öz GÜNEŞ
+Merve KARAGÖZ
+Yayına Hazırlayan
+Serdar BAYANLI
+Grafik Tasarım
+Sabri AKKERMAN
+Genel Yayın Numarası
+8253
+Tanıtıcı Yayınlar Dizi Numarası
+289
+
+İçindekiler
+Ön Söz..............................................................................................................................................................................................................5
+Bireyselleştirilmiş Eğitim Programı (BEP) Nedir? ........................................................................................................6
+Neden BEP Hazırlanmalıdır? .........................................................................................................................................................6
+BEP’i Kim Hazırlar? ...............................................................................................................................................................................7
+BEP Geliştirme Birimi Nedir? ........................................................................................................................................................7
+BEP Geliştirme Birimi Kimlerden Oluşur? ..........................................................................................................................7
+BEP Geliştirme Biriminin Görevleri Nelerdir? ..................................................................................................................8
+BEP Geliştirme Birimi Ne Zaman Oluşturulur? ..............................................................................................................9
+BEP’in İçeriğinde Neler Yer Alır? ...............................................................................................................................................9
+BEP Hazırlama Aşamaları Nelerdir? .....................................................................................................................................10
+BEP Ne Kadar Bir Süre İçin Hazırlanır? ............................................................................................................................12
+BEP Hazırlarken Eğitim Planlaması Nasıl Yapılır? ....................................................................................................12
+Eğitsel Performans Nasıl Belirlenir? .....................................................................................................................................13
+Amaçlar Nasıl Belirlenir? ................................................................................................................................................................13
+Öğretim Planlanlaması Nasıl Yapılır? ...................................................................................................................................14
+Etkili Bir BEP Nasıl Olmalıdır? ...................................................................................................................................................14
+Etkili Bir BEP Süreci Nasıl Yönetilir? ...................................................................................................................................15
+Ailelerin BEP Sürecindeki Rolü Nedir? ..............................................................................................................................16
+Okul Yönetiminin BEP Sürecindeki Sorumlulukları Nelerdir? .........................................................................17
+Rehber Öğretmen/Psikolojik Danışmanların BEP Sürecindeki Sorumlulukları Nelerdir? .......17
+Hazırlanmış BEP’te Değişiklik Yapılabilir mi? ................................................................................................................17
+BEP’in İzlemesi ve Değerlendirilmesi Nasıl Yapılır? .................................................................................................17
+3
+
+BEP Kontrol Listesi ............................................................................................................................................................................18
+Yararlanılan Kaynaklar .....................................................................................................................................................................19
+EK-1 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örnek Format ................................................20
+EK-2 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği
+(Okul Öncesi – Dil Konuşma Bozukluğu ve Otizm Spektrum Bozukluğu) .............................28
+EK-3 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği
+(Okul Öncesi – Otizm Spektrum Bozukluğu) ...................................................................................34
+EK-4 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği
+(İlkokul – Bedensel Yetersizlik) ..............................................................................................................40
+EK-5 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği
+(İlkokul – İşitme Yetersizliği) ....................................................................................................................46
+EK-6 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği
+(İlkokul – Öğrenme Güçlüğü ve DEHB) .............................................................................................54
+EK-7 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği
+(Ortaokul – Hafif Düzey Zihinsel Yetersizlik) .....................................................................................60
+EK-8 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği
+(Ortaokul – Orta-Ağır Düzey Zihinsel Yetersizlik) ............................................................................67
+EK-9 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği
+(Lise – Öğrenme Güçlüğü) .....................................................................................................................73
+EK-10 Kaba Değerlendirme Formu Örneği ...................................................................................................................79
+EK-11 Ölçüt Bağımlı Ölçü Aracı Örneği. ...........................................................................................................................80
+EK-12 Davranış Değiştirme Programı Formu Örneği ............................................................................................84
+4
+
+Ön Söz
+Bireyselleştirilmiş eğitim programı (BEP), özel eğitim ihtiyacı olan bireylerin kendilerine özgü
+eğitsel gereksinimlerini karşılamak üzere uygun eğitim öğretim ortamlarından ve destek eği-
+tim hizmetlerinden en üst düzeyde yararlanmasını sağlamak üzere aile, öğretmen ve uzman-
+ların iş birliğiyle hazırlanmış yazılı dokümandır. Bireyselleştirilmiş eğitim programı, ülkemizde
+ilk olarak 1997 yılında kabul edilen 573 sayılı Kanun Hükmünde Kararname ile yasal bir
+zorunluluk olarak haline gelmiştir. Bilindiği gibi, özel eğitim ihtiyacı olan öğrencilerin bireysel
+farklılıkları ve ihtiyaçları doğrultusunda öğrenciye özgü çizilen bir yol haritası olarak tanımla-
+nan bireyselleştirilmiş eğitim programlarının merkezinde öğrencinin kendisi vardır. Bu nedenle
+bireyselleştirilmiş eğitim programlarının hazırlanması ve uygulanmasının eğitim-öğretim süre-
+cinin niteliğini arttırdığı alan yazında yaygın bir şekilde kabul edilmiştir. Örneğin, bireyselleşti-
+rilmiş eğitim programları ile öğrencinin öğrenme ihtiyaçlarına uygun olarak eğitim planlaması
+yapılırken aynı zamanda öğretmenlere ve ailelere eğitim sürecinde sırasıyla neyin, nasıl ve ne
+süreyle yapılacağına ilişkin bir yol haritası sunulur. Ayrıca, etkili bir şekilde bireyselleştirilmiş
+eğitim programlarının geliştirilmesi ve uygulanması ile kaynaştırma/bütünleştirme yoluyla eği-
+tim uygulamalarının niteliğinin arttırılmasına da önemli bir katkıda bulunulur.
+Bireyselleştirilmiş eğitim programlarına ilişkin yasal mevzuat ve alan yazında vurgulanan yarar-
+larından hareketle hazırlanan bu kılavuz öncelikle özel eğitim ihtiyacı olan öğrencilerle çalışan
+tüm öğretmenler, yöneticiler ve bu öğrencilerin aileleri için yararlı olma amacı taşımaktadır. Bu
+amaçla hazırlanan bu kılavuzda öğretmenlerin bireyselleştirilmiş eğitim programı hazırlama ve
+geliştirme süreci hakkındaki bilgi ve tecrübelerini arttırmaları amacıyla özet bilgiler ile farklı
+özel eğitim ihtiyaçları olan öğrencilere yönelik örnek olaylardan hareketle hazırlanmış bireysel-
+leştirilmiş eğitim programı örnekleri bulunmaktadır.
+Özel eğitim ihtiyacı olan öğrenciler ile çalışan öğretmenler için bireyselleştirilmiş eğitim prog-
+ramı hazırlama ve geliştirme çalışmalarına yol göstermek amacıyla hazırlanan bu kılavuzun
+öğretmenler, aileler, alanda çalışan uzmanlar ve tüm öğrenciler için yararlı olmasını diliyorum.
+Prof. Dr. Kemal Varın NUMANOĞLU
+Genel Müdür
+5
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+Bireyselleştirilmiş Eğitim Programı
+(BEP) Nedir?
+Özel eğitim ihtiyacı olan öğrencinin gelişim özellikleri, ihtiyaç, ilgi, yetenekleri ve eğitsel perfor-
+mansı doğrultusunda öğrenciye özgü olarak hazırlanan bireysel bir eğitim programıdır.
+Neden BEP Hazırlanmalıdır?
+BEP ile özel eğitim ihtiyacı olan öğrenciye özgü hazırlanmış bireysel bir plan çerçevesinde
+öğrencinin güçlü ve ihtiyaç duyduğu yönlerine odaklanılarak gelişimi izlenir ve ilerlemeleri kay-
+dedilir. Böylece özel eğitim ihtiyacı olan öğrencinin bireysel ihtiyaçlarına cevap verilerek eğitim
+ve öğretim sürecinden en verimli şekilde yararlanması sağlanır. Ayrıca Millî Eğitim Bakanlığı
+mevzuatlarında da belirtildiği gibi, özel eğitim ihtiyacı olan tüm öğrenciler için BEP hazır-
+lanması yasal bir zorunluluktur.
+Okul Öncesi Eğitim ve İlköğretim Kurumları Yönetmeliği (Sayı: 2014/29072)
+Madde 20: Kaynaştırma/bütünleştirme yoluyla eğitimlerine devam eden öğrenciler için;
+Bireyselleştirilmiş Eğitim Programı Geliştirme birimi tarafından bireyselleştirilmiş eği-
+tim programı (BEP) hazırlanır ve bu öğrencilerin başarıları, bu programda yer alan amaç-
+lara göre değerlendirilir.
+Ortaöğretim Kurumları Yönetmeliği (Sayı: 2020/31232)
+Madde 3: Tam zamanlı kaynaştırma/bütünleştirme yoluyla eğitimlerine devam eden özel
+eğitim ihtiyacı olan öğrenciler kayıtlı bulundukları okulda uygulanan eğitim programını
+takip ederler. Öğrencilerin takip ettikleri programlar temel alınarak bireyselleştirilmiş
+eğitim programı (BEP) hazırlanması ve bu okullarda bireyselleştirilmiş eğitim programı
+geliştirme birimi oluşturulması zorunludur.
+Özel Eğitim Hizmetleri Yönetmeliği (Sayı: 2018/30471)
+Madde 20: Özel eğitim ihtiyacı olan bireyler için takip edecekleri eğitim programı temel
+alınarak BEP hazırlanması esastır.
+6
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+BEP’i Kim Hazırlar?
+BEP özel eğitim ihtiyacı olan öğrenciyle çalışan okuldaki tüm öğretmenlerin dâhil olduğu BEP
+geliştirme birimi koordinesinde hazırlanır. BEP’in hazırlanmasında sorumluluğun hiçbir za-
+man tek bir öğretmene ait olmadığı ve özel eğitim ihtiyacı olan öğrenciyle çalışan okuldaki tüm
+öğretmenlerin BEP’in hazırlanmasından sorumlu olduğu unutulmamalıdır.
+BEP Geliştirme Birimi Nedir?
+Özel eğitim ihtiyacı olan öğrenci için BEP hazırlamak amacıyla öğrencinin öğrenim gördüğü/
+görmeye başlayacağı okulda oluşturulan birimdir.
+BEP Geliştirme Birimi
+Kimlerden Oluşur?
+Özel Eğitim Hizmetleri Yönetmeliği’nde (2018) belirtildiği gibi, BEP geliştirme birimi okul mü-
+dürü veya müdür yardımcısı başkanlığında,
+ Öğrencinin velisi (anne/baba/yasal vasi)
+ Öğrencinin sınıf öğretmeni
+ Öğrencinin dersini okutan alan öğretmenleri
+ Rehber öğretmen/psikolojik danışman
+ Gerektiğinde özel eğitim değerlendirme kurulundan bir üye
+ Öğrencinin kendisi*
+ Mesleki eğitim veren özel eğitim okullarında meslek derslerini okutan bir alan öğretme-
+ninden oluşur.
+Ayrıca okul dışından uzmanların görüşlerine ihtiyaç duyulması halinde öğrencinin destek hiz-
+met aldığı kişiler (fizyoterapist, psikolog vb.) BEP geliştirme birimi toplantılarına görüş ve öne-
+rilerine başvurmak amacıyla davet edilebilir.
+* Öğrencinin BEP geliştirme birimi toplantısına katılımı zorunlu değil ancak mümkün olduğu kadar öğrencinin
+toplantılara katılımı desteklenmelidir.
+7
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+BEP Geliştirme Biriminin
+Görevleri Nelerdir?
+Özel Eğitim Hizmetleri Yönetmeliği’nde (2018) BEP Geliştirme Biriminin görevleri şunlardır:
+ BEP’in hazırlanması, uygulanması, izlenmesi ve değerlendirilmesi ile ilgili çalışmalarda koor-
+dinasyonu sağlamak
+ Öğrencinin tüm gelişim alanlarındaki özellikleri ile eğitim ihtiyaçları doğrultusunda BEP’inde
+değişiklik ve düzenlemeler yapmak
+ Eğitim ortamlarının düzenlenmesi, materyal geliştirilmesi ve temini konusunda okul yönetimi-
+ne ve öğretmenlere önerilerde bulunmak
+ Okuldaki diğer birim ve kurullarla iş birliği yapmak
+ Kaynaştırma/bütünleştirme yoluyla eğitimlerine devam eden öğrencilerden destek eğitim oda-
+sında eğitim alacak öğrencileri, eğitim hizmeti sunulacak dersleri ve haftalık ders saati sayısını
+belirlemek
+ İlköğretim ya da mesleki ve teknik ortaöğretim programlarının uygulandığı özel eğitim okulla-
+rında ya da bu programların uygulandığı özel eğitim sınıflarında eğitimlerini sürdüren öğren-
+cilerden tam zamanlı kaynaştırma/bütünleştirme yoluyla eğitime uygun olanları belirlemek
+ve okul yönetimine bildirmek
+ Öğretim ve değerlendirmede kullanılacak yöntem ve teknikler ile öğretim materyallerini belir-
+lemek
+ Özel eğitim sınıflarına kayıtlı öğrencilerden yetersizliği olmayan akranlarıyla bir arada eğitim
+alacak öğrencileri belirlemek ve katılacakları dersler ile saatlerini planlamak
+ Özel eğitim ihtiyacı olan öğrencilerden sınavlarda refakat edilmesi gerekenleri belirlemek
+ Özel eğitim programı uygulayan okullardaki öğrencilerden grup eğitimine uyum sağlayama-
+yanların grup eğitimine hazırlanması amacıyla bire bir eğitime başlamasına ve bire bir eğiti-
+min sona erdirilmesine karar vermek
+ Velinin yazılı talebi üzerine, ilkokulda öğrencilerin bir defaya mahsus olmak üzere sınıf tekrarı
+yapmasına karar vermek
+ Farklı sebeplerle okula başlaması gecikmiş olan ve il veya ilçe özel eğitim hizmetleri kurulu
+kararıyla ilköğretim kademesinde özel eğitim programı uygulayan okul ya da bu programların
+uygulandığı özel eğitim sınıflarına devam etmesine karar verilen öğrencilerin; yaş, gelişim özel-
+likleri ve eğitim performansına uygun kademedeki sınıfa yerleştirilmesine karar vermek
+ Okuldaki diğer kurul ve birimlerle iş birliği içinde çalışmak.
+8
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+BEP Geliştirme Birimi
+Ne Zaman Oluşturulur?
+BEP geliştirme birimi ders yılının başında oluşturularak birim toplantıları planlanır. İhtiyaç du-
+yulması halinde (örneğin dönem ortasında öğrencinin başka bir okula devam etmesi gerektiği
+bir durumda) aynı ders yılı içerisinde farklı zamanlarda da okulda BEP geliştirme birimi toplan-
+tısı yapılabilir.
+BEP geliştirme birimi toplantısı:
+ Öğrenci odaklıdır.
+ Tüm üyelerin rahatlıkla görüşlerini paylaşabildiği bir ortamdır.
+ Öğrencinin potansiyelini en üst düzeyde kullanmasını hedefler.
+BEP’in İçeriğinde Neler
+Yer Alır?
+Özel Eğitim Hizmetleri Yönetmeliği’ne (2018) göre BEP’in içeriğinde:
+ Öğrencinin kişisel bilgileri
+ Yıllık [uzun dönemli] amaçlar ve kısa dönemli amaçlar
+ Sağlanacak destek eğitim hizmetine ilişkin bilgiler (destek eğitim türü, süresi, sıklığı ve
+hizmetin kimler tarafından nerede ve nasıl sağlanacağı)*
+ Öğretim ve değerlendirmede kullanılacak yöntem ve teknikler ile öğretim materyalleri
+ Eğitim ortamına ilişkin düzenlemeler
+ [Varsa] davranış problemlerini önlemeye/azaltmaya yönelik tedbirler ile olumlu davranış
+kazandırmaya yönelik uygulanacak yöntem ve teknikler bulunmalıdır.
+* Kaynaştırma/bütünleştirme yoluyla eğitim uygulamaları kapsamında sunulan destek eğitim odasında sağla-
+nan eğitim, destekleme yetiştirme kurslarında (DYK) verilen eğitim veya özel eğitim okulları ve sınıflarında öğ-
+renimlerini sürdüren öğrenciler için tamamlayıcı eğitim, grup eğitimine hazırlık uygulaması gibi okulda sunulan
+diğer eğitim hizmetleri BEP içeriğinde ayrıntılı bir şekilde yer almalıdır.
+9
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+BEP Hazırlama Aşamaları
+Nelerdir?
+1.
+Öğrenci hakkında bilgi ve veri toplama
+Adım
+2.
+Eğitsel performansın değerlendirilmesi
+Adım
+3.
+Öncelikli öğrenme ihtiyaçlarının belirlenmesi
+Adım
+4.
+Her bir öğrenme ihtiyacına yönelik amaç
+belirlenmesi
+Adım
+5.
+Amaçlara yönelik strateji ve kaynakların
+belirlenmesi
+Adım
+6.
+BEP’in değerlendirilmesi için tarih belirlenmesi
+Adım
+Şekil 1. BEP Hazırlama Aşamaları
+BEP hazırlama süreci Şekil 1’de gösterildiği gibi altı aşamadan oluşur:
+(1) İlk aşamada özel eğitim ihtiyacı olduğu belirlenen öğrenci hakkında gerekli kişisel bil-
+gilerin toplanması gerekmektedir. Öğrenci ile ilgili:
+10
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+ Özel eğitim ihtiyacına yönelik aldığı tanı
+ Ailesi ile ilgili bilgiler
+ Sağlık durumu
+ Akademik başarısı
+ Sosyal davranışı
+ İletişim becerileri
+ Yetenekleri ve ilgileri
+ Öğrenme biçimleri vb. konularda bilgi toplanabilir.
+(2) İkinci aşamada öğrencinin güçlü ve geliştirilmesi gereken yönlerinin tespit edilmesi için
+öğrencinin eğitsel performansının değerlendirilmesi gerekmektedir. Öğrencinin eğitsel
+performansı belirlenirken öğrencinin hangi alanlarda güçlü olduğu hangi alanlarda ise
+desteklenmesi gerektiği belirlenir.
+(3) Üçüncü aşamada öğrencinin eğitsel performansına yönelik öncelikli öğrenme ihtiyaç-
+larının belirlenmesi gelmektedir. Bu aşamada öğrencinin eğitsel performansı doğrul-
+tusunda öncelikli olarak öğrenme ihtiyacı olduğu alanlar tespit edilerek, bu alanlara
+yönelik planlama yapılması gerektiğine karar verilir.
+(4) Dördüncü aşamada belirlenen öğrenme ihtiyaçlarına göre amaçlar (uzun dönemli ve
+kısa dönemli) saptanır.
+(5) Beşinci aşamada bu amaçlara yönelik strateji ve kaynaklar (materyal desteği, eği-
+tim-öğretim ortamının düzenlenmesi, öğretim yöntem ve tekniklerin belirlenmesi vb.)
+belirlenir.
+(6) Altıncı ve son aşamada ise BEP içeriğinde yer verilen amaçlara ne kadar ulaşıldığının
+değerlendirilmesi için tarihe karar verilir.
+BEP hazırlama sürecinin çok karmaşık bir süreç olmadığı, sadece
+öğrencinin ihtiyaçlarına yönelik basit bir eğitim planının geliştiril-
+mesi olduğu unutulmamalıdır.
+11
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+BEP Ne Kadar Bir Süre İçin
+Hazırlanır?
+BEP genellikle bir eğitim-öğretim yılı için hazırlanır ve geçerliliği eğitim-öğretim yılının başında
+başlar ve sonunda sona erer. BEP sadece eğitim-öğretim yılının başında değil, gerektiği du-
+rumlarda öğrencinin özel eğitim ihtiyacının belirlenmesinden sonra herhangi bir zaman dilimin-
+de de hazırlanabilir. Ancak, öğrencinin kendi ihtiyaçlarına en uygun eğitim hizmetlerinden en
+kısa sürede yararlanmaya başlamasını sağlamak amacıyla BEP’in mümkün olduğunca erken
+hazırlanması gerektiği unutulmamalıdır.
+BEP Hazırlarken Eğitim Planlaması
+Nasıl Yapılır?
+BEP hazırlama sürecinde eğitim planlanması yapılırken öncelikle öğrencinin eğitsel perfor-
+mansının belirlenmesi, ardından belirlenen eğitsel perfomansa göre amaçların oluşturulması
+ve daha sonra bu amaçlara uygun bir şekilde öğretimin planlanması gerekmektedir.
+Eğitsel performansın
+Amaçların belirlenmesi Öğretimin planlanması
+belirlenmesi
+Şekil 2. BEP Hazırlama Sürecinde Eğitimin Planlaması
+12
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+Eğitsel Performans
+Nasıl Belirlenir?
+Öğrencinin eğitsel performansının belirlenmesi öğrencinin hangi alanlarda güçlü olduğu hangi
+alanlarda ise desteklenmesi gerektiğinin ifade edilmesidir. Eğitsel performans belirlenirken
+şunlara dikkat edilmesi gerekmektedir:
+ Öğrencinin eğitsel performans düzeyleri belirlenirken gözlem, görüşme, kaba değer-
+lendirme formları, yazılı sınavlar, hata analizi, çalışma örneği analizi, ev ödevleri,
+çalışma kâğıtları, ölçüt bağımlı ölçü aracı gibi informal değerlendirme araçlarından
+yararlanılabilir. (Bkz. EK-10, EK-11)
+ Eğitsel performans düzeyi ifadeleri ölçülebilir ve gözlenebilir bir biçimde ifade edilme-
+lidir.
+Ölçülemez ve gözlenemez Ölçülebilir ve gözlenebilir
+Toplama işlemini anlar. İki basamaklı iki sayıyı toplar.
+Günlük yaşam becerilerine sahiptir. Kimseden yardım almadan kıyafetini değiştirir.
+Anlar, bilir, kavrar Söyler, yazar, gösterir
+ Özel eğitim ihtiyacı olan öğrencilerin akademik alanlardaki performansları akranların-
+dan anlamlı düzeyde farklılık gösterebilir. Öğrencinin performans düzeyinin belirlenmesi
+aşamasında öğrencinin bulunduğu sınıf düzeyine ait eğitim programını kullanmak gibi
+bir zorunluluk yoktur. Öğrencinin performansına göre bulunduğu program çerçevesinde
+daha alt ya da üst seviyede eğitim programları sürece dâhil edilebilir.
+Amaçlar Nasıl Belirlenir?
+Amaçlar öğrencinin kısa dönemde ve uzun dönemde kazanması beklenen öğretimsel hedef-
+lerdir. Uzun dönemli amaçlar genellikle bir eğitim öğretim yılı içerisinde öğrencinin kazanması
+beklenen hedefleri içerir. Kısa dönemli amaçlar, uzun dönemli amaçlara ulaşmak için oluşturu-
+lan daha özel ve ayrıntılı hedeflerdir. Amaçlar belirlenirken şunlara dikkat edilmesi gerekmek-
+tedir:
+ Bireyselleştirilmiş eğitim programının kişiye özgü olduğu unutulmamalı ve amaçlar ya-
+zılırken amaç ifadelerinin öznesi olarak öğrencinin ismi belirtilmelidir.
+13
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+ Amaçların öğrenci için öncelikli ve işlevsel hedefler olmasına dikkat edilmelidir.
+ Amaçların ulaşabilir ve gerçekçi bir biçimde belirlenmesi önemlidir. Bu nedenle hedef-
+ler ne ulaşılamayacak kadar güç olmalı ne de çok kolay ulaşabilecek düzeyde olmalıdır.
+ Amaçların sade, açık ve anlaşılır bir şekilde ve geniş zaman kipinde yazılması önemlidir.
+ Amaçların sıralaması basitten zora ve öğrencinin performansına göre gereksinim önce-
+likleri dikkate alınarak belirlenmelidir.
+Özge toplamları 100’e kadar (100 dahil) olan doğal sayılarla eldeli
+Uzun Dönemli Amaç
+toplama işlemini yapar.
+Özge dört denemenin üçünde 1’den 50’ye kadar olan doğal sayı-
+Kısa Dönemli Amaç 1
+larla eldeli toplama işlemi yapar.
+Özge dört denemenin üçünde 50’den 100’e (100 dahil) kadar olan
+Kısa Dönemli Amaç 2
+doğal sayılarla eldeli toplama işlemi yapar.
+Öğretim Planlanlaması
+Nasıl Yapılır?
+Uzun ve kısa dönemli amaçların belirlenmesinin ardından bu amaçların gerçekleştirilmesi için
+öğretimin planlanması gelmektedir. Öğretimin planlanması aşamasında belirlenen amaçlara
+ulaşmak için yapılması gerekenler (örn. kullanılacak öğretim yöntem ve teknikleri, ortam dü-
+zenlenmesi, uygun materyal sağlanması vb.) BEP içerisinde ayrıntılı bir şekilde belirtilmelidir.
+Etkili Bir BEP
+Nasıl Olmalıdır?
+Etkili bir BEP; öğrenci merkezli, öğrencinin bireysel ihtiyaçlarını gözeten, kapsayıcı, erişilebilir,
+bütüncül ve işbirliğiyle hazırlanmış olmalıdır.
+14
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+Öğrenci
+Erişilebilir
+merkezli
+Etkili bir BEP’in İşbirliğiyle
+Bireysel
+anahtar ögeleri hazırlanmış
+Bütüncül Kapsayıcı
+Şekil 3. Etkili bir BEP’in anahtar ögeleri
+Etkili bir BEP için;
+• Öğrenciyi ve aileyi sürece aktif şekilde dâhil edin.
+• Açık ve anlaşılır bir dil kullanın.
+• Kısa ve öz ifadeleri tercih edin.
+Etkili Bir BEP Süreci
+Nasıl Yönetilir?
+Genel olarak BEP geliştirme süreci, BEP’in hazırlanması, planlanması, uygulanması ve izlen-
+mesi aşamalarından oluşur. Bu sürecin etkili bir şekilde yürütülmesi bu dört aşamanın dikkatli
+bir şekilde takip edilmesine bağlıdır. Şekil 4’te gösterildiği gibi, ilk olarak öğrencinin güçlü yan-
+ları, ilgi ve ihtiyaçları hakkında bilgi edindikten sonra, öğrenciyi merkeze alarak öğrenciye özgü
+amaç ve öğretim planlaması yapılır. Daha sonra öğrencinin güçlü yanları ve ihtiyaçları dikkate
+alınarak öğretim yapılır. Sonraki aşamada ise hazırlanan BEP düzenli aralıklarla değerlendirile-
+rek öğrencinin amaçlara ne düzeyde ulaştığı belirlenir.
+15
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+Öğrencinin güçlü Öğrenciyi merkeze
+yanlarını, ilgi ve ihti- Planlama alarak amaçları ve
+yaçlarını belirleyin. öğretimi planlayın.
+Hazırlama
+Öğretim
+Öğrencinin güçlü
+Düzenli aralıklarla Değerlendirme yanlarını ve ihtiyaç-
+amaçları inceleyip larını göz önünde
+değerlendirin. bulundurarak
+öğretim yapın.
+Şekil 4. BEP sürecinin aşamaları ve öğretmenlere öneriler
+Ailelerin BEP Sürecindeki
+Rolü Nedir?
+Aileler BEP geliştirme biriminin bir üyesi olarak BEP geliştirme toplantısına katılmalıdır. Ço-
+cuklarının ihtiyaçlarına uygun BEP hazırlanması için ailenin çocuğunun bilgilerini toplantıdaki
+diğer üyelerle paylaşması ve amaçların belirlenmesinde fikir ve önerilerini sunması son derece
+önemlidir. Aileler BEP geliştirme birimi toplantılarına katılamadığı durumlarda toplantıda alınan
+kararların ailenin görüşlerine sunularak paylaşılması gerekmektedir. Aileler alınan kararları
+onayladığında BEP’i imzalamalıdırlar.
+Aileler çocukları hakkında en iyi bilgiye sahip olan kişilerdir. Etkili
+bir şekilde BEP hazırlayabilmek için ailelerin sürecin her aşama-
+sında aktif bir şekilde rol alması çok önemlidir.
+16
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+Okul Yönetiminin BEP Sürecindeki
+Sorumlulukları Nelerdir?
+Özel Eğitim Hizmetleri Yönetmeliği’ne (2018) göre okul müdürü ya da görevlendireceği müdür
+yardımcısı BEP geliştirme biriminin doğal üyesi ve başkanıdır. BEP geliştirme biriminin çalışma
+usül ve esasları okul yönetimince belirlenir.
+Rehber Öğretmen/Psikolojik Danışmanların
+BEP Sürecindeki Sorumlulukları Nelerdir?
+Özel Eğitim Hizmetleri Yönetmeliği’ne (2018) göre Rehber Öğretmen/Psikolojik Danışmanlar
+üye olarak BEP geliştirme birimi toplantılarına katılır. Kendi görev alanıyla ilgili öğrencinin ge-
+lişimini izler ve gerektiğinde birime bilgi verir. Rehberlik ve Psikolojik Danışma Servisi ile BEP
+birimi arasındaki koordinasyonu sağlar.
+Hazırlanmış BEP’te
+Değişiklik Yapılabilir mi?
+Eğitim-öğretim yılının başında BEP’te belirlenen amaçlar, yöntemler, teknikler ve materyal-
+ler uygulama sırasında etkililik anlamında değerlendirilir ve öğrenci düzeyine uygun olmadığı
+görülürse yıl içerisinde değiştirilebilir. Böyle durumlarda amaçların içeriği genişletilebilir, da-
+raltılabilir ya da amaçlar çıkartılıp yenileri eklenebilir. Ayrıca yapılacak düzenlemeler için yeni
+bir BEP toplantısı talep edilebileceği gibi daha önce planlanan BEP geliştirme birimi toplantı-
+sında süreç içerisinde yapılmış olan düzenlemeler hakkında da bilgi verilebilir. Ancak BEP’te
+yapılacak herhangi bir değişiklik durumda ailenin yapılan düzenleme ile ilgili bilgilendirilmesi
+gerekmektedir.
+BEP’in İzlemesi ve Değerlendirilmesi
+Nasıl Yapılır?
+1. Öğretim süresince: Öğretim süresince BEP’te belirtilen amaçlara ulaşılıp ulaşılmadı-
+ğının anlaşılması ve öğrencinin performans değişikliklerini gözlemlemek için değerlen-
+17
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+dirme yapılması önemlidir. Yapılacak bu değerlendirmelerle hem öğrencinin performansı
+takip edilebilir hem de öğretim içeriğinin planlanması için gerekli bilgilere ulaşılabilir.
+2. Yılsonu: Eğitim-öğretim yılının sonunda BEP’te yer alan amaçlara ne düzeyde ulaşıldığı-
+nı görmek için değerlendirme yapılmalıdır. BEP’te yer alan ve ulaşılamayan amaçlar var-
+sa bir sonraki eğitim-öğretim yılına nasıl aktarılıp aktarılamayacağının kararı verilmelidir.
+BEP Kontrol Listesi
+Evet Hayır Diğer (Belirtiniz)
+Öğrenci ile ilgili gerekli bilgiye ulaşıldı mı?
+Ailenin görüş ve önerileri dikkate alındı mı?
+Öğrencinin eğitsel performansı uygun olarak ifade edildi mi?
+İfadeler açık ve anlaşılır bir şekilde yazıldı mı?
+Uzun dönemli amaçlar öğrenci için işlevsel mi?
+Hazırlama
+Süreci Destek eğitim hizmetine ilişkin bilgiler belirlendi mi? (örn. türü,
+süresi ve kimlerin vereceği vb.)
+Eğitim ortamına ilişkin düzenlemelerden bahsedildi mi?
+Varsa davranış problemlerini önlemeye/azaltmaya yönelik tedbir-
+lere yönelik yöntem ve teknikler belirlendi mi?
+Öğretim ve değerlendirmede kullanılacak yöntem ve teknikler ile
+öğretim materyalleri uygun bir şekilde ifade edildi mi?
+Belirtilen amaçlara uygun öğretim yöntem ve teknikleri kullanıldı
+mı?
+Eğitim ortamına ilişkin düzenlemeler yapıldı mı?
+Uygulama
+Süreci
+Diğer eğitim hizmetleri (destek eğitim odası, tamamlayıcı eğitim
+vb.) etkili bir şekilde sağlandı mı?
+Aile çocuğunun eğitiminde aktif bir şekilde rol aldı mı?
+Amaçlara uygun olarak öğretim sırasında ve sonrasında değerlen-
+dirme yapıldı mı?
+İzleme
+Süreci
+Ulaşılamayan amaçlar varsa bir sonraki eğitim-öğretim yılına nasıl
+aktarılıp aktarılamayacağının kararı verildi mi?
+18
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+Yararlanılan Kaynaklar
+Bireyselleştirilmiş Eğitim Programı Yol Haritası (2004) Millî Eğitim Bakanlığı, Özel Eği-
+tim Rehberlik ve Danışma Hizmetleri Genel Müdürlüğü https://orgm.meb.gov.tr/meb_
+iys_dosyalar/2013_09/18015222_bireyselletirilmieitimprogram.pdf [Son Erişim Tarihi:
+17.08.2022]
+Guidelines on the Individual Education Plan Process [Bireyselleştirilmiş Eğitim Plan ve
+Süreç Yönergesi] (2006) Guidelines on the Individual Education Plan Process by the
+National Council for Special Education [NCSE], Stationery Office, Dublin. https://ncse.ie/
+wp-content/uploads/2014/10/final_report.pdf [Son Erişim Tarihi: 23.05.2022]
+Heward, W. L., Alber-Morgan, S. R., & Konrad, M. (2017) Exceptional children: An introdu-
+ction to special education (11th ed.) [Olağan Dışı Çocuklar: Özel Eğitime Giriş], Pearson.
+ISBN: 978-0-13-420267-9
+Individual Education Planning Summary Guide [Bireyselleştirilmiş Eğitim Planı Özet Reh-
+ber] (2020) State of Victoria, Department of Education and Training. https://www.educa-
+tion.vic.gov.au/PAL/iep-summary-guide.pdf [Son Erişim Tarihi: 17.08.2022]
+Millî Eğitim Bakanlığı Okul Öncesi Eğitim ve İlköğretim Kurumları Yönetmeliği (2014)
+https://www.resmigazete.gov.tr/eskiler/2014/07/20140726-4.htm [Son Erişim Tarihi:
+17.08.2022]
+Millî Eğitim Bakanlığı Ortaöğretim Kurumları Yönetmeliği (2020) https://www.resmiga-
+zete.gov.tr/eskiler/2020/09/20200902-3.htm [Son Erişim Tarihi: 17.08.2022]
+Millî Eğitim Bakanlığı Özel Eğitim Hizmetleri Yönetmeliği (2018) https://orgm.meb.gov.
+tr/meb_iys_dosyalar/2021_09/13145613_Ozel_EYitim_Hizmetleri_YonetmeliYi_son.
+pdf [Son Erişim Tarihi: 23.05.2022]
+19
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-1 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örnek Format
+BİREYSELLEŞTİRİLMİŞ EĞİTİM
+PROGRAMI DOSYASI
+ÖĞRENCİNİN
+ADI SOYADI :
+OKULU :
+NUMARASI :
+20
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-1
+I- ÖĞRENCİ BİLGİLERİ
+Öğrenci ile ilgili bilgiler
+Adı-Soyadı
+Sınıfı
+Okul numarası
+Doğum tarihi
+İl/ilçe özel eğitim hizmetleri yerleştirme kurul kararı
+Özel eğitim ihtiyacına yönelik aldığı eğitsel tanı
+Varsa daha önce aldığı okul içi ve okul dışı destek eğitim hizmetleri ve
+süresi*
+Varsa almakta olduğu okul dışı destek eğitim hizmetleri ve süresi**
+Varsa kullandığı destek materyalleri/cihazlar (protez, işitme cihazı,
+baston, büyüteç vb.)
+Önemli sağlık bilgileri (alerji, sürekli kullandığı ilaç, tüketmesi sakıncalı
+gıdalar vb.)
+Eğitim ortamına ilişkin düzenlemeler***
+BEP Başlangıç Tarihi
+BEP Bitiş Tarihi
+Aile ile İlgili Bilgiler
+Anne Baba Veli/Vasi
+Adı-Soyadı
+Telefon
+Ev Adresi
+İş Adresi
+*Öğrencinin daha önce almış olduğu okul içi ve okul dışı destek eğitim hizmetleri (destek eğitim odası, özel eğitim ve rehabi-
+litasyon vb.) süresi ile birlikte bu kısma yazılmalıdır.
+**Öğrencinin BEP tamamlanma tarihine kadar aldığı/alacağı okul dışı destek eğitim hizmetleri (özel eğitim ve rehabilitasyon
+merkezi, yaygın eğitim kursları vb.) süresi ile birlikte bu kısma kaydedilmelidir.
+*** Eğitim-öğretim yılı boyunca öğrencinin bireysel ihtiyaçlarına uygun olarak sınıf içi ve sınıf dışında yapılacak fiziki ortam
+düzenlemesi (sınıf içi oturma düzeni, ışık ayarlaması vb.) eklenmelidir.
+21
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-1
+II – EĞİTSEL PERFORMANS FORMU*
+Öğrencinin Gelişim Öyküsü
+Gelişim alanları/Dersler Performans düzeyi
+Varsa davranış problemini tanımlayınız.**
+Not: *Öğrencinin takip ettiği program esas alınarak, öğrencinin güçlü yanlarını belirlemek ve yıl içerisinde öğrencinin geliştir-
+mesi beklenen gelişim alanlarına/derslere ilişkin amaçların tespit edilebilmesi için informal değerlendirme araçları kullanılarak
+(gözlem, görüşme, kaba değerlendirme formları, yazılı sınavlar vb.) bu form doldurulmalıdır. Öğrencinin gelişim düzeyine ve
+bireysel ihtiyaçlarına göre gelişim alanları/dersler düzenlenebilir.
+**Öğrencinin davranış problemi varsa davranış problemlerinin azaltılmasına yönelik davranış değiştirme programı hazırlanma-
+lıdır.
+22
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+23
+1-KE
+INALP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+–
+III
+emridnelreğeD-emçlÖ
+amalşaB
+kacalınalluK
+snamrofreP
+emridnelreğeD
+şitiB
+ev
+kinkeT
+ev
+metnöY
+*tüçlÖ
+ralçamA
+ilmenöD
+asıK
+ralçamA
+ilmenöD
+nuzU
+emridnelreğeD
+rellayretaM
+/
+)+(
+ilreteY
+ev
+metnöY
+ihiraT
+irelhiraT
+)-(
+ilemliritşileG
+irelkinkeT
+IDA
+SRED/NALA
+MİŞİLEG
+IDA
+SRED/NALA
+MİŞİLEG
+**:irelemelnezüd
+ımatro
+mitiğE
+;niğenrÖ
+.rıdılamlızay
+yezüd
+o
+esi
+kacalıyas
+ılıraşab
+edemened
+çak
+şınarvad
+nenetsi
+kamlırıdnazak
+nekrılızay
+)iyezüD
+emşelkeçreG(
+tüçlÖ*
+;tüçlÖ
+*
+)001%(
+5/5
+esi
+kacalıyas
+ılıraşab
+adnımamat
+ninemened
+5
+)08%(
+5/4
+esi
+kacalıyas
+ılıraşab
+icnerğö
+ednü’4
+ninemened
+5
+.rıdılamlızay
+ednilkeş
+)06%(
+5/3
+esi
+kacalıyas
+ılıraşab
+icnerğö
+ednü’3
+ninemened
+5
+-nelnezüd
+kilenöy
+anıralçayithi
+ninicnerğö
+nınıravutarobal
+nef
+.nrö(
+relemelnezüd
+kacalıpay
+nikşili
+anınala
+mişileg/esred
+nenelrileb
+kilenöy
+anıralçama
+ninicnerğÖ
+:irelemelnezüd
+ımatro
+mitiğE**
+.ridilemnelke
+).bv
+irelemelnezüd
+ilayretam
+miterğö
+,isem
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+24
+1-KE
+IRALRARAK
+MİRİB
+EMRİTŞİLEG
+PEB
+-VI
+).bv
+iteyilaaf
+mitiğe
+ıcıyalmamat
+,ısamalugyu
+kılrızah
+enimitiğe
+purg
+,ısado
+mitiğe
+ketsed(
+ireltemzih
+mitiğe
+reğid
+içi
+luko
+ığacala
+ninicnerğÖ
+.A
+**)rel(işik
+ulmuroS
+*erüS
+kılatfaH
+sreD/ınalA
+mişileG
+ürüT
+temziH
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+25
+1-KE
+icerüs
+emridneliglib
+eliA
+.B
+?keceliridneliglib
+alkılkıs
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+züy/içimirveç
+,nofelet(
+?keceliridneliglib
+alloy
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+).bv
+ılızay
+,ıtnalpot
+ezüy
+)
+(
+rıyaH
+)
+(
+tevE
+?ım
+kacalıpay
+imitiğe
+eliA
+).bv
+ılızay
+,ıtnalpot
+ezüy
+züy/içimirveç
+,nofelet(
+?kacalıpay
+alloy
+ignah
+imitiğe
+eliA
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+26
+1-KE
+ralraraK
+reğiD
+.C
+.1 .2 .3
+…02/.../...
+:
+ihirat
+ıtnalpot
+imirib
+emritşileg
+PEB
+ikarnoS
+riB
+*isemridnelreğeD
+PEB
+leneG
+-nucunos
+emridnelreğed
+uB
+.rılıpay
+isemliridnelreğed
+ni’PEB
+nanalrızah
+kereliridnelreğed
+karalo
+leneg
+iyezüd
+amlışalu
+aralçama
+nala
+rey
+edniğireçi
+PEB
+niçi
+icnerğö
+acnuyob
+ılıy
+miterğö-mitiğE*
+.rıtkacalo
+edniğiletin
+irenö
+edni’PEB
+kacanalrızah
+niçi
+ılıy
+miterğö-mitiğe
+ikarnos
+rib
+ninicnerğö
+ad
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-1
+V- BEP GELİŞTİRME BİRİM ÜYELERİ
+BEP Geliştirme Birimi Üyeleri
+Ünvanı Adı Soyadı İmza
+Müdür/Müdür Yardımcısı (BEP Geliştirme Birim Başkanı)
+Öğrencinin Velisi (Anne/Baba/Yasal Vasi)
+Öğrencinin Sınıf Öğretmeni
+Öğrencinin Dersini Okutan Alan Öğretmenleri
+Branşı 1
+Branşı 2
+Branşı 3
+Rehber Öğretmen/Psikolojik Danışman
+Özel Eğitim Değerlendirme Kurulundan Üye (Varsa)
+Mesleki Eğitim Veren Özel Eğitim Okullarında Meslek Derslerini Okutan Alan Öğretmeni
+Branşı 1
+Branşı 2
+Branşı 3
+Diğer
+Uygundur
+Okul Müdürü
+.........../.........../20...........
+27
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-2 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği (Okul Öncesi –
+Dil Konuşma Bozukluğu ve Otizm Spektrum Bozukluğu)*
+BİREYSELLEŞTİRİLMİŞ EĞİTİM
+PROGRAMI DOSYASI
+ÖĞRENCİNİN
+ADI SOYADI : Es*** KA***
+OKULU : ..................... Okulu
+NUMARASI : 32
+*Örneğin gerçek kişi ve kurumlarla ilgisi bulunmamaktadır.
+28
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-2
+I- ÖĞRENCİ BİLGİLERİ
+T.C
+........................................ Valiliği/Kaymakamlığı
+İl/İlçe Millî Eğitim Müdürlüğü
+........................................ Okulu
+20..... - 20..... Eğitim ve Öğretim Yılı
+Bireyselleştirilmiş Eğitim Programı Dosya
+Adı-Soyadı Es*** Ka***
+Sınıfı 3-4 yaş Özel Eğitim Anasınıfı
+Okul numarası 32
+Doğum tarihi 10.02.2019
+İl/ilçe özel eğitim hizmetleri yerleştirme kurul kararı ......................... tarihli ve .................. nolu İlçe Kurul Kararı
+Özel eğitim ihtiyacına yönelik aldığı eğitsel tanı Otizm Spektrum Bozukluğu/Dil ve Konuşma Bozukluğu
+Varsa daha önce aldığı okul içi ve okul dışı destek eğitim hizmetleri ve Özel eğitim ve rehabilitasyon merkezinde bireysel ve grup
+süresi* eğitimi alıyor.
+Özel eğitim ve rehabilitasyon merkezinde haftada 2 saat
+Varsa almakta olduğu okul dışı destek eğitim hizmetleri ve süresi**
+bireysel, 1 saat grup eğitimi alıyor.
+Varsa kullandığı destek materyalleri/cihazlar (protez, işitme cihazı,
+Yok
+baston, büyüteç vb.)
+Önemli sağlık bilgileri (alerji, sürekli kullandığı ilaç, tüketmesi sakıncalı
+Yok
+gıdalar vb.)
+Okul ortamına ve tam zamanlı eğitime başlayacağı ilk eği-
+tim-öğretim yılı olacağı için masa başı etkinliklerin yanı sıra
+Eğitim ortamına ilişkin düzenlemeler***
+oyun halısı üzerinde etkinliklere dönüşümlü olarak yer veril-
+melidir.
+BEP Başlangıç Tarihi 2.10.2022
+BEP Bitiş Tarihi 17.06.2023
+Aile ile İlgili Bilgiler
+Anne Baba Veli/Vasi
+Adı-Soyadı Ay*** KA*** Mu*** KA***
+Telefon 05******* 05*****
+Ev Adresi
+İş Adresi
+*Öğrencinin daha önce almış olduğu okul içi ve okul dışı destek eğitim hizmetleri (destek eğitim odası, özel eğitim ve rehabi-
+litasyon vb.) süresi ile birlikte bu kısma yazılmalıdır.
+**Öğrencinin BEP tamamlanma tarihine kadar aldığı/alacağı okul dışı destek eğitim hizmetleri (özel eğitim ve rehabilitasyon
+merkezi, yaygın eğitim kursları vb.) süresi ile birlikte bu kısma kaydedilmelidir.
+***Eğitim-öğretim yılı boyunca öğrencinin bireysel ihtiyaçlarına uygun olarak sınıf içi ve sınıf dışında yapılacak fiziki ortam
+düzenlemesi (sınıf içi oturma düzeni, ışık ayarlaması vb.) eklenmelidir.
+29
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-2
+II – EĞİTSEL PERFORMANS FORMU*
+Esra 18 aylık iken göz kontağı kurma, alıcı dil ve ifade edici dilde akranları ile arasında
+belirgin şekilde farkın olduğu gözlemlenince çocuk psikiyatrı ile tıbbi tanılama süreci
+başlatılmıştır. 24 aylık iken otizm tanısı konulmuş ve eğitsel tanılama ile süreç başla-
+Öğrencinin Gelişim Öyküsü mıştır. 2 yaştan itibaren düzenli olarak özel eğitim ve rehabilitasyon merkezine devam
+etmektedir. Aynı zamanda dil ve konuşma bozukluğuna yönelik olarak dil ve konuşma
+terapistinden destek alınmaktadır. Tam zamanlı eğitim ortamındaki ilk eğitim-öğretim
+yılıdır.
+Gelişim alanları/Dersler Performans düzeyi
+Yetişkinle birlikte kitap ya da resimlere en az 2 dakika süreyle bakar. İsteklerini bil-
+Bilişsel Gelişim Alanı dirmek için işaret etme, uzanma, gösterme gibi jestleri kullanır. İki elindeki nesneyi
+birbirine vurarak ya da sürterek sesler çıkarır.
+Çevresinde duyduğu sese dikkatini verir. Adı söylendiğinde yaptığı işi durdurarak, dö-
+Alıcı Dil Gelişim Alanı
+nerek, bakarak ya da ses çıkararak tepki verir.
+Memnuniyet ve memnuniyetsizliğini gösteren seslemeler yapar. İletişim amaçlı ("Ha-
+İfade Edici Dil Gelişim Alanı yır" anlamında başını sallama, eliyle itme gibi) jestler yapar.Babıldarken ya da gülerken
+dikkat çekmek için bağırır.
+Tutunmaya ihtiyaç duymadan merdiven basamaklarını, bir ayağının yanına diğerini ge-
+tirerek çıkar. Koordineli koşar. Topa ayakla vuruş sonrası dengesini korur. Tenis topu
+Psiko Motor (kaba- motor/ ince motor) Gelişim
+büyüklüğü ve şeklindeki nesneleri parmakları ile kavrar. Halka biçimindeki nesneleri
+Alanı
+bir yere takma-çıkarma yapar. Açılıp kapanan nesneleri açar ve kapar.Kapı kolu gibi,
+kavradığı nesneye kuvvet uygulayarak kendine doğru çeker.
+Ağlayan akranına dikkatini yönelterek etkileşime girer. Sıkıntılı zamanlarında, bakım
+veren kişiye belirgin bağlılık gösterir. Aşırı uyarıcı bir etkinlikten uzaklaşarak sıkıntıdan
+Sosyal Duygusal Gelişim Alanı
+kaçınır. Ağladığında avutulmak için yetişkine döner.Başka bir çocukta olan ve ilgisini
+çeken oyuncağı almaya çalışır ya da alır.
+Yemek istemediği yiyecekleri davranışlarıyla belli eder. İçecekleri yutar. Küçük lokma-
+ları elleriyle yer. Yetişkin tarafından tutulan bardaktan sıvı içer. Farklı yiyeceklerden
+Uyumsal Beceriler Gelişim Alanı
+hoşlanıp hoşlanmadığını hareketleriyle gösterir. Kollarını ve bacaklarını uzatarak ve /
+veya hareket ettirerek giydirilmesine yardımcı olur.
+Esra 1 ders saati süresince aralıklarla sırasından kalkarak ellerini çırpınma şeklinde
+Varsa davranış problemini tanımlayınız.**
+yaparak streotipik şekilde yerinde zıplıyor.
+*Öğrencinin takip ettiği program esas alınarak, öğrencinin güçlü yanlarını belirlemek ve yıl içerisinde öğrencinin geliştirmesi
+beklenen gelişim alanlarına/derslere ilişkin amaçların tespit edilebilmesi için informal değerlendirme araçları kullanılarak
+(gözlem, görüşme, kaba değerlendirme formları, yazılı sınavlar vb.) bu form doldurulmalıdır. Öğrencinin gelişim düzeyine ve
+bireysel ihtiyaçlarına göre gelişim alanları/dersler düzenlenebilir.
+* *Öğrencinin davranış problemi varsa davranış problemlerinin azaltılmasına yönelik davranış mdeğiştirme programı hazırlan-
+malıdır.
+30
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+31
+2-KE
+INALP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+–
+III
+emridnelreğeD-emçlÖ
+ev
+amalşaB
+kacalınalluK
+irelkinkeT
+ev
+metnöY
+miterğÖ
+*tüçlÖ
+ralçamA ilmenöD asıK
+ralçamA
+ilmenöD
+nuzU
+/
+)+(
+ilreteY
+snamrofreP
+emridnelreğeD
+ihiraT
+şitiB
+rellayretaM
+irelhiraT
+emridnelreğeD
+)-(
+ilemliritşileG
+irelkinkeT
+ev
+metnöY
+IDA
+SRED/NALA
+MİŞİLEG
+sred
+kli
+ünüg
+amuC
+atfah
+reH
+2202/01/10
+imetnöy
+pay-retsöG
+initekerah
+empö edniğidliretsög
+arsE
+.1.1
+tset
+ılmığab
+tüçlÖ
+ıraltrak
+miser
+)5/5(001%
+itaas
+2202/01/03
+)miterğö
+şımlırıdnalkamasab(
+.rapay
+zısmığab
+sred
+kli
+ünüg
+amuC
+atfah
+reH
+2202/01/10
+imetnöy
+pay-elyöS
+initekerah
+empö edniğidnelyös
+arsE
+.2.1
+tset
+ılmığab
+tüçlÖ
+ıraltrak
+miser
+)5/5(001%
+itaas
+2202/01/03
+)miterğö
+şımlırıdnalkamasab(
+.rapay karalo
+zısmığab
+emte
+tilkat
+inireltekerah
+züY
+.1.1
+sred
+kli
+ünüg
+amuC
+atfah
+reH
+2202/01/10
+imetnöy
+pay-retsöG
+nınığadud
+inilid edniğidliretsög
+arsE
+.3.1
+.rapay
+ıralamşılaç
+tset
+ılmığab
+tüçlÖ
+oediv
+,ıraltrak
+miser
+)5/5(001%
+itaas
+2202/01/03
+)miterğö
+şımlırıdnalkamasab(
+.riritte
+tekerah karalo zısmığab
+ednirezü
+sred
+kli
+ünüg
+amuC
+atfah
+reH
+2202/01/10
+imetnöy
+pay-elyöS
+nınığadud
+inilid edniğidnelyös
+arsE
+.4.1
+tset
+ılmığab
+tüçlÖ
+oediv
+,ıraltrak
+miser
+)5/5(001%
+itaas
+2202/01/03
+)miterğö
+şımlırıdnalkamasab(
+.riritte
+tekerah karalo zısmığab
+ednirezü
+icniki
+ünüg
+ılaS
+atfah
+reH
+2202/11/10
+ensen
+eli
+frah
+ilses
+zısmığab
+irelfrah ilses nelinelyös
+arsE
+.1.2
+emte
+tilkat
+ınıralnot
+seS
+.1.2
+tset
+ılmığab
+tüçlÖ
+miterğÖ
+alyucupİ
+ılnamazşE
+)5/5(001%
+itaas
+sred
+2202/21/10
+raltrak
+ilmiser
+ayev
+.rede
+rarket
+karalo
+.rapay
+inirelkilknikte
+ünüg
+ebmeşreP
+atfah
+reH
+2202/21/10
+zısmığab
+iyeceh ilses iki nenelyös
+arsE
+.1.3
+tset
+ılmığab
+tüçlÖ
+ıraltrak
+miser
+miterğÖ
+alyucupİ
+ılnamazşE
+)5/5(001%
+itaas
+sred
+ücnüçü
+3202/10/10
+.rede
+tilkat
+karalo
+emte
+tilkat
+ireleceH
+.1.3
+ünüg
+ebmeşreP
+atfah
+reH
+3202/10/20
+,ıraltrak
+miser
+zısmığab
+iyeceh ilses çü nenelyös
+arsE
+.2.3
+.rapay
+ıralamşılaç
+tset
+ılmığab
+tüçlÖ
+miterğÖ
+alyucupİ
+ılnamazşE
+)5/5(001%
+itaas
+sred
+ücnüçü
+3202/10/81
+relensen
+.rede
+tilkat
+karalo
+nos
+ünüg
+amuC
+atfah
+reH
+3202/20/20
+,ıraltrak
+miser
+zısmığab
+irelküczös ileceh
+ket arsE
+.1.4
+tset
+ılmığab
+tüçlÖ
+miterğÖ
+alyucupİ
+ılnamazşE
+)5/5(001%
+itaas
+sred
+3202/20/81
+relensen
+.rede
+tilkat
+karalo
+nos
+ünüg
+amuC
+atfah
+reH
+3202/20/91
+,ıraltrak
+miser
+irelküczös
+naşulo nedeceh
+iki arsE
+. .2.4
+emte
+tilkat
+irelküczöS
+.1.4
+tset
+ılmığab
+tüçlÖ
+miterğÖ
+alyucupİ
+ılnamazşE
+)5/5(001%
+itaas
+sred
+3202/30/10
+relensen
+.rede tilkat karalo
+zısmığab
+.rapay
+ıralamşılaç
+nos
+ünüg
+amuC
+atfah
+reH
+3202/30/20
+,ıraltrak
+miser
+naşulo
+nedeceh
+alzaf ahad ayev
+çü arsE
+.3.4
+tset
+ılmığab
+tüçlÖ
+miterğÖ
+alyucupİ
+ılnamazşE
+)5/5(001%
+itaas
+sred
+3202/30/03
+relensen
+.rede
+tilkat karalo zısmığab
+irelküczös
+adnığıtşalışrak
+alyısakşab
+rib arsE
+.1.5
+luko
+ünüg
+abmaşraÇ
+atfah
+reH
+2202/01/10
+alyısamlıtlazA
+kerediG
+nunucupİ
+tset
+ılmığab
+tüçlÖ
+raloediv
+)5/5(001%
+”abahrem
+/nıdyanüg“ karalo
+zısmığab
+ednireltaas
+şıkıç
+ev
+şirig
+3202/60/51
+miterğÖ
+.rınalluk
+ünüğüczös
+nadmatro uğudnulub
+arsE
+.2.5
+kamşaladev/
+kamşalmaleS
+.1.5
+luko
+ünüg
+abmaşraÇ
+atfah
+reH
+2202/01/10
+alyısamlıtlazA
+kerediG
+nunucupİ
+tset
+ılmığab
+tüçlÖ
+raloediv
+)5/5(001%
+/lakaçşoh“
+karalo zısmığab
+nekrılırya
+irelküczös/ireltekerah
+nalınalluk
+niçi
+ednireltaas
+şıkıç
+ev
+şirig
+3202/60/51
+miterğÖ
+.rınalluk ünüğüczös”’zürüşürög
+.rınalluk
+ednirey
+amşaladev /amşalmales
+arsE
+.5
+luko
+ünüg
+abmaşraÇ
+atfah
+reH
+2202/01/10
+alyısamlıtlazA
+kerediG
+nunucupİ
+tset
+ılmığab
+tüçlÖ
+raloediv
+)5/5(001%
+nugyu
+adnımaşay külnüg
+inirelküczös
+ednireltaas
+şıkıç
+ev
+şirig
+3202/60/51
+miterğÖ
+.rınalluk
+karalo zısmığab
+adralnamaz
+.rıdatkamamluyud
+çayithi eyemelnezüd
+rib ignahreH
+**:irelemelnezüd
+ımatro
+mitiğE
+;niğenrÖ
+.rıdılamlızay
+yezüd
+o esi
+kacalıyas
+ılıraşab
+edemened
+çak
+şınarvad
+nenetsi
+kamlırıdnazak
+nekrılızay
+)iyezüD
+emşelkeçreG(
+tüçlÖ*
+;tüçlÖ
+*
+)001%(
+5/5 esi kacalıyas
+ılıraşab
+adnımamat
+ninemened
+5
+)08%(
+5/4 esi kacalıyas
+ılıraşab
+icnerğö
+ednü’4
+ninemened
+5
+.rıdılamlızay
+ednilkeş
+)06%(
+5/3 esi kacalıyas
+ılıraşab
+icnerğö
+ednü’3
+ninemened
+5
+ilayretam
+miterğö
+,isemnelnezüd
+kilenöy
+anıralçayithi
+ninicnerğö
+nınıravutarobal
+nef
+.nrö(
+relemelnezüd
+kacalıpay
+nikşili
+anınala
+mişileg/esred
+nenelrileb
+kilenöy
+anıralçama ninicnerğÖ
+:irelemelnezüd
+ımatro
+mitiğE**
+.ridilemnelke
+).bv
+irelemelnezüd
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+32
+2-KE
+IRALRARAK
+MİRİB
+EMRİTŞİLEG
+PEB
+-VI
+).bv
+iteyilaaf
+mitiğe
+ıcıyalmamat
+,ısamalugyu
+kılrızah
+enimitiğe
+purg
+,ısado
+mitiğe
+ketsed(
+ireltemzih
+mitiğe
+reğid
+içi
+luko
+ığacala
+ninicnerğÖ
+.A
+)rel(işik
+ulmuroS
+erüS
+kılatfaH
+sreD/ınalA
+mişileG
+ürüT
+temziH
+koY
+koY
+icerüS
+emridneligliB
+eliA
+.B
+karalo
+kilenöy
+aralçama
+neliritşelkeçreg
+ev
+nede
+maved
+ayamlıpay
+imiterğö
+edlikeş
+kacalo
+ılızay
+ev
+ezüyzüy
+ünüg
+şi
+nos
+nıya
+reH
+?keceliridneliglib
+alkılkıs
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+.rılıpay
+emridneliglib
+,nofelet(
+?keceliridneliglib
+alloy
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+ılızay
+ev
+ezüy
+züY
+).bv
+ılızay
+,ıtnalpot
+ezüy
+züy/içimirveç
+) x
+(
+tevE
+?ım
+kacalıpay
+imitiğe
+eliA
+)
+(
+rıyaH
+,ıtnalpot
+ezüy
+züy/içimirveç
+,nofelet(
+?kacalıpay
+alloy
+ignah
+imitiğe
+eliA
+ezüy
+züY
+).bv
+ılızay
+ralraraK
+reğiD
+.C
+.rıtkacanalugyu
+karanalrızah
+ımargorp
+emritşiğed
+şınarvad
+pulo
+kacalıpay
+uruvşab
+imser
+niçi
+kılnamşınad
+nednizekrem
+amrıtşara
+ev
+kilrebher
+kilenöy
+anısamlıtlaza
+ninimelborp
+şınarvad
+niyeriB
+.1 .2 .3
+3202/20/01
+: ihirat
+ıtnalpot
+imirib
+emitşileg
+PEB
+ikarnoS
+riB
+.rıtşımlırıdnazak
+elyümüt
+ederüs
+nanalnalp
+,ralçama
+nanıla
+et’PEB
+:*İSEMRİDNELREĞED
+PEB
+LENEG
+-nucunos
+emridnelreğed
+uB
+.rılıpay
+isemliridnelreğed
+ni’PEB
+nanalrızah
+kereliridnelreğed
+karalo
+leneg
+iyezüd
+amlışalu
+aralçama
+nala
+rey
+edniğireçi
+PEB
+niçi
+icnerğö
+acnuyob
+ılıy
+miterğö-mitiğE*
+.rıtkacalo
+edniğiletin
+irenö
+edni’PEB
+kacanalrızah
+niçi
+ılıy
+miterğö-mitiğe
+ikarnos
+rib
+ninicnerğö
+ad
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-2
+V- BEP GELİŞTİRME BİRİM ÜYELERİ
+BEP Geliştirme Birimi Üyeleri
+Ünvanı Adı Soyadı İmza
+Müdür/Müdür Yardımcısı (BEP Geliştirme Birimi Başkanı)
+Öğrencinin Velisi (Anne/Baba/Yasal Vasi)
+Öğrencinin Sınıf Öğretmeni
+Öğrencinin Dersini Okutan Alan Öğretmenleri
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Rehber Öğretmen/Psikolojik Danışman
+Özel Eğitim Değerlendirme Kurulundan Üye (Varsa)
+Mesleki Eğitim Veren Özel Eğitim Okullarında Meslek Derslerini Okutan Alan Öğretmeni
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Diğer
+Uygundur
+Okul Müdürü
+.........../.........../20...........
+33
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-3 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği (Okul Öncesi –
+Otizm Spektrum Bozukluğu)*
+BİREYSELLEŞTİRİLMİŞ EĞİTİM
+PROGRAMI DOSYASI
+ÖĞRENCİNİN
+ADI SOYADI : Re*** YI***
+OKULU : ..................... Okulu
+NUMARASI : 118
+*Örneğin gerçek kişi ve kurumlarla ilgisi bulunmamaktadır.
+34
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-3
+I- ÖĞRENCİ BİLGİLERİ
+T.C
+........................................ Valiliği/Kaymakamlığı
+İl/İlçe Millî Eğitim Müdürlüğü
+........................................ Okulu
+20..... - 20..... Eğitim ve Öğretim Yılı
+Bireyselleştirilmiş Eğitim Programı Dosyası
+Adı-Soyadı Re*** YI***
+Sınıfı 5 yaş A şubesi
+Okul numarası 118
+Doğum tarihi 25.08.2016
+İl/ilçe özel eğitim hizmetleri yerleştirme kurul kararı ......................... tarihli ve .................. nolu İlçe Kurul Kararı
+Özel eğitim ihtiyacına yönelik aldığı eğitsel tanı Hafif Düzeyde Otizm Spektrum Bozukluğu
+2021-2022 eğitim-öğretim döneminde eğitsel değerlendirmesi
+ve tanılaması yapılmış, özel eğitim ve rehabilitasyon hizmetin-
+Varsa daha önce aldığı okul içi ve okul dışı destek eğitim hizmetleri ve den 2 saat bireysel 1 saat grup eğitimi olmak üzere haftada
+süresi* toplam 3 saat yararlanmaya başlamıştır. Ayrıca geçen yıl BEP
+geliştirme ekibince haftalık 4 saat destek eğitim odasında özel
+eğitim hizmetinden yararlanması uygun görülmüş.
+2 saat bireysel 1 saat grup eğitimi olmak üzere haftada
+Varsa almakta olduğu okul dışı destek eğitim hizmetleri ve süresi** toplam 3 saat özel eğitim ve rehabilitasyon merkezinden
+faydalanmaktadır.
+Varsa kullandığı destek materyalleri/cihazlar (protez, işitme cihazı,
+…………………………………..
+baston, büyüteç vb.)
+Önemli sağlık bilgileri (alerji, sürekli kullandığı ilaç, tüketmesi sakıncalı
+…………………………………..
+gıdalar vb.)
+Eğitim ortamına ilişkin düzenlemeler*** …………………………………….
+BEP Başlangıç Tarihi 26.09.2022
+BEP Bitiş Tarihi 9.06.2023
+Aile ile İlgili Bilgiler
+Anne Baba Veli/Vasi
+Adı-Soyadı Ha*** YI*** Ad*** YI***
+Telefon 05** *** ** ** 05** *** ** **
+Ev Adresi
+İş Adresi
+*Öğrencinin daha önce almış olduğu okul içi ve okul dışı destek eğitim hizmetleri (destek eğitim odası, özel eğitim ve rehabi-
+litasyon vb.) süresi ile birlikte bu kısma yazılmalıdır.
+**Öğrencinin BEP tamamlanma tarihine kadar aldığı/alacağı okul dışı destek eğitim hizmetleri (özel eğitim ve rehabilitasyon
+merkezi, yaygın eğitim kursları vb.) süresi ile birlikte bu kısma kaydedilmelidir.
+***Eğitim-öğretim yılı boyunca öğrencinin bireysel ihtiyaçlarına uygun olarak sınıf içi ve sınıf dışında yapılacak fiziki ortam
+düzenlemesi (sınıf içi oturma düzeni, ışık ayarlaması vb.) eklenmelidir.
+35
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-3
+II – EĞİTSEL PERFORMANS FORMU*
+Okul öncesi öğretmeni Refik’in oyun saatlerinde arkadaşlarından bağımsız olarak oyun
+oynadığını, tüm arkadaşları birbirleriyle oyun oynarken kendi başına ve sadece ara-
+bayla oynadığını, arabanın tekerleklerine ilgi duyduğunu ve uygun olmayan yerlerde
+eşofmanını/pantolonunu indirdiğini fark etmiştir. Gün sonunda sınıf arkadaşları eşyala-
+rını dolaplarından alarak öğretmenlerine ‘Hoşçakal’ demesine rağmen bireyin eşyalarını
+dolaptan almadan ve öğretmenine ‘Hoşçakal’ demeden sınıfı terk ettiğini de gözlemle-
+miştir. Öğrencinin akranlarından farklı tutum ve davranışlar sergilemesi üzerine nasıl
+bir yol izleyeceği konusunda bilgi sahibi olmak için öğretmeni okulun bağlı bulunduğu
+Öğrencinin Gelişim Öyküsü
+bölgedeki rehberlik ve araştırma merkezini aramıştır. Alan uzmanından aldığı bilgiler
+ışığında velisi ile görüşmüş ve Refik’in hastaneye yönlendirilmesi ile ilgili gerekli işlem-
+leri başlatmıştır. Çocuk psikiyatristi tarafından yapılan tıbbi tanılama sonucunda otizm
+spektrum bozukluğu tanısı konulmuştur. Ailenin rehberlik ve araştırma merkezinde-
+ki randevusunda yapılan eğitsel tanılama ve değerlendirme sonucunda öğrenci hafif
+düzeyde otizm spektrum bozukluğu tanısı ile tam zamanlı kaynaştırma/bütünleştirme
+yoluyla eğitim öğretimine devam etmesi yönünde yönlendirme kararı, il/ilçe özel eğitim
+hizmetleri kurulu kararında ise devam ettiği sınıfa yerleştirme kararı çıkmıştır.
+Gelişim alanları/Dersler Performans düzeyi
+Motor Gelişim Alanı Refik akranları ile aynı gelişim düzeydedir.
+Nesne/durum/olayla ilgili tahminde bulunur. Algıladıklarını bağımsız hatırlar, nesneleri
+sayar. Nesne veya varlıkları özelliklerine göre eşleştirir. Nesne veya varlıkları özellikle-
+Bilişsel Gelişim Alanı rine göre gruplar ve karşılaştırır/sıralar. Mekânda konumla ilgili yönergeleri uygular.
+Nesneleri ölçer ve geometrik şekilleri ayırt eder. Nesnelerle örüntü oluşturur. Nesnele-
+ri kullanarak basit toplama ve çıkarma işlemlerini yapar. Nesne-sonuç ilişkisi kurar.
+Sesleri ayırt eder, sesi uygun kullanır, söz dizimi kurallarına göre cümle kurar. Konu-
+şurken dilbilgisi yapılarını kullanma, konuşma sırasında göz teması kurma konularında
+Dil Gelişim Alanı güçlük yaşamaktadır. Jest ve mimikleri anlamakta ancak jest ve mimikleri kullanı-
+mında model olma ipucuna ihtiyaç duymaktadır. Konuşmayı başlatma ve sürdürmede
+sözel ipucuna ihtiyaç duyar.
+Kendisine ait özelliklerden adını, soyadını ve yaşını bağımsız söyler, ancak fiziksel
+ve duyuşsal özelliklerini söylemde sözel ipucuna ihtiyaç duyar. Anne babasının adını
+soyadını söyler ancak mesleğini, fiziksel özelliklerini söylerken sözel ipucuna ihtiyaç
+Sosyal - Duygusal Gelişim Alanı
+duyar. Yakın akrabalarının adını söylemekte yardıma ihtiyaç duyar. Değişik ortam-
+larda kurallara uymada güçlük yaşar. Bir olay veya durumla ilgili olarak başkalarının
+duygularını sözel ipucu verildiğinde ifade eder.
+Saçını tarar, dişini fırçalar, elini-yüzünü yıkar, tuvalet ihtiyacını bağımsız gerçekleş-
+tirir. Giysilerini, ayakkabılarını çıkarır-giyer ancak bağcıklarını ve düğme açma-ka-
+pamayı fiziksel yardım sunulduğunda yapar. Beslenmesini katı ve sıvı olarak kendisi
+Özbakım Becerileri yapar ancak miktarını ayarlama konusunda güçlük yaşamaktadır. Beslenme sırasında
+uygun araç gereçleri kullanmaktadır ancak temel güvenlik kurallarını ve kendini
+tehlikelerden koruma davranışını bağımsız olarak yerine getirirken yardıma ihtiyaç
+duymaktadır.
+Varsa davranış problemini tanımlayınız.** Refik uygun olmayan yerlerde eşofmanını/pantolonunu indirir.
+*Öğrencinin takip ettiği program esas alınarak, öğrencinin güçlü yanlarını belirlemek ve yıl içerisinde öğrencinin geliştirmesi
+beklenen gelişim alanlarına/derslere ilişkin amaçların tespit edilebilmesi için informal değerlendirme araçları kullanılarak
+(gözlem, görüşme, kaba değerlendirme formları, yazılı sınavlar vb.) bu form doldurulmalıdır. Öğrencinin gelişim düzeyine ve
+bireysel ihtiyaçlarına göre gelişim alanları/dersler düzenlenebilir.
+* *Öğrencinin davranış problemi varsa davranış problemlerinin azaltılmasına yönelik davranış değiştirme programı hazırlanma-
+lıdır.
+36
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+37
+3-KE
+INALP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+–
+III
+emridnelreğeD-emçlÖ
+ev
+amalşaB
+kacalınalluK
+ev
+metnöY
+miterğÖ
+ilreteY
+snamrofreP
+emridnelreğeD
+emridnelreğeD
+ihiraT
+şitiB
+rellayretaM
+irelkinkeT
+*tüçlÖ
+ralçamA
+ilmenöD
+asıK
+ralçamA
+ilmenöD
+nuzU
+ev
+metnöY
+)-(
+ilemliritşileG
+/ )+(
+irelhiraT
+irelkinkeT
+IDA
+SRED/NALA
+MİŞİLEG
+ünüg
+amuC
+atfah
+reH
+2202.01.30
+)+(ilreteY
+tset
+ılmığab
+tüçlÖ
+ıraltrak
+yalo
+ılarıS
+)5/4(08%
+.ralarıs
+erög
+anısarıs şulo
+ıralyalo
+kifeR
+.1.1
+itaas
+sred
+nos
+2202.21.92
+ünüg
+amuC
+atfah
+reH
+3202.10.20
+,ıraltrak
+yalo
+ılarıS
+oediV
+/miterğÖ
+lağoD
+ıralmarvak
+iligli
+alnamaz
+kifeR
+.1
+)+(ilreteY
+tset
+ılmığab
+tüçlÖ
+tasrıF/miterğÖ
+elledoM
+)5/4(08%
+ralkıça
+edlikeş
+nugyu
+anımalna
+ıralmarvak
+iligli eli
+namaz
+kifeR
+.2.1
+itaas
+sred
+nos
+3202.30.03
+raloediv
+nuyO/imiterğÖ
+.ralkıça
+adnuğudluros
+enisidnek
+ünüg
+amuC
+atfah
+reH
+3202.40.10
+,taas
+,raltrak
+ilmiseR
+)+(ilreteY
+tset
+ılmığab
+tüçlÖ
+)5/4(08%
+.ralkıça
+inirelvelşi
+nıralçara
+neridlib
+namaz
+kifeR
+.3.1
+itaas
+sred
+nos
+3202.60.61
+.bv mivkat
+ebmeşreP
+atfah
+reH
+2202.01.30
+enisidnek
+ıraluglo
+ılşab
+illeb
+iligli
+alyıtayah nü’krütatA
+kifeR
+.1.2
+)+(ilreteY
+tset
+ılmığab
+tüçlÖ
+oediv
+,ıbatik
+sreD
+)5/4(08%
+itaas
+sred
+kli
+ünüg
+2202.21.92
+.relyös
+adnuğudluros
+ebmeşreP
+atfah
+reH
+3202.10.20
+/miterğÖ
+elrelemeneD
+kıryA
+rib
+ilreğed
+nü’krütatA
+.relyös
+inirelkillezö
+lesişik nü’krütatA
+kifeR
+.2.2
+karatınat
+ü’krütatA
+kifeR
+.2
+)+(ilreteY
+tset
+ılmığab
+tüçlÖ
+oediv
+,ıbatik
+sreD
+/imiterğÖ
+tasrıF/yalO
+kenrÖ
+)5/4(08%
+krüT
+adnuğudluros
+enisidnek
+itaas
+sred
+kli
+ünüg
+3202.30.03
+miterğÖ
+nadurğoD
+.relyös
+unuğudlo
+nasni
+.ralkıça
+inimenö
+niçi umulpot
+ebmeşreP
+atfah
+reH
+3202.40.10
+iğidriteg
+nü’krütatA
+.relyös
+irelkiliney
+iğidriteg nü’krütatA
+kifeR
+.3.2
+)+(ilreteY
+tset
+ılmığab
+tüçlÖ
+oediv
+,ıbatik
+sreD
+)5/4(08%
+itaas
+sred
+kli
+ünüg
+3202.60.61
+.relyös inimenö
+nirelkiliney
+ınalA
+mişileG
+liD
+icidE
+edafİ
+ev
+ıcilA
+ünüg
+amuC
+atfah
+reh
+2202.01.30
+ilmiser
+,ensen
+nekeç
+iglİ
+)+(ilreteY
+tset
+ılmığab
+tüçlÖ
+)5/5(001%
+.raruk
+ısamet
+zög
+adnısarıs amşunok
+kifeR
+.1.3
+itaas
+sred
+kli
+3202.60.61
+kacnuyo
+ev
+raltrak
+ünüg
+amuC
+atfah
+reh
+2202.01.30
+ilmiser
+,ensen
+nekeç
+iglİ
+)+(ilreteY
+tset
+ılmığab
+tüçlÖ
+)5/5(001%
+.rirev
+ikpet
+erög
+erelkimim
+ev
+tsej
+kifeR
+.2.3
+itaas
+sred
+kli
+3202.60.61
+kacnuyo
+ev
+raltrak
+ünüg
+amuC
+atfah
+reh
+2202.01.30
+ilmiser
+,ensen
+nekeç
+iglİ
+oediV
+/miterğÖ
+lağoD
+alyıcama
+mişiteli
+ilid kifeR
+.3
+)+(ilreteY
+tset
+ılmığab
+tüçlÖ
+tasrıF/miterğÖ
+elledoM
+)5/5(001%
+.rınalluk
+inirelkimim
+ev tseJ nekruşunok
+kifeR
+.3.3
+itaas
+sred
+kli
+3202.60.61
+kacnuyo
+ev
+raltrak
+nuyO/imiterğÖ
+.rınalluk
+ünüg
+amuC
+atfah
+reh
+2202.01.30
+ilmiser
+,ensen
+nekeç
+iglİ
+)+(ilreteY
+tset
+ılmığab
+tüçlÖ
+)5/5(001%
+.rıtalşab ıyamşunok
+kifeR
+.4.3
+itaas
+sred
+kli
+3202.60.61
+kacnuyo
+ev
+raltrak
+ünüg
+amuC
+atfah
+reh
+2202.01.30
+ilmiser
+,ensen
+nekeç
+iglİ
+)+(ilreteY
+tset
+ılmığab
+tüçlÖ
+)5/5(001%
+.rürüdrüs ıyamşunok
+kifeR
+.5.3
+itaas
+sred
+kli
+3202.60.61
+kacnuyo
+ev
+raltrak
+.rıdatkamamnulub
+çayithİ
+**:irelemelnezüd
+ımatro mitiğE
+;niğenrÖ
+.rıdılamlızay
+yezüd
+o esi
+kacalıyas
+ılıraşab
+edemened
+çak
+şınarvad
+nenetsi
+kamlırıdnazak
+nekrılızay
+)iyezüD
+emşelkeçreG(
+tüçlÖ*
+;tüçlÖ
+*“
+)001%(
+5/5 esi
+kacalıyas
+ılıraşab
+adnımamat
+ninemened
+5
+)08%(
+5/4
+esi kacalıyas
+ılıraşab
+icnerğö
+ednü’4
+ninemened
+5
+.rıdılamlızay
+ednilkeş
+)06%(
+5/3
+esi kacalıyas
+ılıraşab
+icnerğö
+ednü’3
+ninemened
+5
+ilayretam
+miterğö
+,isemnelnezüd
+kilenöy
+anıralçayithi
+ninicnerğö
+nınıravutarobal
+nef .nrö(
+relemelnezüd
+kacalıpay
+nikşili
+anınala
+mişileg/esred
+nenelrileb
+kilenöy
+anıralçama
+ninicnerğÖ
+:irelemelnezüd
+ımatro
+mitiğE**“
+.ridilemnelke
+).bv
+irelemelnezüd
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+38
+3-KE
+IRALRARAK
+MİRİB
+EMRİTŞİLEG
+PEB
+-VI
+).bv
+iteyilaaf
+mitiğe
+ıcıyalmamat
+,ısamalugyu
+kılrızah
+enimitiğe
+purg
+,ısado
+mitiğe
+ketsed(
+ireltemzih
+mitiğe
+reğid
+içi
+luko
+ığacala
+ninicnerğÖ
+.A
+)rel(işik
+ulmuroS
+erüS
+kılatfaH
+sreD/ınalA
+mişileG
+ürüT
+temziH
+lasugyuD
+laysoS
+,ınalA
+mişileG
+liD
+,ınalA
+mişileG
+lesşiliB
+.K
+ilA
+taas
+4
+ısado
+mitiğe
+ketseD
+ınalA
+mişileG
+icerüS
+emridneligliB
+eliA
+.B
+.rıtkacalıpay
+rib adatfah
+isemridneliglib
+eliA
+?keceliridneliglib
+alkılkıs
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+emridneliglib
+alnofelet
+adralmurud
+ığıdamalıpay
+ıtnalpot
+ezüy
+züy
+kacnA
+.rıtacalıpay
+alyuloy
+ıtnalpot
+ezüy
+züy
+isemridneliglib
+eliA
+,nofelet(
+?keceliridneliglib
+alloy
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+.rıtkacalıpay
+).bv
+ılızay
+,ıtnalpot
+ezüy
+züy/içimirveç
+)
+x (
+tevE
+?ım
+kacalıpay
+imitiğe
+eliA
+)
+(
+rıyaH
+,ıtnalpot
+ezüy
+züy/içimirveç
+,nofelet(
+?kacalıpay
+alloy
+ignah
+imitiğe
+eliA
+.rıtkacalıpay
+alyuloy
+ıtnalpot
+ezüy
+züy
+imitiğe
+eliA
+).bv
+ılızay
+ralraraK
+reğiD
+.C
+.rütşümlürög
+nugyu
+ısamla
+mitiğe
+taas
+4
+kılatfah
+adnıınalA
+mişileG
+lasugyuD
+laysoS
+,ınalA
+mişileG
+liD
+,ınalA
+mişileG
+lesşiliB
+adnısado
+mitiğe
+ketseD
+.1
+.rıtkacanalugyu
+karanalrızah
+ınalp
+emritşiğed
+şınarvas
+kacanıla
+ketsed
+nedninemterğö
+ıfınıs
+mitiğe
+lezö
+nuzumuluko
+kilenöy
+anısamlıtlaza
+ninimelborp
+şınarvad
+niyeriB
+.2 .3
+3202
+traM
+: ihirat
+ıtnalpot
+imirib
+emitşileg
+PEB
+ikarnoS
+riB
+............
+:*İSEMRİDNELREĞED
+PEB
+LENEG
+-nucunos
+emridnelreğed
+uB
+.rılıpay
+isemliridnelreğed
+ni’PEB
+nanalrızah
+kereliridnelreğed
+karalo
+leneg
+iyezüd
+amlışalu
+aralçama
+nala
+rey
+edniğireçi
+PEB
+niçi
+icnerğö
+acnuyob
+ılıy
+miterğö-mitiğE*
+.rıtkacalo
+edniğiletin
+irenö
+edni’PEB
+kacanalrızah
+niçi
+ılıy
+miterğö-mitiğe
+ikarnos
+rib
+ninicnerğö
+ad
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-3
+V- BEP GELİŞTİRME BİRİM ÜYELERİ
+BEP Geliştirme Birimi Üyeleri
+Ünvanı Adı Soyadı İmza
+Müdür/Müdür Yardımcısı (BEP Geliştirme Birim Başkanı)
+Öğrencinin Velisi (Anne/Baba/Yasal Vasi)
+Öğrencinin Sınıf Öğretmeni
+Öğrencinin Dersini Okutan Alan Öğretmenleri
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Rehber Öğretmen/Psikolojik Danışman
+Özel Eğitim Değerlendirme Kurulundan Üye (Varsa)
+Mesleki Eğitim Veren Özel Eğitim Okullarında Meslek Derslerini Okutan Alan Öğretmeni
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Diğer
+Uygundur
+Okul Müdürü
+.........../.........../20...........
+39
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-4 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği (İlkokul –
+Bedensel Yetersizlik)*
+BİREYSELLEŞTİRİLMİŞ EĞİTİM
+PROGRAMI DOSYASI
+ÖĞRENCİNİN
+ADI SOYADI : Ah*** SA***
+OKULU : ..................... Okulu
+NUMARASI : 25
+*Örneğin gerçek kişi ve kurumlarla ilgisi bulunmamaktadır.
+40
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-4
+I- ÖĞRENCİ BİLGİLERİ
+T.C
+........................................ Valiliği/Kaymakamlığı
+İl/İlçe Millî Eğitim Müdürlüğü
+........................................ Okulu
+20..... - 20..... Eğitim ve Öğretim Yılı
+Bireyselleştirilmiş Eğitim Programı Dosyası
+Adı-Soyadı Ah*** SA***
+Sınıfı 2. Sınıf
+Okul numarası 25
+Doğum tarihi 10.02.2014
+İl/ilçe özel eğitim hizmetleri yerleştirme kurul kararı ......................... tarihli ve .................. nolu İlçe Kurul Kararı
+Özel eğitim ihtiyacına yönelik aldığı eğitsel tanı Bedensel Yetersizlik
+Varsa daha önce aldığı okul içi ve okul dışı destek eğitim hizmetleri ve Özel eğitim ve rehabilitasyon merkezinde bireysel ve grup
+süresi* eğitimi alıyor.
+Özel eğitim ve rehabilitasyon merkezinde haftada 2 saat birey-
+Varsa almakta olduğu okul dışı destek eğitim hizmetleri ve süresi**
+sel, 1 saat grup eğitimi alıyor
+Varsa kullandığı destek materyalleri/cihazlar (protez, işitme cihazı,
+Yok
+baston, büyüteç vb.)
+Önemli sağlık bilgileri (alerji, sürekli kullandığı ilaç, tüketmesi sakıncalı
+Yok
+gıdalar vb.)
+1- Ahmet’in kayıtlı olduğu sınıf giriş katında ve çıkışa en yakın
+olan sınıf şeklinde düzenlenecektir.
+Eğitim ortamına ilişkin düzenlemeler***
+2- Sınıf içerisinde oturma düzeni öğrenciye rahat hareket etme
+imkanı sağlayacak şekilde planlanacaktır.
+BEP Başlangıç Tarihi 2.10.2022
+BEP Bitiş Tarihi 17.06.2023
+Aile ile İlgili Bilgiler
+Anne Baba Veli/Vasi
+Adı-Soyadı El*** SA*** Me*** SA***
+Telefon
+Ev Adresi
+İş Adresi
+*Öğrencinin daha önce almış olduğu okul içi ve okul dışı destek eğitim hizmetleri (destek eğitim odası, özel eğitim ve rehabi-
+litasyon vb.) süresi ile birlikte bu kısma yazılmalıdır.
+**Öğrencinin BEP tamamlanma tarihine kadar aldığı/alacağı okul dışı destek eğitim hizmetleri (özel eğitim ve rehabilitasyon
+merkezi, yaygın eğitim kursları vb.) süresi ile birlikte bu kısma kaydedilmelidir.
+***Eğitim-öğretim yılı boyunca öğrencinin bireysel ihtiyaçlarına uygun olarak sınıf içi ve sınıf dışında yapılacak fiziki ortam
+düzenlemesi (sınıf içi oturma düzeni, ışık ayarlaması vb.) eklenmelidir.
+41
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-4
+II – EĞİTSEL PERFORMANS FORMU*
+Doğuştan serebral palsi tek kol veya tek bacak etkilenmesi monoparezi tıbbi tanısı olan
+Ahmet 12 aylıktan itibaren eğitsel tanılama ile özel eğitim ve rehabilitasyon merkezinde
+kaba ve ince motor becerilerini artırmaya yönelik olarak destek eğitimden yararlanma-
+Öğrencinin Gelişim Öyküsü
+ya başlamıştır. Ahmet tam zamanlı kaynaştırma/bütünleştirme yoluyla anaokulunda
+eğitim-öğretime devam etmiştir. Akranları ile ilkokul kademesine başlamış ve 2022-
+2023 eğitim-öğretim yılında 2. sınıfa devam etmektedir.
+Gelişim alanları/Dersler Performans düzeyi
+Türkçe Ahmet akranları ile aynı eğitim-öğretim programını takip edebilir.
+Matematik Ahmet akranları ile aynı eğitim-öğretim programını takip edebilir.
+Hayat Bilgisi Ahmet akranları ile aynı eğitim-öğretim programını takip edebilir.
+Yabancı Dil Ahmet akranları ile aynı eğitim-öğretim programını takip edebilir.
+Görsel Sanatlar Ahmet akranları ile aynı eğitim-öğretim programını takip edebilir.
+Müzik Ahmet akranları ile aynı eğitim-öğretim programını takip edebilir.
+Ahmet kısmi fiziksel destek ile yürür. Merdivenleri tutunarak çift ayak ile bağımsız
+Beden Eğitimi ve Uyum
+çıkar. Merdivenleri tutunarak çift ayak ile kısmi yardımla iner.
+Varsa davranış problemini tanımlayınız.** Yok
+*Öğrencinin takip ettiği program esas alınarak, öğrencinin güçlü yanlarını belirlemek ve yıl içerisinde öğrencinin geliştirmesi
+beklenen gelişim alanlarına/derslere ilişkin amaçların tespit edilebilmesi için informal değerlendirme araçları kullanılarak
+(gözlem, görüşme, kaba değerlendirme formları, yazılı sınavlar vb.) bu form doldurulmalıdır. Öğrencinin gelişim düzeyine ve
+bireysel ihtiyaçlarına göre gelişim alanları/dersler düzenlenebilir.
+* *Öğrencinin davranış problemi varsa davranış problemlerinin azaltılmasına yönelik davranış değiştirme programı hazırlanma-
+lıdır.
+42
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+43
+4-KE
+INALP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+–
+III
+emridnelreğeD-emçlÖ
+ev
+amalşaB
+kacalınalluK
+ev
+metnöY
+miterğÖ
+ilreteY
+snamrofreP
+emridnelreğeD
+emridnelreğeD
+ihiraT
+şitiB
+rellayretaM
+irelkinkeT
+*tüçlÖ
+ralçamA
+ilmenöD
+asıK
+ralçamA
+ilmenöD
+nuzU
+ev
+metnöY
+)-(
+ilemliritşileG
+/
+)+(
+irelhiraT
+irelkinkeT
+ropS
+ev
+imitiğE
+nedeB
+imitiğe
+nedeb
+atfah
+reH
+2202.01.10
+ilkner
+edniseçhab
+lukO
+tset
+ılmığab
+tüçlÖ
+pay/retsöG
+)5/5(001%
+.rarçıs
+karalo zısmığab
+ednirezü
+kaya iki
+ednirey
+temhA
+.1.1
+unos
+isred
+rops
+ev
+2202.01.03
+releriad
+imitiğe
+nedeb
+atfah
+reH
+2202.01.10
+ilkner
+edniseçhab
+lukO
+-lined
+'alpız'
+karayalğas
+inisegned
+ednirezü
+kaya iki urğod
+enö
+temhA
+.2.1
+ednirezü
+kaya
+iki urğod
+enÖ
+.1.1
+tset
+ılmığab
+tüçlÖ
+pay/retsöG
+)5/5(001%
+unos
+isred
+rops
+ev
+2202.01.03
+releriad
+.relreli
+karayarçıs
+erek 2 karalo
+zısmığab
+edniğid
+.relreli
+karayarçıs
+imitiğe
+nedeb
+atfah
+reH
+2202.01.10
+ilkner
+edniseçhab
+lukO
+-idlined
+'alpız'
+karayalğas
+inisegned
+ednirezü
+kaya iki urğod
+enö
+temhA.3.1
+tset
+ılmığab
+tüçlÖ
+pay/retsöG
+)5/5(001%
+unos
+isred
+rops
+ev
+2202.01.03
+releriad
+.relreli
+karayarçıs
+erek 5 karalo
+zısmığab
+edniğ
+imitiğe
+nedeb
+atfah
+reH
+2202.01.10
+nalınalluk
+asrav
+adnuyO
+-keçreg
+irelegrenöy
+nenelyös
+karalo
+zısmığab
+nekranyo
+nuyo
+temhA
+.1.2
+tset
+ılmığab
+tüçlÖ
+ucupi
+lezöS
+)5/5(001%
+unos
+isred
+rops
+ev
+3202.61.51
+relemezlam
+.riritşel
+imitiğe
+nedeb
+atfah
+reH
+2202.01.10
+nalınalluk
+asrav
+adnuyO
+tset
+ılmığab
+tüçlÖ
+ucupi
+lezöS
+)5/5(001%
+.rede
+tekerah etkilrib
+ıralşadakra
+nekranyo
+nuyo
+temhA
+.2.2
+unos
+isred
+rops
+ev
+3202.61.51
+relemezlam
+imitiğe
+nedeb
+atfah
+reH
+2202.01.10
+nalınalluk
+asrav
+adnuyO
+-şelkeçreg
+karalo
+zısmığab irelverög
+nenelrileb
+adnısarıs
+nuyo
+temhA.3.2
+nenelrileb
+eli ıralşadakrA
+.1.2
+tset
+ılmığab
+tüçlÖ
+ucupi
+lezöS
+)5/5(001%
+unos
+isred
+rops
+ev
+3202.61.51
+relemezlam
+.ririt
+.ranyo
+nuyo
+karayu
+arallaruk
+imitiğe
+nedeb
+atfah
+reH
+2202.01.10
+nalınalluk
+asrav
+adnuyO
+tset
+ılmığab
+tüçlÖ
+ucupi
+lezöS
+)5/5(001%
+.rırayu
+karalo
+zısmığab
+ınıralşadakra
+nayamyu
+anırallaruk
+nuyo
+temhA
+.4.2
+unos
+isred
+rops
+ev
+3202.61.51
+relemezlam
+imitiğe
+nedeb
+atfah
+reH
+2202.01.10
+nalınalluk
+asrav
+adnuyO
+-alo
+zısmığab
+ınıralşadakra
+ayev
+uburg
+nanazak adnunos
+nuyo
+temhA
+.5.2
+tset
+ılmığab
+tüçlÖ
+ucupi
+lezöS
+)5/5(001%
+unos
+isred
+rops
+ev
+3202.61.51
+relemezlam
+.rede
+kirbet
+kar
+imitiğe
+nedeb
+atfah
+reH
+3202.20.80
+miser
+,relensen
+keçreG
+adnuğudluros
+ıda
+nireltela nalınalluk
+niçi
+kamanyo isinet
+asam
+temhA
+.1.3
+tset
+ılmığab
+tüçlÖ
+ucupi
+lesrög
+ev
+lezöS
+)5/5(001%
+unos
+isred
+rops
+ev
+3202.30.80
+ıraltrak
+.relyös unuğudlo
+upot
+nopnip ev tekar
+karalo
+zısmığab
+nalınalluk
+adnırallad
+rops
+iltişeÇ
+.1.3
+imitiğe
+nedeb
+atfah
+reH
+3202.30.80
+adnuğudluros
+ıda
+nirelemezlam
+ev
+navyah
+nalınalluk etkilicinib
+temhA
+.2.3
+tset
+ılmığab
+tüçlÖ
+ıraltrak
+miseR
+ucupi
+lesrög
+ev
+lezöS
+)5/5(001%
+inirelmisi
+nıralnavyah
+ayev
+emezlam
+unos
+isred
+rops
+ev
+3202.40.80
+.relyös
+unuğudlo
+emziç
+ev nevidle,ksak
+,ta
+karalo
+zısmığab
+.relyös
+imitiğe
+nedeb
+atfah
+reH
+3202.40.80
+zısmığab
+adnuğudluros
+ıda nirelemezlam
+nalınalluk atkuluçko
+temhA
+.3.3
+tset
+ılmığab
+tüçlÖ
+ıraltrak
+miseR
+ucupi
+lesrög
+ev
+lezöS
+)5/5(001%
+unos
+isred
+rops
+ev
+3202.50.80
+.relyös
+unuğudlo
+kılkamrap
+ev yay
+,ko karalo
+.rıdatkamamluyud
+çayithi eyemelnezüd
+rib
+ignahreH
+**:irelemelnezüd
+ımatro
+mitiğE
+;niğenrÖ
+.rıdılamlızay
+yezüd
+o
+esi
+kacalıyas
+ılıraşab
+edemened
+çak
+şınarvad
+nenetsi
+kamlırıdnazak
+nekrılızay
+)iyezüD
+emşelkeçreG(
+tüçlÖ*
+;tüçlÖ
+*“
+)001%(
+5/5 esi
+kacalıyas
+ılıraşab
+adnımamat
+ninemened
+5
+)08%(
+5/4 esi kacalıyas
+ılıraşab
+icnerğö
+ednü’4
+ninemened
+5
+.rıdılamlızay
+ednilkeş
+)06%(
+5/3 esi kacalıyas
+ılıraşab
+icnerğö
+ednü’3
+ninemened
+5
+ilayretam
+miterğö
+,isemnelnezüd
+kilenöy
+anıralçayithi
+ninicnerğö
+nınıravutarobal
+nef
+.nrö(
+relemelnezüd
+kacalıpay
+nikşili
+anınala
+mişileg/esred
+nenelrileb
+kilenöy
+anıralçama
+ninicnerğÖ
+:irelemelnezüd
+ımatro
+mitiğE**“
+.ridilemnelke
+).bv
+irelemelnezüd
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+44
+4-KE
+IRALRARAK
+MİRİB
+EMRİTŞİLEG
+PEB
+-VI
+).bv
+iteyilaaf
+mitiğe
+ıcıyalmamat
+,ısamalugyu
+kılrızah
+enimitiğe
+purg
+,ısado
+mitiğe
+ketsed(
+ireltemzih
+mitiğe
+reğid
+içi
+luko
+ığacala
+ninicnerğÖ
+.A
+)rel(işik
+ulmuroS
+erüS
+kılatfaH
+sreD/ınalA
+mişileG
+ürüT
+temziH
+icerüS
+emridneligliB
+eliA
+.B
+karalo
+kilenöy
+aralçama
+neliritşelkeçreg
+ev
+nede
+maved
+ayamlıpay
+imiterğö
+edlikeş
+kacalo
+ılızay
+ev
+ezüyzüy
+ünüg
+şi
+nos
+nıya
+reH
+?keceliridneliglib
+alkılkıs
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+.rılıpay
+emridneliglib
+,nofelet(
+?keceliridneliglib
+alloy
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+ılızay
+ev
+ezüy
+züY
+).bv
+ılızay
+,ıtnalpot
+ezüy
+züy/içimirveç
+)
+(
+tevE
+?ım
+kacalıpay
+imitiğe
+eliA
+)
+x
+(
+rıyaH
+,ıtnalpot
+ezüy
+züy/içimirveç
+,nofelet(
+?kacalıpay
+alloy
+ignah
+imitiğe
+eliA
+ezüy
+züY
+).bv
+ılızay
+ralraraK
+reğiD
+.C
+.ritşimlirev
+rarak
+anısamlıpay
+emridnelreğed
+karalo
+lezös
+edlikeş
+faum
+nedrelemridnelreğed
+kacalıpay
+karalo
+ılızay
+ninicnerğÖ
+.1
+.rütşümlürög
+nugyu
+ısamla
+ıdyak
+ses
+adnısarıs
+sred
+nadnuğudlo
+ılrınıs
+irelireceb
+amzay
+ninicnerğÖ
+.2 .3
+3202.30.01
+:ihirat
+ıtnalpot
+imirib
+emitşileg
+PEB
+ikarnoS
+riB
+.rıtşımlırıdnazak
+elyümüt
+ederüs
+nanalnalp
+,ralçama
+nanıla
+et’PEB
+:*İSEMRİDNELREĞED
+PEB
+LENEG
+-nucunos
+emridnelreğed
+uB
+.rılıpay
+isemliridnelreğed
+ni’PEB
+nanalrızah
+kereliridnelreğed
+karalo
+leneg
+iyezüd
+amlışalu
+aralçama
+nala
+rey
+edniğireçi
+PEB
+niçi
+icnerğö
+acnuyob
+ılıy
+miterğö-mitiğE*
+.rıtkacalo
+edniğiletin
+irenö
+edni’PEB
+kacanalrızah
+niçi
+ılıy
+miterğö-mitiğe
+ikarnos
+rib
+ninicnerğö
+ad
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-4
+V- BEP GELİŞTİRME BİRİM ÜYELERİ
+BEP Geliştirme Birimi Üyeleri
+Ünvanı Adı Soyadı İmza
+Müdür/Müdür Yardımcısı (BEP Geliştirme Birimi Başkanı)
+Öğrencinin Velisi (Anne/Baba/Yasal Vasi)
+Öğrencinin Sınıf Öğretmeni
+Öğrencinin Dersini Okutan Alan Öğretmenleri
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Rehber Öğretmen/Psikolojik Danışman
+Özel Eğitim Değerlendirme Kurulundan Üye (Varsa)
+Mesleki Eğitim Veren Özel Eğitim Okullarında Meslek Derslerini Okutan Alan Öğretmeni
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Diğer
+Uygundur
+Okul Müdürü
+.........../.........../20...........
+45
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-5 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği (İlkokul – İşitme
+Yetersizliği)*
+BİREYSELLEŞTİRİLMİŞ EĞİTİM
+PROGRAMI DOSYASI
+ÖĞRENCİNİN
+ADI SOYADI : Em*** AT***
+OKULU : ..................... Okulu
+NUMARASI : 55
+*Örneğin gerçek kişi ve kurumlarla ilgisi bulunmamaktadır.
+46
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-5
+I- ÖĞRENCİ BİLGİLERİ
+T.C
+........................................ Valiliği/Kaymakamlığı
+İl/İlçe Millî Eğitim Müdürlüğü
+........................................ Okulu
+20..... - 20..... Eğitim ve Öğretim Yılı
+Bireyselleştirilmiş Eğitim Programı Dosyası
+Adı-Soyadı Em*** AT***
+Sınıfı 2/C
+Okul numarası 55
+Doğum tarihi 20.04.2015
+İl/ilçe özel eğitim hizmetleri yerleştirme kurul kararı İlçe Özel Eğitim hizmetleri Kurulu ........................ sayılı karar
+Özel eğitim ihtiyacına yönelik aldığı eğitsel tanı İşitme Yetersizliği
+Özel eğitim ve rehabilitasyon hizmetinden yararlanmaktadır. 1.
+Varsa daha önce aldığı okul içi ve okul dışı destek eğitim hizmetleri ve
+sınıfta okulda bulunan destek eğitim odasında bireysel olarak
+süresi*
+ders aldı.
+Özel eğitim ve rehabilitasyon hizmetinden 20.11.2022 tarihine
+Varsa almakta olduğu okul dışı destek eğitim hizmetleri ve süresi**
+kadar yararlanmaya devam edecektir.
+Varsa kullandığı destek materyalleri/cihazlar (protez, işitme cihazı,
+Kulak arkası işitme cihazı
+baston, büyüteç vb.)
+Önemli sağlık bilgileri (alerji, sürekli kullandığı ilaç, tüketmesi sakıncalı
+Polen alerjisi var.
+gıdalar vb.)
+Emre’nin cihazı ile öğretmenin yaka mikrofonu arasında blue-
+tooth bağlantı yapılarak Emre’nin işitme cihazından maksimum
+faydalanması sağlanacaktır. Sınıf içinde perdeler devamlı çekili
+olarak kullanılacak ve ses yankısı en aza indirilecektir. Emre ön
+Eğitim ortamına ilişkin düzenlemeler***
+sıraya oturtularak öğretmenin jest ve mimiklerini daha iyi gör-
+mesi sağlanacaktır. Emre’nin, arkadaşlarının ve öğretmeninin
+dudak okumalarını yapabileceği şekilde sınıf içinde konumlan-
+dırılacaktır.
+BEP Başlangıç Tarihi Ekim 2022
+BEP Bitiş Tarihi Haziran 2023
+Aile ile İlgili Bilgiler
+Anne Baba Veli/Vasi
+Adı-Soyadı Ce*** AT*** Se*** AT***
+Telefon 0555 000 00 000 0535 000 00 000
+Ev Adresi
+İş Adresi
+*Öğrencinin daha önce almış olduğu okul içi ve okul dışı destek eğitim hizmetleri (destek eğitim odası, özel eğitim ve rehabi-
+litasyon vb.) süresi ile birlikte bu kısma yazılmalıdır.
+**Öğrencinin BEP tamamlanma tarihine kadar aldığı/alacağı okul dışı destek eğitim hizmetleri (özel eğitim ve rehabilitasyon
+merkezi, yaygın eğitim kursları vb.) süresi ile birlikte bu kısma kaydedilmelidir.
+***Eğitim-öğretim yılı boyunca öğrencinin bireysel ihtiyaçlarına uygun olarak sınıf içi ve sınıf dışında yapılacak fiziki ortam
+düzenlemesi (sınıf içi oturma düzeni, ışık ayarlaması vb.) eklenmelidir.
+47
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-5
+II – EĞİTSEL PERFORMANS FORMU*
+Emre anne karnında gelişimini sağladıktan sonra normal süreler içerisinde dünyaya
+gelmiş. 9 aylıkken annesi seslere tepki vermediğini farketmiş. Yapılan testlerde sağ
+Öğrencinin Gelişim Öyküsü
+kulakta 89 dB, sol kulakta 94 db işitme kaybı olduğu saptanmış. Emre 10 aylık iken
+ilk cihazını kullanmaya başlamış. Şu anda 2 adet kulak arkası işitme cihazı kullanıyor.
+Gelişim alanları/Dersler Performans düzeyi
+Kalem tutabiliyor. A harfini tanıyor. Harfleri bakarak yazmaya çalışıyor. Sınırlı göz tema-
+Türkçe sı kuruyor. İhtiyaçlarını ifade ederken iki sözcüklü cümleler kullanıyor ancak sesletim
+çok anlaşılır değil. Zaman zaman üç sözcüklü cümleler de kurabiliyor.
+Rakamların tümünü tanıyor. 1’den 50’ye kadar sayabiliyor. Eldesiz toplama yapabili-
+Matematik
+yor. Eldeli toplama yardımla yapar.
+Varsa davranış problemini tanımlayınız.** Karşısındaki kişi ile iletişim kuramadığında bağırarak anlamsız sesler çıkarır.
+*Öğrencinin takip ettiği program esas alınarak, öğrencinin güçlü yanlarını belirlemek ve yıl içerisinde öğrencinin geliştirmesi
+beklenen gelişim alanlarına/derslere ilişkin amaçların tespit edilebilmesi için informal değerlendirme araçları kullanılarak
+(gözlem, görüşme, kaba değerlendirme formları, yazılı sınavlar vb.) bu form doldurulmalıdır. Öğrencinin gelişim düzeyine ve
+bireysel ihtiyaçlarına göre gelişim alanları/dersler düzenlenebilir.
+* *Öğrencinin davranış problemi varsa davranış problemlerinin azaltılmasına yönelik davranış değiştirme programı hazırlanma-
+lıdır.
+48
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+49
+5-KE
+INALP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+–
+III
+emridnelreğeD-emçlÖ
+ev
+amalşaB
+ev
+metnöY
+miterğÖ
+snamrofreP
+emridnelreğeD
+rellayretaM
+kacalınalluK
+*tüçlÖ
+ralçamA
+ilmenöD
+asıK
+ralçamA
+ilmenöD
+nuzU
+emridnelreğeD
+ihiraT
+şitiB
+irelkinkeT
+/ )+(
+ilreteY
+ev
+metnöY
+irelhiraT
+)-(
+ilemliritşileG
+irelkinkeT
+eçkrüT
+2202.01.21
+narakış
+ses
+.bv
+luvaD
+,karıgnıÇ
+)+(ilreteY
+2202.01.03
+umrof
+tıyak
+şınarvaD
+)5/4(08%
+.rirev ikpet
+kerelikri
+ayıcırayu
+lestişi
+nelirev
+ermE
+.1.1
+2202.01.03
+rellayretam
+)-(ilemliritşileG
+2202.01.03
+umrof
+tıyak
+şınarvaD
+2202.01.21
+narakış
+ses
+.bv
+luvaD
+,karıgnıÇ
+alyucupi
+ılnamaz
+şE
+)5/4(08%
+.rirev
+ikpet
+karakab
+anığanyak
+nınırayu
+lestişi
+nelirev
+ermE
+.2.1
+2202.01.03
+rellayretam
+miterğö
+2202.01.21
+narakış
+ses
+.bv
+luvaD
+,karıgnıÇ
+keredig
+nunucupİ
+iligli
+eli
+amruk
+ığatnok
+zög
+ermE
+.1
+)+(ilreteY
+2202.01.03
+umrof
+tıyak
+şınarvaD
+)5/4(08%
+.rede
+pikat
+radak erüs
+nelinetsi
+ıyıcırayu
+lesrög
+nelirev
+ermE
+.3.1
+2202.01.03
+rellayretam
+miterğö
+alyısamlıtlaza
+.rapay
+ralamşılaç
+2202.01.21
+narakış
+ses
+.bv
+luvaD
+,karıgnıÇ
+miterğö
+almıdray
+ılamaşA
+)-(ilemliritşileG
+2202.01.03
+umrof
+tıyak
+şınarvaD
+2202.01.03
+rellayretam
+miterğö
+elledom
+oediV
+)5/4(08%
+.rakab
+enemterğö
+edniğidlisek
+ıcırayu
+lestişi
+ayev/ev
+lesrög
+ermE
+.4.1
+2202.01.21
+narakış
+ses
+.bv
+luvaD
+,karıgnıÇ
+)+(ilreteY
+2202.01.03
+umrof
+tıyak
+şınarvaD
+)5/4(08%
+.rakab
+radak
+erüs
+nelinetsi
+enemterğö
+alyısırayu
+"kab
+anaB"
+ermE
+.5.1
+2202.01.03
+rellayretam
+2202.01.21
+)-(ilemliritşileG
+2202.01.03
+umrof
+tıyak
+şınarvaD
+athat
+ıllıka
+,ises
+nasnİ
+)5/5(001%
+.rakab edniğidnelyös
+ıda
+ermE
+.1.2
+2202.01.03 2202.01.21
+ılarıs
+,athat
+ıllıka
+,relkimim
+ev
+tseJ
+)+(ilreteY
+2202.01.03
+umrof
+tıyak
+şınarvaD
+)5/4(08%
+.ririteg
+enirey
+irelegrenöy
+nayamlo
+lezös
+ermE
+.2.2
+2202.01.03
+raltrak
+2202.01.21
+ılarıs
+,athat
+ıllıka
+,relkimim
+ev
+tseJ
+)-(ilemliritşileG
+2202.01.03
+umrof
+tıyak
+şınarvaD
+)5/5(001%
+.ririteg enirey
+irelegrenöy
+neridlib
+melye
+ket
+ermE
+.3.2
+2202.01.03
+raltrak
+alyucupi
+ılnamaz
+şE
+2202.01.21
+ılarıs
+,athat
+ıllıka
+,relkimim
+ev
+tseJ
+miterğö
+)+(ilreteY
+2202.01.03
+umrof
+tıyak
+şınarvaD
+)5/4(08%
+.ririteg enirey
+irelegrenöy
+neridlib
+melye
+iki
+ermE
+.4.2
+2202.01.03
+raltrak
+keredig
+nunucupİ
+.rayu
+erelegrenöy
+ermE
+.2
+2202.01.21
+ılarıs
+,athat
+ıllıka
+,relkimim
+ev
+tseJ
+miterğö
+alyısamlıtlaza
+)-(ilemliritşileG
+2202.01.03
+umrof
+tıyak
+şınarvaD
+)5/4(08%
+.ririteg
+enirey irelegrenöy
+neridlib
+melye
+alzaf
+nediki
+ermE
+.5.2
+2202.01.03
+raltrak
+miterğö
+almıdray
+ılamaşA
+miterğö
+elledom
+oediV
+2202.01.21
+ılarıs
+,athat
+ıllıka
+,relkimim
+ev
+tseJ
+)+(ilreteY
+2202.01.03
+umrof
+tıyak
+şınarvaD
+)5/4(08%
+.ririteg
+enirey inirelegrenöy
+purg neridlib
+melye
+ket
+ermE
+.6.2
+2202.01.03
+raltrak
+ket
+,raltrak
+2202.01.21
+ılarıs
+,athat
+ıllıka
+,relkimim
+ev
+tseJ
+)-(ilemliritşileG
+2202.01.03
+umrof
+tıyak
+şınarvaD
+)5/4(08%
+.ririteg
+enirey
+inirelegrenöy
+purg
+neridlib
+melye alzaf
+ahad
+ev
+iki
+ermE
+.7.2
+2202.01.03
+raltrak
+ket
+,raltrak
+2202.01.21
+ılarıs
+,athat
+ıllıka
+,relkimim
+ev
+tseJ
+)+(ilreteY
+2202.01.03
+umrof
+tıyak
+şınarvaD
+)5/3(06%
+.ririteg
+enirey
+irelegrenöy
+ulluşok
+ermE
+.8.2
+2202.01.03
+raltrak
+ket
+,raltrak
+2202.11.03
+,raltrak
+ılarıS
+,ıbatiK
+sreD
+,athat
+ıllıkA
+ilerüs
+emelkeb
+tibaS
+)-(ilemliritşileG
+2202.21.13
+umrof
+tıyak
+şınarvaD
+)5/4(08%
+.relnid
+iyelmüc
+kiske
+nenelyös
+ermE
+.1.3
+2202.21.13
+raltrak
+keT
+miterğö
+iyelmüc
+kiske
+iğidelnid
+ermE
+.3
+miterğö
+elrelemened
+kıryA
+2202.11.03
+,raltrak
+ılarıS
+,ıbatiK
+sreD
+,athat
+ıllıkA
+.ralmamat
+)+(ilreteY
+2202.21.13
+umrof
+tıyak
+şınarvaD
+miterğö
+nadurğoD
+)5/3(06%
+.ralmamat
+iyelmüc kiske
+iğidelnid
+nadnızahic
+tıyak
+ses
+ermE
+.2.3
+2202.21.13
+raltrak
+keT
+imetnöy
+miterğö
+lağoD
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+50
+emridnelreğeD-emçlÖ
+ev
+amalşaB
+kacalınalluK
+ev
+metnöY
+miterğÖ
+emridnelreğeD
+*tüçlÖ
+ralçamA
+ilmenöD asıK
+ralçamA
+ilmenöD
+nuzU
+ilreteY
+snamrofreP
+emridnelreğeD
+ihiraT
+şitiB
+rellayretaM
+irelkinkeT
+ev
+metnöY
+)-(
+ilemliritşileG
+/
+)+(
+irelhiraT
+irelkinkeT leskifarG
+,melzöG
+3202.10.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+miterğö
+ilerüs
+emelkeb
+tibaS
+)-(ilemliritşileG
+3202.10.13
+)5/4(08%
+.rede edafi elküczös iki ınıralçayithi
+ermE
+.1.4
+emelrelİ
+zilana
+3202.10.13
+raltrak
+keT
+,raltrak
+ılarıS
+miterğö
+elrelemened
+kıryA
+tisab
+inirelminiskereg
+ermE
+.4
+leskifarG
+,melzöG
+3202.10.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+miterğö
+nadurğoD
+.rede
+edafi
+elrelküczös
+)+(ilreteY
+3202.10.13
+)5/3(06%
+.rede edafi
+elküczös
+alzaf ahad ad ay çü ınıralçayithi
+ermE
+.2.4
+emelrelİ
+zilana
+3202.10.13
+raltrak
+keT
+,raltrak
+ılarıS
+imetnöy
+miterğö
+lağoD
+tıyaK
+amukO
+2202.01.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+)-(ilemliritşileG
+2202.01.03
+)5/4(08%
+.relyös
+irelses )n ,i ,k ,a ,l ,e( purg
+icnirib
+ermE
+.1.5
+isegleziÇ
+2202.01.03
+raltrak
+keT
+,raltrak
+ılarıS
+tıyaK
+amukO
+2202.01.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+rellikeş
+ev lobmes
+reğid
+irelses )n ,i ,k ,a ,l ,e( purg
+icnirib
+ermE
+.2.5
+)+(ilreteY
+2202.01.03
+)5/4(08%
+isegleziÇ
+2202.01.03
+raltrak
+keT
+,raltrak
+ılarıS
+.riretsög
+nadnısara
+tıyaK
+amukO
+2202.01.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+,relyös
+ıralkılrav nalo
+relses
+)n ,i ,k ,a ,l ,e( purg icnirib
+edniçi
+ermE
+.3.5
+)-(ilemliritşileG
+2202.01.03
+)5/4(08%
+isegleziÇ
+2202.01.03
+raltrak
+keT
+,raltrak
+ılarıS
+.riretsög
+tıyaK
+amukO
+2202.11.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+)+(ilreteY
+2202.11.03
+)5/4(08%
+.relyös
+irelses )y ,ü ,t ,u ,m ,o( purg
+icniki
+ermE
+.4.5
+isegleziÇ
+2202.11.03
+raltrak
+keT
+,raltrak
+ılarıS
+tıyaK
+amukO
+2202.11.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+rellikeş
+ev lobmes
+reğid
+irelses )y ,ü ,t ,u ,m ,o( purg
+icniki
+ermE
+.5.5
+)-(ilemliritşileG
+2202.11.03
+isegleziÇ
+2202.11.03
+raltrak
+keT
+,raltrak
+ılarıS
+miterğö
+ilerüs
+emelkeb
+tibaS
+)5/4(08%
+.riretsög
+nadnısara
+miterğö
+elrelemened
+kıryA
+tıyaK
+amukO
+2202.11.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+,relyös
+ıralkılrav nalo
+relses
+)y ,ü ,t ,u ,m ,o( purg icniki
+edniçi
+ermE
+.6.5
+)+(ilreteY
+2202.11.03
+miterğö
+nadurğoD
+)5/4(08%
+isegleziÇ
+2202.11.03
+raltrak
+keT
+,raltrak
+ılarıS
+.riretsög
+imetnöy
+miterğö
+lağoD
+)-(ilemliritşileG
+2202.21.13
+tıyaK
+amukO
+2202.21.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+miterğö
+elledom
+oediV
+)5/4(08%
+.relyös
+irelses )b ,s ,d ,ı ,r ,ö( purg
+ücnüçü
+ermE
+.7.5
+isegleziÇ
+2202.21.13
+raltrak
+keT
+,raltrak
+ılarıS
+miterğö
+ilkilpeR
+.ruko
+irelses
+ermE
+.5
+tıyaK
+amukO
+2202.21.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+rellikeş
+ev lobmes
+reğid
+irelses )b ,s ,d ,ı ,r ,ö( purg
+ücnüçü
+ermE
+.8.5
+)+(ilreteY
+2202.21.13
+)5/4(08%
+isegleziÇ
+2202.21.13
+raltrak
+keT
+,raltrak
+ılarıS
+.riretsög
+nadnısara
+tıyaK
+amukO
+2202.21.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+,relyös
+ıralkılrav nalo
+relses
+)b ,s ,d ,ı ,r ,ö( purg ücnüçü
+edniçi
+ermE
+.9.5
+)-(ilemliritşileG
+2202.21.13
+)5/4(08%
+isegleziÇ
+2202.21.13
+raltrak
+keT
+,raltrak
+ılarıS
+.riretsög
+tıyaK
+amukO
+3202.10.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+)+(ilreteY
+3202.10.13
+)5/4(08%
+.relyös
+irelses
+)p ,c ,ş ,g ,ç ,z( purg ücnüdröd
+ermE
+.01.5
+isegleziÇ
+3202.10.13
+raltrak
+keT
+,raltrak
+ılarıS
+tıyaK
+amukO
+3202.10.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+rellikeş
+ev lobmes
+reğid
+irelses)p,c,ş,g,ç,z( purg ücnüdröD
+ermE
+.11.5
+)-(ilemliritşileG
+3202.10.13
+)5/4(08%
+isegleziÇ
+3202.10.13
+raltrak
+keT
+,raltrak
+ılarıS
+.riretsög
+nadnısara
+tıyaK
+amukO
+3202.10.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+,relyös
+ıralkılrav nalo
+relses)p,c,ş,g,ç,z(
+purg ücnüdröd
+edniçİ
+ermE
+.21.5
+)+(ilreteY
+3202.10.13
+)5/4(08%
+isegleziÇ
+3202.10.13
+raltrak
+keT
+,raltrak
+ılarıS
+.riretsög
+tıyaK
+amukO
+3202.20.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+)-(ilemliritşileG
+3202.20.82
+miterğö
+ilerüs
+emelkeb
+tibaS
+)5/4(08%
+.relyös
+irelses)j ,f ,ğ ,v ,h( purg
+icnişeb
+ermE
+.31.5
+isegleziÇ
+3202.20.82
+raltrak
+keT
+,raltrak
+ılarıS
+miterğö
+elrelemened
+kıryA
+tıyaK
+amukO
+3202.20.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+miterğö
+nadurğoD
+rellikeş
+ev lobmes
+reğid
+irelses )j ,f ,ğ ,v ,h( purg
+icnişeb
+ermE
+.41.5
+)+(ilreteY
+3202.20.82
+)5/4(08%
+isegleziÇ
+3202.20.82
+raltrak
+keT
+,raltrak
+ılarıS
+imetnöy
+miterğö
+lağoD
+.riretsög
+nadnısara
+miterğö
+elledom
+oediV
+tıyaK
+amukO
+3202.20.10
+,ıbatiK
+sreD
+,athat
+ıllıkA
+,relyös
+ıralkılrav nalo
+relses)j
+,f ,ğ ,v ,h( purg icnişeb
+edniçi
+ermE
+.51.5
+)-(ilemliritşileG
+3202.20.82
+miterğö
+ilkilpeR
+)5/4(08%
+isegleziÇ
+3202.20.82
+raltrak
+keT
+,raltrak
+ılarıS
+.riretsög
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+51
+emridnelreğeD-emçlÖ
+şitiB
+ev
+amalşaB
+snamrofreP
+emridnelreğeD
+rellayretaM
+kacalınalluK
+irelkinkeT
+ev
+metnöY
+miterğÖ
+*tüçlÖ
+ralçamA
+ilmenöD
+asıK
+ralçamA
+ilmenöD
+nuzU
+emridnelreğeD
+ihiraT
+/ )+(
+ilreteY
+ev
+metnöY
+irelhiraT
+)-(
+ilemliritşileG
+irelkinkeT
+)kitametaM(
+relsreD/ıralnala
+mişileG
+isegleziÇ
+tıyaK
+2202.01.10
+amyaS
+,ıbatiK
+sreD
+,athat
+ılllıkA
+miterğö
+ilerüs
+emelkeb
+tibaS
+)+(ilreteY
+2202.01.03
+)5/4(08%
+.rayas kimtir
+rerib radak
+e’001
+karayalşab
+ned’1
+ermE
+.1.1
+isetsiL
+lortnoK
+2202.01.03
+ıralkucnoB
+miterğö
+elrelemened
+kıryA
+miterğö
+nadurğoD
+rerib
+radak
+e’001
+ned’1
+ermE
+.1
+imetnöy
+miterğö
+lağoD
+.rayas
+kimtir
+isegleziÇ
+tıyaK
+2202.01.10
+miterğö
+elledom
+oediV
+kimtir
+rerib
+radak
+e’001
+karayalşab
+nadıyas
+rib ignahreh
+nelirev
+ermE
+.2.1
+)-(ilemliritşileG
+2202.01.03
+miterğö
+elrelemened
+kıryA
+)5/4(08%
+isetsiL
+lortnoK
+2202.01.03
+miterğö
+ilkilpeR
+.rayas
+miterğö
+ilerüs
+emelkeb
+tibaS
+miterğö
+elrelemened
+kıryA
+isegleziÇ
+tıyaK
+2202.01.10
+amyaS
+,ıbatiK
+sreD
+,athat
+ılllıkA
+miterğö
+nadurğoD
+rano
+radak
+e’001
+nad’01
+ermE
+.2
+)+(ilreteY
+2202.01.03
+)5/4(08%
+.ra
+yas kimtir
+rano radak
+e’001
+karayalşab
+nad’01
+ermE
+.1.2
+isetsiL
+lortnoK
+2202.01.03
+ıralkucnoB
+imetnöy
+miterğö
+lağoD
+.rayas
+kimtir
+miterğö
+elledom
+oediV
+miterğö
+ilkilpeR
+isegleziÇ
+tıyaK
+2202.01.10
+ılarıS
+,ıbatiK
+sreD
+,athat
+ıllıkA
+ıyıyas
+nalo
+küçük
+/
+küyüb nadıyas
+iki
+ikadnısara
+01 eli
+1
+ermE
+.1.3
+)-(ilemliritşileG
+2202.01.03
+)5/4(08%
+isetsiL
+lortnoK
+2202.01.03
+raltrak
+keT
+,raltrak
+.riretsög
+küçük
+ev
+küyüb
+ıralıyas
+ermE
+.3
+miterğö
+ilerüs
+emelkeb
+tibaS
+)+(ilreteY
+2202.01.03
+isegleziÇ
+tıyaK
+2202.11.10
+ılarıS
+,ıbatiK
+sreD
+,athat
+ıllıkA
+miterğö
+elrelemened
+kıryA
+)5/4(08%
+.relyös
+ıyıyas
+nalo
+küçük
+/
+küyüb nadıyas
+iki
+ikadnısara
+01 eli
+1
+ermE
+.2.3
+.rırıtşalışrak
+erög
+anıralmurud
+amlo
+isetsiL
+lortnoK
+2202.11.03
+raltrak
+keT
+,raltrak
+miterğö
+nadurğoD
+isegleziÇ
+tıyaK
+2202.11.10
+ılarıS
+,ıbatiK
+sreD
+,athat
+ıllıkA
+imetnöy
+miterğö
+lağoD
+)-(ilemliritşileG
+2202.01.03
+isetsiL
+lortnoK
+2202.11.03
+raltrak
+keT
+,raltrak
+miterğö
+elledom
+oediV
+)5/4(08%
+.ralarıs
+inirelizid
+ıyas
+nelirev
+adarıs
+kışırak
+adnığılara
+001-1
+ermE
+.1.4
+ıralıyas
+ikadnığılara
+001
+eli
+1
+ermE
+.4
+miterğö
+ilkilpeR
+isegleziÇ
+tıyaK
+2202.11.10
+ılarıS
+,ıbatiK
+sreD
+,athat
+ıllıkA
+ıyıyas
+nalıkarıb
+kiske nadnısara
+isizid ıyas
+nalo
+adnığılara
+001-1
+ermE
+.2.4
+.ralarıs
+)+(ilreteY
+2202.01.03
+)5/4(08%
+isetsiL
+lortnoK
+2202.11.03
+raltrak
+keT
+,raltrak
+.ralmamat
+alralıyas
+nelirev
+ıralıyas
+ayev
+isegleziÇ
+tıyaK
+2202.11.10
+ılarıS
+,ıbatiK
+sreD
+,athat
+ıllıkA
+)-(ilemliritşileG
+2202.01.03
+miterğö
+ilerüs
+emelkeb
+tibaS
+)5/4(08%
+.riretsög
+ıyıyas nenelyös
+adnısara
+001 eli
+1
+ermE
+.1.5
+isetsiL
+lortnoK
+2202.11.03
+raltrak
+keT
+,raltrak
+miterğö
+elrelemened
+kıryA
+isegleziÇ
+tıyaK
+2202.11.10
+ılarıS
+,ıbatiK
+sreD
+,athat
+ıllıkA
+miterğö
+nadurğoD
+ıralıyas
+radak
+e’001
+ned’1
+ermE
+.5
+)+(ilreteY
+2202.01.03
+)5/4(08%
+.relyös
+ıyıyas neliretsög
+adnısara
+001 eli
+1
+ermE
+.2.5
+isetsiL
+lortnoK
+2202.11.03
+raltrak
+keT
+,raltrak
+imetnöy
+miterğö
+lağoD
+.rede
+trıya
+miterğö
+elledom
+oediV
+isegleziÇ
+tıyaK
+2202.11.10
+ılarıS
+,ıbatiK
+sreD
+,athat
+ıllıkA
+)-(ilemliritşileG
+2202.01.03
+miterğö
+ilkilpeR
+)5/4(08%
+.razay ıyıyas
+nenetsi ısamzay
+adnısara
+001 eli
+1
+ermE
+.3.5
+isetsiL
+lortnoK
+2202.11.03
+raltrak
+keT
+,raltrak
+KOY
+**:irelemelnezüd
+ımatro
+mitiğE
+;niğenrÖ
+.rıdılamlızay
+yezüd
+o
+esi
+kacalıyas
+ılıraşab
+edemened
+çak
+şınarvad
+nenetsi
+kamlırıdnazak
+nekrılızay
+)iyezüD
+emşelkeçreG(
+tüçlÖ*
+;tüçlÖ
+*“
+)001%(
+5/5
+esi
+kacalıyas
+ılıraşab
+adnımamat
+ninemened
+5
+)08%(
+5/4
+esi
+kacalıyas
+ılıraşab
+icnerğö
+ednü’4
+ninemened
+5
+.rıdılamlızay
+ednilkeş
+)06%(
+5/3
+esi
+kacalıyas
+ılıraşab
+icnerğö
+ednü’3
+ninemened
+5
+ilayretam
+miterğö
+,isemnelnezüd
+kilenöy
+anıralçayithi
+ninicnerğö
+nınıravutarobal
+nef
+.nrö(
+relemelnezüd
+kacalıpay
+nikşili
+anınala
+mişileg/esred
+nenelrileb
+kilenöy
+anıralçama
+ninicnerğÖ
+:irelemelnezüd
+ımatro
+mitiğE**
+.ridilemnelke
+).bv
+irelemelnezüd
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+52
+5-KE
+IRALRARAK
+MİRİB
+EMRİTŞİLEG
+PEB
+-VI
+).bv
+iteyilaaf
+mitiğe
+ıcıyalmamat
+,ısamalugyu
+kılrızah
+enimitiğe
+purg
+,ısado
+mitiğe
+ketsed(
+ireltemzih
+mitiğe
+reğid
+içi
+luko
+ığacala
+ninicnerğÖ
+.A
+)rel(işik
+ulmuroS
+erüS
+kılatfaH
+sreD/ınalA
+mişileG
+ürüT
+temziH
+.Ö
+natlA
+4
+eçkrüT
+ısadO
+mitiğE
+ketseD
+.Ö
+natlA
+4
+kitametaM
+ısadO
+mitiğE
+ketseD
+icerüS
+emridneligliB
+eliA
+.B
+.rıtkacalıpay
+emridneliglib
+eyelia
+ya
+reH
+?keceliridneliglib
+alkılkıs
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+,nofelet(
+?keceliridneliglib
+alloy
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+eli nofelet
+ev
+ezüy
+züY
+).bv
+ılızay
+,ıtnalpot
+ezüy
+züy/içimirveç
+)
+x (
+tevE
+?ım
+kacalıpay
+imitiğe
+eliA
+)
+(
+rıyaH
+,ıtnalpot
+ezüy
+züy/içimirveç
+,nofelet(
+?kacalıpay
+alloy
+ignah
+imitiğe
+eliA
+ıtnalpot
+ezüy
+züy/içimirveç
+,nofeleT
+).bv
+ılızay
+ralraraK
+reğiD
+.C
+.keceliridneliglib
+elia
+iligli
+eli
+ımıkab
+ev
+ısamşılaç
+nınıralzahic
+emtişİ
+.1
+.rütşümlürög
+nugyu
+ısamnalraray
+edlikeş
+kacalo
+taas
+4 kılatfah
+nednirib
+reh
+ninirelsred
+kitametaM
+ev
+eçkrüT
+adnısado
+mitiğe
+ketseD
+.2
+.rıtkacalıpay
+ıtnalpot
+eli
+elia
+karanalrızah
+ınalp
+emritşiğed
+şınarvad
+ev
+kacalo
+şımnalmamat
+ıraltıyak
+dotkena
+radak
+anıya
+mısak
+kilenöy
+enimelborp
+şınarvaD
+.3
+3202.90.51
+:ihirat
+ıtnalpot
+imirib
+emitşileg
+PEB
+ikarnoS
+riB
+nirelses
+purG
+.2
+.rilibanıla
+çama
+amşunok
+eli
+relecmüt
+ülküczös
+4-3
+ikedzümünÖ
+.ittedyak
+emelreli
+rib
+rülürög
+elzög
+ednimişileg
+liD
+:*İSEMRİDNELREĞED
+PEB
+LENEG
+.ılamlışılaç
+imelşi
+amrakıÇ
+.royilibapay
+amalpot
+iledlE
+.ilemlide
+maved
+nedrelses
+purG
+.3
+.idnerğö
+ünümüt
+-nucunos
+emridnelreğed
+uB
+.rılıpay
+isemliridnelreğed
+ni’PEB
+nanalrızah
+kereliridnelreğed
+karalo
+leneg
+iyezüd
+amlışalu
+aralçama
+nala
+rey
+edniğireçi
+PEB
+niçi
+icnerğö
+acnuyob
+ılıy
+miterğö-mitiğE*
+.rıtkacalo
+edniğiletin
+irenö
+edni’PEB
+kacanalrızah
+niçi
+ılıy
+miterğö-mitiğe
+ikarnos
+rib
+ninicnerğö
+ad
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-5
+V- BEP GELİŞTİRME BİRİM ÜYELERİ
+BEP Geliştirme Birimi Üyeleri
+Ünvanı Adı Soyadı İmza
+Müdür/Müdür Yardımcısı (BEP Geliştirme Birim Başkanı)
+Öğrencinin Velisi (Anne/Baba/Yasal Vasi)
+Öğrencinin Sınıf Öğretmeni
+Öğrencinin Dersini Okutan Alan Öğretmenleri
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Rehber Öğretmen/Psikolojik Danışman
+Özel Eğitim Değerlendirme Kurulundan Üye (Varsa)
+Mesleki Eğitim Veren Özel Eğitim Okullarında Meslek Derslerini Okutan Alan Öğretmeni
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Diğer
+Uygundur
+Okul Müdürü
+.........../.........../20...........
+53
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-6 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği (İlkokul –
+Öğrenme Güçlüğü ve DEHB)*
+BİREYSELLEŞTİRİLMİŞ EĞİTİM
+PROGRAMI DOSYASI
+ÖĞRENCİNİN
+ADI SOYADI : Al*** KÜ***
+OKULU : ..................... Okulu
+NUMARASI : 360
+*Örneğin gerçek kişi ve kurumlarla ilgisi bulunmamaktadır.
+54
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-6
+I- ÖĞRENCİ BİLGİLERİ
+T.C
+........................................ Valiliği/Kaymakamlığı
+İl/İlçe Millî Eğitim Müdürlüğü
+........................................ Okulu
+20..... - 20..... Eğitim ve Öğretim Yılı
+Bireyselleştirilmiş Eğitim Programı Dosyası
+Adı-Soyadı Al*** KÜ***
+Sınıfı 2/C
+Okul numarası 360
+Doğum tarihi 17.03.2014
+İl/ilçe özel eğitim hizmetleri yerleştirme kurul kararı .................... tarihli ve .................... nolu İlçe Kurul Kararı
+Özel Öğrenme Güçlüğü - Dikkat Eksikliği ve Hiperaktivite Bo-
+Özel eğitim ihtiyacına yönelik aldığı eğitsel tanı
+zukluğu
+Bir önceki eğitim öğretim yılında 4 ay boyunca haftada 8 saat
+Varsa daha önce aldığı okul içi ve okul dışı destek eğitim hizmetleri ve destek eğitim odasından faydalanmıştır. Yine aynı sürede özel
+süresi* eğitim ve rehabilitasyon merkezinden haftada 2 saat bireysel
+1 saat grup eğitimi olmak üzere 3 saat destek eğitimi almıştır.
+Varsa almakta olduğu okul dışı destek eğitim hizmetleri ve süresi**
+Varsa kullandığı destek materyalleri/cihazlar (protez, işitme cihazı,
+---------------------------------------
+baston, büyüteç vb.)
+Önemli sağlık bilgileri (alerji, sürekli kullandığı ilaç, tüketmesi sakıncalı Dikkat eksikliğine yönelik .................... ilacını sabahları tok kar-
+gıdalar vb.) nına .................... mg almaktadır.
+Ali’nin dikkati çabuk dağıldığı için öğretmen masasının önün-
+Eğitim ortamına ilişkin düzenlemeler***
+deki sırada oturmasına karar verilmiştir.
+BEP Başlangıç Tarihi 27.09.2021
+BEP Bitiş Tarihi 03.06.2022
+Aile ile İlgili Bilgiler
+Anne Baba Veli/Vasi
+Adı-Soyadı Ay*** KÜ*** Me*** KÜ***
+Telefon 05XX XXX XX XX 05XX XXX XX XX
+Ev Adresi
+İş Adresi
+*Öğrencinin daha önce almış olduğu okul içi ve okul dışı destek eğitim hizmetleri (destek eğitim odası, özel eğitim ve rehabi-
+litasyon vb.) süresi ile birlikte bu kısma yazılmalıdır.
+**Öğrencinin BEP tamamlanma tarihine kadar aldığı/alacağı okul dışı destek eğitim hizmetleri (özel eğitim ve rehabilitasyon
+merkezi, yaygın eğitim kursları vb.) süresi ile birlikte bu kısma kaydedilmelidir.
+***Eğitim-öğretim yılı boyunca öğrencinin bireysel ihtiyaçlarına uygun olarak sınıf içi ve sınıf dışında yapılacak fiziki ortam
+düzenlemesi (sınıf içi oturma düzeni, ışık ayarlaması vb.) eklenmelidir.
+55
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-6
+II – EĞİTSEL PERFORMANS FORMU*
+Ali, 1. sınıfın ilk döneminde okuma yazma çalışmalarında 1. grup sesleri öğrenirken
+zorlanmaya başlamıştır. Bunu fark eden sınıf öğretmeni, Ali’nin ailesi ile görüşme yapıp
+bilgi topladıktan sonra aileye Ali’nin yaşadığı sorundan bahsederek sınıf içi uyarlamalar
+yapmaya başlamıştır. Orta sırada oturan Ali’nin derse konsantre olmakta zorlandığını
+gören öğretmen Ali’yi öğretmen masasının hemen önündeki sıraya almıştır. Ayrıca Ali ile
+ders başlarında ve aralarda bireysel olarak çalışmaya başlamıştır. Bir süre sonra yaptığı
+uyarlamaların sonucunda da Ali’nin okuma yazma öğrenmeye ilişkin sorunlarının devam
+Öğrencinin Gelişim Öyküsü
+ettiğini gözlemleyen öğretmen okul rehberlik/psikolojik danışma servisi ile değerlendir-
+me yaptıktan sonra Ali’nin velisi ve okul rehberlik/psikolojik danışma servisi ile görüşme
+yaparak öğrenciyi tıbbi değerlendirme için hastaneye yönlendirmiştir. Ali yapılan tıbbi
+değerlendirmeden sonra eğitsel değerlendirme ve tanılaması yapılmak üzere rehber-
+lik ve araştırma merkezine (RAM) yönlendirilmiştir. RAM’da eğitsel değerlendirme ve
+tanılaması yapılan Ali’nin özel öğrenme güçlüğü tanısı ile tam zamanlı kaynaştırma/
+bütünleştirme uygulamaları yoluyla eğitimine devam etmesine karar verilmiştir.
+Gelişim alanları/Dersler Performans düzeyi
+Ali, yazı araç gereçlerini tanımakta ve kullanabilmekte, iki ögeli örüntüleri oluşturabil-
+mekte, söylenen rakamı, sözcük dizisini ve cümleyi tekrar edebilmektedir. Ayrıca Ali
+noktalardan oluşan çizgileri birleştirebilmekte, temel çizgileri çizebilmektedir. Birinci,
+TÜRKÇE ikinci ve üçüncü grup sesleri ve seslere ait görselleri bilmekte ve bu sesleri ayırt edebil-
+mektedir. Bununla birlikte birinci grup (e-l-a-k-i-n) , ikinci grup (o-m-u-t-ü-y) ve üçüncü
+grup (ö-r-ı-d-s-b) seslerden heceler oluşturabilmektedir. Birinci, ikinci ve üçüncü grup
+seslerle oluşturulan açık ve kapalı heceler ile kelimeleri okuyup yazabilmektedir.
+Ali, nesne sayısı 20’ye kadar (20 dâhil) olan bir topluluktaki nesnelerin sayısını belir-
+lemekte ve bu sayıyı rakamla yazabilmekte, 20’ye kadar (20 dâhil) ikişer ileriye, birer
+ve ikişer geriye sayabilmekte, miktarı 10 ile 20 (10 ve 20 dâhil) arasında olan bir grup
+nesneyi, onluk ve birliklerine ayırarak gösterebilmekte, bu nesnelere karşılık gelen sayıyı
+rakamlarla yazabilmekte ve okuyabilmektedir. Bununla birlikte Ali toplamları 20’ye kadar
+MATEMATİK (20 dâhil) olan doğal sayılarla toplama işlemini yapabilmekte, 20’ye kadar (20 dâhil)
+olan doğal sayılarla çıkarma işlemi yapabilmekte, doğal sayılarla toplama işlemini ge-
+rektiren problemleri çözebilmekte, bütün ve yarımı uygun modeller ile gösterebilmekte,
+bütün ve yarım arasındaki ilişkiyi açıklayabilmektedir. Ali tam ve yarım saatleri okuya-
+bilmekte, madenî ve kâğıt paraları tanılayabilmekte, geometrik şekilleri köşe ve kenar
+sayılarına göre sınıflandırabilmektedir.
+Ali, kendisiyle akranları arasındaki benzer ve farklı yönleri ayırt edebilmekte, okula geliş
+ve okuldan gidişlerde güvenlik kurallarına uyabilmekte, okulunun bölümlerini tanıya-
+bilmekte, okul çalışanlarını tanıyabilmekte, okul kurallarına uyabilmektedir. Ayrıca Ali
+HAYAT BİLGİSİ
+aile bireylerini tanıtabilmekte, kişisel bakımını düzenli olarak yapabilmekte, yaşadığı yeri
+bilmekte, ülkemizin genel özelliklerini tanıyabilmekte, mevsimlere göre doğada meydana
+gelen değişiklikleri kavrayabilmektedir.
+Ali 40 dakikalık ders süresince ortalama 3-4 kez sınıf içerisinde dolaşma davranışı ser-
+Varsa davranış problemini tanımlayınız.**
+gilemektedir.
+*Öğrencinin takip ettiği program esas alınarak, öğrencinin güçlü yanlarını belirlemek ve yıl içerisinde öğrencinin geliştirmesi
+beklenen gelişim alanlarına/derslere ilişkin amaçların tespit edilebilmesi için informal değerlendirme araçları kullanılarak
+(gözlem, görüşme, kaba değerlendirme formları, yazılı sınavlar vb.) bu form doldurulmalıdır. Öğrencinin gelişim düzeyine ve
+bireysel ihtiyaçlarına göre gelişim alanları/dersler düzenlenebilir.
+* *Öğrencinin davranış problemi varsa davranış problemlerinin azaltılmasına yönelik davranış mdeğiştirme programı hazırlan-
+malıdır.
+56
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+57
+6-KE
+INALP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+–
+III
+emridnelreğeD-emçlÖ
+ev
+amalşaB
+ev
+metnöY
+miterğÖ
+snamrofreP
+emridnelreğeD
+rellayretaM
+kacalınalluK
+*tüçlÖ
+ralçamA
+ilmenöD
+asıK
+ralçamA
+ilmenöD
+nuzU
+emridnelreğeD
+ihiraT
+şitiB
+irelkinkeT
+/ )+(
+ilreteY
+ev
+metnöY
+irelhiraT
+)-(
+ilemliritşileG
+irelkinkeT
+eçkrüT
+ılızay
+ev
+ülzöS
+– 1202.90.72
+)+(ilreteY
+1202.01.51
+,ıralamşılaç
+kilnikte
+emelmüzöç
+ev
+mitelseS
+)5/4(08%
+.razay/ruko
+irelelmüc
+asık
+ev
+emilek
+,eceh
+naşulo
+nedrelses
+purg
+ilA
+.1.1
+1202.01.51
+ıralamşılaç
+etkiD
+ılızay
+ev
+ülzöS
+,urumah
+nuyo
+,ıraltrak
+eceh
+ev
+seS
+– 1202.01.81
+asık
+ev
+emilek
+,eceh
+,seS
+,ilA
+.1
+)+(ilreteY
+1202.11.5
+,ıralamşılaç
+kilnikte
+ilses
+ev
+oediv
+,athat
+ıllıka
+,isispet
+muk
+emelmüzöç
+ev
+mitelseS
+)5/4(08%
+.razay/ruko
+irelelmüc
+asık
+ev
+emilek
+,eceh
+naşulo
+nedrelses
+purg
+ilA
+.2.1
+1202.11.50
+.razay/ruko
+irelelmüc
+ıralamşılaç
+etkiD
+.rellayretam
+ılızay
+ev
+ülzöS
+– 1202.11.80
+)+(ilreteY
+1202.11.62
+,ıralamşılaç
+kilnikte
+emelmüzöç
+ev
+mitelseS
+)5/4(08%
+.razay/ruko
+irelelmüc
+asık
+ev
+emilek
+,eceh
+naşulo
+nedrelses
+purg
+ilA
+.3.1
+1202.11.62
+ıralamşılaç
+etkiD
+oroK
+,amuko
+ılrarkeT
+,irelnitem
+amukO
+– 1202.11.92
+)+(ilreteY
+1202.21.71
+ılıknaY
+,amuko
+ednilah
+)5/4(08%
+.ruko
+kerede
+takkid
+enirelteraşi
+amalatkon
+,ilA
+.1.2
+ıralpatik
+eyakih
+1202.21.71
+,ıralpatik
+eyâkih
+,irelnitem
+amukO
+,amuko
+inirelijetarts
+amuko
+ıcıka
+,ilA
+.2
+ıraltrak
+ensen
+oroK
+,amuko
+ılrarkeT
+.ralugyu
+,irelnitem
+amukO
+– 1202.21.02
+)+(ilreteY
+1202.10.12
+ılıknaY
+,amuko
+ednilah
+)5/4(08%
+.ruko
+ıcıka
+kerede
+takkid
+azuffalet
+ev
+amalnot
+,ugruv
+,ilA
+.2.2
+ıralpatik
+eyakih
+2202.10.12
+,amuko
+nadnıraluros
+K1
+N5
+– 2202.20.70
+,amalna
+unuğudukO
+)+(ilreteY
+2202.30.4
+amşılaç
+naşulo
+)5/4(08%
+.relrileb
+unusunok
+nintem
+iğidnelnid
+,uğuduko
+,ilA
+.1.3
+2202.30.40
+amuko
+ılrarkeT
+ıdığak
+amalarıs
+eyakiH
+– 2202.30.70
+,amalna
+unuğudukO
+)+(ilreteY
+2202.40.1
+ülzöS
+,ıraltrak
+)5/4(08%
+.rıtalna
+erög
+anısarıs
+şulo
+nıralyalo
+intem
+iğidnelnid
+,uğuduko
+,ilA
+.2.3
+mıtalna
+2202.40.10
+,ıralpatik
+eyâkih
+,irelnitem
+amukO
+amuko
+ılrarkeT
+,ralamşıyaS
+,relemelrekeT
+,relecemliB
+.ralna
+intem
+iğidelnid
+,uğuduko
+,ilA
+.3
+nadnıraluros
+K1
+N5
+– 2202.40.40
+ıraltraK
+amalarıS
+yalO
+,amalna
+unuğudukO
+)+(ilreteY
+2202.50.31
+amşılaç
+naşulo
+)5/4(08%
+.ralpavec
+ıraluros
+iligli
+elnitem
+iğidnelnid
+,uğuduko
+,ilA
+.3.3
+2202.50.31
+amuko
+ılrarkeT
+ıdığak
+nadnıraluros
+K1
+N5
+– 2202.50.61
+,amalna
+unuğudukO
+)+(ilreteY
+2202.60.3
+amşılaç
+naşulo
+)5/4(08%
+.relrileb
+kılşab
+rib
+iney
+nugyu
+entem
+iğidnelnid
+,uğuduko
+,ilA
+.4.3
+2202.60.30
+amuko
+ılrarkeT
+ıdığak
+koY
+**:irelemelnezüd
+ımatro
+mitiğE
+;niğenrÖ
+.rıdılamlızay
+yezüd
+o
+esi
+kacalıyas
+ılıraşab
+edemened
+çak
+şınarvad
+nenetsi
+kamlırıdnazak
+nekrılızay
+)iyezüD
+emşelkeçreG(
+tüçlÖ*
+;tüçlÖ
+*
+)001%(
+5/5
+esi
+kacalıyas
+ılıraşab
+adnımamat
+ninemened
+5
+)08%(
+5/4
+esi
+kacalıyas
+ılıraşab
+icnerğö
+ednü’4
+ninemened
+5
+.rıdılamlızay
+ednilkeş
+)06%(
+5/3
+esi
+kacalıyas
+ılıraşab
+icnerğö
+ednü’3
+ninemened
+5
+ilayretam
+miterğö
+,isemnelnezüd
+kilenöy
+anıralçayithi
+ninicnerğö
+nınıravutarobal
+nef
+.nrö(
+relemelnezüd
+kacalıpay
+nikşili
+anınala
+mişileg/esred
+nenelrileb
+kilenöy
+anıralçama
+ninicnerğÖ
+:irelemelnezüd
+ımatro
+mitiğE**
+.ridilemnelke
+).bv
+irelemelnezüd
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev mitiğE
+lezÖ
+58
+6-KE
+IRALRARAK
+MİRİB
+EMRİTŞİLEG
+PEB
+-VI
+).bv
+iteyilaaf
+mitiğe
+ıcıyalmamat
+,ısamalugyu
+kılrızah
+enimitiğe
+purg
+,ısado
+mitiğe
+ketsed(
+ireltemzih
+mitiğe
+reğid
+içi
+luko
+ığacala
+ninicnerğÖ
+.A
+)rel(işik
+ulmuroS
+erüS
+kılatfaH
+sreD/ınalA
+mişileG
+ürüT
+temziH
+.F
+temhA
+taas
+8
+eçkrüT
+ısadO
+mitiğE
+ketseD
+icerüS
+emridneligliB
+eliA
+.B
+.keceliridneliglib
+nüg
+rib
+adatfah
+eliA
+?keceliridneliglib
+alkılkıs
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+-yığılıcara
+nofelet
+emridneliglib
+admurud
+iska
+keceliritşelkeçreg
+ezüy
+züy
+relemşürög
+adnumurud
+ısamlo
+tiasüm
+ninemterğö
+ev
+nineliA
+,nofelet(
+?keceliridneliglib
+alloy
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+.rıtkacalıpay
+al
+).bv
+ılızay
+,ıtnalpot
+ezüy
+züy/içimirveç
+)
+(
+tevE
+?ım
+kacalıpay
+imitiğe
+eliA
+)
+x (
+rıyaH
+,ıtnalpot
+ezüy
+züy/içimirveç
+,nofelet(
+?kacalıpay
+alloy
+ignah
+imitiğe
+eliA
+).bv
+ılızay
+ralraraK
+reğiD
+.C
+.ritşimlirev
+rarak
+anısamla
+mitiğe
+adnısado
+mitiğe
+ketsed
+taas
+8 adatfaH
+.1
+.ritşimemlürög
+kereg
+anısamnalrızah
+ınalp
+mitiğe
+niçi
+sred
+ub
+niçi
+uğudlo
+edniyezüd
+mişileg
+ınya
+eli
+ıralnarka
+ednisred
+kitametaM
+.2
+.ritşimemlürög
+kereg
+anısamnalrızah
+ınalp
+mitiğe
+niçi
+sred
+ub
+niçi
+uğudlo
+edniyezüd
+mişileg
+ınya eli
+ıralnarka
+ednisred
+isigliB
+tayaH
+.3
+-argorp
+emritşiğed
+şınarvad
+karanıla
+ketsed
+nad'
+..……………
+inemterğö
+mitiğe
+lezö
+napay
+verög
+adnuluko
+mitiğe
+lezö
+nalo
+etteyilaaf
+ednizekrem
+eçli
+kilenöy
+anısamlıtlaza
+ninirelmelborp
+şınarvad
+niyeriB
+.4
+.rıtkacanalızah
+ım
+1202/30/30:
+ihirat
+ıtnalpot
+imirib
+emritşileg
+PEB
+ikarnoS
+riB
+:*İSEMRİDNELREĞED
+PEB
+LENEG
+-nucunos
+emridnelreğed
+uB
+.rılıpay
+isemliridnelreğed
+ni’PEB
+nanalrızah
+kereliridnelreğed
+karalo
+leneg
+iyezüd
+amlışalu
+aralçama
+nala
+rey
+edniğireçi
+PEB
+niçi
+icnerğö
+acnuyob
+ılıy
+miterğö-mitiğE*
+.rıtkacalo
+edniğiletin
+irenö
+edni’PEB
+kacanalrızah
+niçi
+ılıy
+miterğö-mitiğe
+ikarnos
+rib
+ninicnerğö
+ad
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-6
+V- BEP GELİŞTİRME BİRİM ÜYELERİ
+BEP Geliştirme Birimi Üyeleri
+Ünvanı Adı Soyadı İmza
+Müdür/Müdür Yardımcısı (BEP Geliştirme Birim Başkanı)
+Öğrencinin Velisi (Anne/Baba/Yasal Vasi)
+Öğrencinin Sınıf Öğretmeni
+Öğrencinin Dersini Okutan Alan Öğretmenleri
+Sınıf Öğretmeni 1
+Sınıf Öğretmeni (Destek Eğitim Odası Öğretmeni) 2
+Branşı 3
+Branşı 4
+Branşı 5
+Rehber Öğretmen/Psikolojik Danışman
+Özel Eğitim Değerlendirme Kurulundan Üye (Varsa)
+Mesleki Eğitim Veren Özel Eğitim Okullarında Meslek Derslerini Okutan Alan Öğretmeni
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Diğer
+Uygundur
+Okul Müdürü
+.........../.........../20...........
+59
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-7 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği (Ortaokul – Hafif
+Düzey Zihinsel Yetersizlik)*
+BİREYSELLEŞTİRİLMİŞ EĞİTİM
+PROGRAMI DOSYASI
+ÖĞRENCİNİN
+ADI SOYADI : Al*** EM***
+OKULU : ..................... Okulu
+NUMARASI : 1234
+*Örneğin gerçek kişi ve kurumlarla ilgisi bulunmamaktadır.
+60
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-7
+I- ÖĞRENCİ BİLGİLERİ
+T.C
+........................................ Valiliği/Kaymakamlığı
+İl/İlçe Millî Eğitim Müdürlüğü
+........................................ Okulu
+20..... - 20..... Eğitim ve Öğretim Yılı
+Bireyselleştirilmiş Eğitim Programı Dosyası
+Adı-Soyadı Al*** EM***
+Sınıfı Hafif Zihinsel 6. Sınıf A Şubesi
+Okul numarası 1234
+Doğum tarihi 20.07.2010
+İl/ilçe özel eğitim hizmetleri yerleştirme kurul kararı ......................... tarihli ve .................. nolu İlçe Kurul Kararı
+Özel eğitim ihtiyacına yönelik aldığı eğitsel tanı Hafif Düzeyde Zihinsel Yetersizlik
+Varsa daha önce aldığı okul içi ve okul dışı destek eğitim hizmetleri ve Özel eğitim ve rehabilitasyon merkezinde haftada 2 saat birey-
+süresi* sel, 1 saat grup eğitimi alıyor.
+Özel eğitim ve rehabilitasyon merkezinde haftada 2 saat birey-
+Varsa almakta olduğu okul dışı destek eğitim hizmetleri ve süresi**
+sel, 1 saat grup eğitimi alıyor.
+Varsa kullandığı destek materyalleri/cihazlar (protez, işitme cihazı,
+Yok
+baston, büyüteç vb.)
+Önemli sağlık bilgileri (alerji, sürekli kullandığı ilaç, tüketmesi sakıncalı Besin alerjisi var. (Gluten)
+gıdalar vb.) ............. ilacını günde 1 kez sabahları tok karnına 15 mg alıyor.
+Sınıf ortamı "U" düzeninde olacak şekilde planlanmıştır. Öğren-
+Eğitim ortamına ilişkin düzenlemeler***
+ci baştan 3. sırada oturacaktır.
+BEP Başlangıç Tarihi 01.10.2020
+BEP Bitiş Tarihi 01.06.2021
+Aile ile İlgili Bilgiler
+Anne Baba Veli/Vasi
+Adı-Soyadı Ha*** EM*** Ad*** EM***
+Telefon 05** *** ** ** 05** *** ** **
+Ev Adresi
+İş Adresi
+*Öğrencinin daha önce almış olduğu okul içi ve okul dışı destek eğitim hizmetleri (destek eğitim odası, özel eğitim ve rehabi-
+litasyon vb.) süresi ile birlikte bu kısma yazılmalıdır.
+**Öğrencinin BEP tamamlanma tarihine kadar aldığı/alacağı okul dışı destek eğitim hizmetleri (özel eğitim ve rehabilitasyon
+merkezi, yaygın eğitim kursları vb.) süresi ile birlikte bu kısma kaydedilmelidir.
+***Eğitim-öğretim yılı boyunca öğrencinin bireysel ihtiyaçlarına uygun olarak sınıf içi ve sınıf dışında yapılacak fiziki ortam
+düzenlemesi (sınıf içi oturma düzeni, ışık ayarlaması vb.) eklenmelidir.
+61
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-7
+II – EĞİTSEL PERFORMANS FORMU*
+Ali 4 yaşındayken ailesinin ağabeyine göre gelişiminin geç kaldığı düşüncesi ile doktora
+Öğrencinin Gelişim Öyküsü gitmişler. Doktor raporu ile rehabilitasyon hizmetine başlamışlar o günden bu güne de
+ilkokul kademesi de dahil olmak üzere özel eğitim sınıfında eğitimine devam etmiştir.
+Gelişim alanları/Dersler Performans düzeyi
+Türkçe: Yazı araç gereçlerini kullanır. Bağımsız ses okur. Dinlediği metinin sorularını yanıtlar.
+İleriye doğru 69'a kadar sayar. 20’den geriye doğru sayar. Rakamları tanır. Söylenen iki
+Matematik: basamaklı rakamları yazar. İkişer, beşer ve onar ritmik sayar. Tek basamaklı sayıyı tek
+basamaklı olacak şekilde toplar. İki basamaklı sayıyı eldesiz toplar.
+Sosyal bilgiler: Mevsimleri sayar. Sınıfın kurallarını sayar. Atatürk’ü tanır. Bayrağımızı tanır.
+Müzik: Çevresindeki müzik etkinliklerine katılır. Atatürk ile ilgili müzikleri tanır.
+Ana renkleri tanır. Ara renkleri tanır. Çalışmalarında farklı materyal, malzeme kullanır-
+Görsel Sanatlar:
+lar. Basit resim çizer. Basit resim boyar.
+Bağımsız yürür. Bağımsız koşar. Bağımsız sıçrar. Top atar. Topa ayakla vurur. Top yu-
+Beden Eğitim ve Spor:
+varlar. Oyun ve etkinliklerde kurallara uyar. İp atlar.
+Fen Bilimleri: Dünyayı tanır. Kendini ve yakın çevresini tanıtır.
+Gerektiğinde reddetme davranışı gösterir. Serbest zamanını ilgilisi doğrultusunda kulla-
+Toplumsal Uyum Becerileri:
+nır. Okul servisinde kurallara uyar. Başlıca meslekleri tanır.
+Varsa davranış problemini tanımlayınız.** YOK
+*Öğrencinin takip ettiği program esas alınarak, öğrencinin güçlü yanlarını belirlemek ve yıl içerisinde öğrencinin geliştirmesi
+beklenen gelişim alanlarına/derslere ilişkin amaçların tespit edilebilmesi için informal değerlendirme araçları kullanılarak
+(gözlem, görüşme, kaba değerlendirme formları, yazılı sınavlar vb.) bu form doldurulmalıdır. Öğrencinin gelişim düzeyine ve
+bireysel ihtiyaçlarına göre gelişim alanları/dersler düzenlenebilir.
+* *Öğrencinin davranış problemi varsa davranış problemlerinin azaltılmasına yönelik davranış mdeğiştirme programı hazırlan-
+malıdır.
+62
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+63
+7-KE
+INALP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+–
+III
+emridnelreğeD-emçlÖ
+ev
+metnöY
+miterğÖ
+snamrofreP
+emridnelreğeD
+ihiraT
+şitiB
+ev
+amalşaB
+rellayretaM
+kacalınalluK
+*tüçlÖ
+ralçamA
+ilmenöD
+asıK
+ralçamA
+ilmenöD
+nuzU
+emridnelreğeD
+irelkinkeT
+/ )+(
+ilreteY
+ev
+metnöY
+irelhiraT
+)-(
+ilemliritşileG
+irelkinkeT
+eçkrüT
+0202/01/52 0202/01/03
+)+(ilreteY
+0202/11/51
+TBÖ
+0202
+mısaK
+- 0202
+mikE
+,melak
+,retfed
+, ,athat
+ıllıkA
+amalna
+unuğudukO
+)5/4(08%
+.raltınay
+ınıraluros amalna
+nintem iğidelnid
+karalo
+zısmığab
+ilA
+.1.1
+amalna
+nintem
+nelirev
+ilA
+.1.1
+0202/11/02
+ıdığak
+amşılaç
+irelijetarts
+urğod
+karalo
+zısmığab
+ınıraluros .raltınay
+amalna
+nintem uğuduko
+nugyu eniyezüd
+karalo
+zısmığab
+ilA
+.2.1
+)-(ilemliritşileG
+.....
+TBÖ
+0202
+kılarA
+- 0202
+mısaK
+)5/4(08%
+.raltınay
+ınıraluros
+edrelnitem
+ığıdzay karakab
+karalo
+zısmığab
+adnısafed
+reh ilA
+.1.2
+.....
+.....
+.....
+0202
+mısaK
+- 0202
+mikE
+)5/4(08%
+.razay
+intem kerede
+takkid enirelteraşi
+amalatkon
+nalınalluk
+.....
+.....
+.....
+0202
+kılarA
+- 0202
+mısaK
+,melak
+,retfed
+, ,athat
+ıllıkA
+)5/4(08%
+.relteraşi
+),( ülügriv nanulub
+edniçi
+nitem
+karalo
+zısmığab
+ilA
+.2.2
+nenelyös
+karalo
+zısmığab
+ilA
+.2.2
+miterğÖ
+nadurğoD
+amalatkon
+nekrazay
+intem
+.....
+.....
+.....
+1202
+kacO
+- 0202
+kılarA
+.ıdığak
+amşılaç
+.relteraşi
+)?(
+iteraşi uros nanulub
+edniçi
+nitem
+karalo
+zısmığab
+ilA
+.3.2
+.razay
+nitem
+karayu
+enirelteraşi
+uros
+),(
+lügriv
+intem nenelyös
+karalo zısmığab
+ednü3
+nedzek
+4 ilA
+.4.2
+.....
+.....
+.....
+..…
+)5/4(08%
+.razay
+karanalluk
+)?( iteraşi
+KİTAMETAM
+ıralmakar
+ılkamasab
+çü neliretsög
+karalo
+zısmığab
+adnısafed
+reh ilA
+.1.1
+.....
+.....
+.....
+0202
+mısaK
+- 0202
+mikE
+,athat
+ıllıkA
+,ıraltrak
+ıyaS
+)5/5(001%
+.ruko
+karalo
+zısmığab
+adnısafed
+reh ilA
+.1
+miterğö
+nadurğoD
+ıralmakar
+ılkamasab
+çü
+nenelyös
+.....
+.....
+.....
+0202
+kılarA
+- 0202
+mısaK
+.ıdığak
+amşılaç
+,melak
+,retfed
+)5/5(001%
+ıralıyas
+ılkamasab
+çü nenelyös
+karalo
+zısmığab
+adnısafed
+reh ilA
+.2.1
+.razay
+.razay
+a 03 karalo
+zısmığab
+edniğidlined
+yas kimtir
+ilreçü
+adnısafed
+reh ilA
+.1.2
+.....
+.....
+.....
+0202
+kılarA
+- 0202
+mısaK
+)5/5(001%
+.rayas
+kimtir
+ilreçü radak
+a 04 karalo
+zısmığab
+edniğidlined
+yas kimtir
+redröd
+adnısafed
+reh ilA
+.2.2
+.....
+.....
+.....
+1202
+kacO
+- 0202
+kılarA
+)5/5(001%
+.rayas
+kimtir
+redröd radak
+zısmığab
+radak
+a 06 edniğidlined
+yas kimtir
+raşıtla
+adnısafed
+reh ilA
+.3.2
+.....
+.....
+.....
+.....
+,athat
+ıllıkA
+,ıraltrak
+ıyaS
+)5/5(001%
+.rayas
+kimtir
+raşıtla karalo
+yas
+.…
+adnısafed
+reh ilA
+.2
+miterğö
+nadurğoD
+kimtir
+karalo
+zısmığab
+edniğidlined
+.....
+.....
+.....
+.....
+.ıdığak
+amşılaç
+,melak
+,retfed
+)5/5(001%
+e 07 karalo
+zısmığab
+edniğidlined
+yas kimtir
+reşidey
+adnısafed
+reh ilA
+.4.2
+.rayas
+.rayas
+kimtir
+reşidey radak
+e 08 karalo
+zısmığab
+edniğidlined
+yas kimtir
+rezikes
+adnısafed
+reh ilA
+.5.2
+.....
+.....
+.....
+.....
+)5/5(001%
+.rayas
+kimtir
+rezikes radak
+09 karalo
+zısmığab
+edniğidlined
+yas kimtir
+razukod
+adnısafed
+reh ilA
+.6.2
+.....
+.....
+.....
+.....
+)5/5(001%
+.rayas
+kimtir
+razukod
+radak
+a
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+64
+emridnelreğeD-emçlÖ
+ev
+metnöY
+miterğÖ
+snamrofreP
+emridnelreğeD
+ihiraT
+şitiB
+ev
+amalşaB
+rellayretaM
+kacalınalluK
+*tüçlÖ
+ralçamA
+ilmenöD
+asıK
+ralçamA
+ilmenöD
+nuzU
+emridnelreğeD
+irelkinkeT
+/ )+(
+ilreteY
+ev
+metnöY
+irelhiraT
+)-(
+ilemliritşileG
+irelkinkeT
+KİTAMETAM
+ednü’4
+nedemened
+5
+inirelmelşi
+amalpot
+iledle
+nelirev
+enisidnek
+ilA
+.1.3
+.....
+.....
+.....
+1202
+tabuŞ
+-
+1202
+kacO
+)5/4(08%
+.rapay
+karalo
+zısmığab
+amalpot
+nelirev
+enisidnek
+ilA
+.3
+,melak
+,retfed
+,athat
+ıllıkA
+miterğö
+nadurğoD
+zısmığab
+ednü3
+nedzek
+4
+inirelmelşi
+.ıdığak
+amşılaç
+5 iyeğö
+nalıkarıb
+kiske
+ednimelşi
+amalpot
+nelirev
+enisidnek
+ilA
+2.3
+.rapay
+karalo
+.....
+.....
+.....
+.....
+)5/4(08%
+.rulub
+karalo
+zısmığab
+ednü’4
+nedemened
+İRELMİLİB
+NEF
+uyolbak
+edniğidlined
+retsög
+uyolbak
+karalo
+zısmığab
+adnısafed
+reh ilA
+.1.1
+.....
+.....
+.....
+0202
+mısaK
+-
+0202
+mikE
+)5/5(001%
+.riretsög
+ıyabmal
+edniğidlined
+retsög
+ıyabmal
+karalo
+zısmığab
+adnısafed
+reh ilA
+.2.1
+.....
+.....
+.....
+.....
+)5/5(001%
+.riretsög
+amşılaç
+,rellayretaM
+keçreG
+ev
+miterğö
+nadurğoD
+karalo
+zısmığab
+adnınaro
+08%
+ilA
+.1
+oediv
+,ıraltığak
+noysartsomeD
+.rurutşulo
+iserved
+kirtkelE
+tisab
+.....
+.....
+.....
+.....
+)5/5(001%
+.riretsög
+ilip
+edniğidlined
+retsög
+ilip
+karalo
+zısmığab
+adnısafed
+reh ilA
+.3.1
+kiritkele
+karapay
+ralıtnalğab
+nugyu
+karalo
+zısmığab
+adnınaro
+08% ilA
+.4.1
+.....
+.....
+.....
+.....
+)5/4(08%
+.rurutşulo
+iserved
+.rıtkacanalrızah
+ıraltığak
+amşılaç
+nugyu
+eniyezüd
+niyeriB
+**:irelemelnezüd
+ımatro
+mitiğE
+;niğenrÖ
+.rıdılamlızay
+yezüd
+o
+esi
+kacalıyas
+ılıraşab
+edemened
+çak
+şınarvad
+nenetsi
+kamlırıdnazak
+nekrılızay
+)iyezüD
+emşelkeçreG(
+tüçlÖ*
+;tüçlÖ
+*
+)001%(
+5/5
+esi
+kacalıyas
+ılıraşab
+adnımamat
+ninemened
+5
+)08%(
+5/4 esi
+kacalıyas
+ılıraşab
+icnerğö
+ednü’4
+ninemened
+5
+.rıdılamlızay
+ednilkeş
+)06%(
+5/3 esi
+kacalıyas
+ılıraşab
+icnerğö
+ednü’3
+ninemened
+5
+ilayretam
+miterğö
+,isemnelnezüd
+kilenöy
+anıralçayithi
+ninicnerğö
+nınıravutarobal
+nef
+.nrö(
+relemelnezüd
+kacalıpay
+nikşili
+anınala
+mişileg/esred
+nenelrileb
+kilenöy
+anıralçama
+ninicnerğÖ
+:irelemelnezüd
+ımatro
+mitiğE**
+.ridilemnelke
+).bv
+irelemelnezüd
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+65
+7-KE
+IRALRARAK
+MİRİB
+EMRİTŞİLEG
+PEB
+-VI
+).bv
+iteyilaaf
+mitiğe
+ıcıyalmamat
+,ısamalugyu
+kılrızah
+enimitiğe
+purg
+,ısado
+mitiğe
+ketsed(
+ireltemzih
+mitiğe
+reğid
+içi
+luko
+ığacala
+ninicnerğÖ
+.A
+)rel(işik
+ulmuroS
+erüS
+kılatfaH
+sreD/ınalA
+mişileG
+ürüT
+temziH
+iseglezİÇ
+sreD
+kılatfaH
+inemterğÖ
+şnarB
+iliglİ
+ev
+ZİNED
+ılzaN
+ropS
+ev
+imitiğE
+nedeB
+,kizüM
+,raltanaS
+lesröG
+emritşelnütüB
+/amrıtşanyaK
+ılnamaZ
+ıraY
+adnısase
+icerüS
+emridneligliB
+eliA
+.B
+rib
+adya
+3
+?keceliridneliglib
+alkılkıs
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+,nofelet(
+?keceliridneliglib
+alloy
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+.karalo
+ılızaY
+).bv
+ılızay
+,ıtnalpot
+ezüy züy/içimirveç
+)
+x
+(
+tevE
+?ım
+kacalıpay
+imitiğe
+eliA
+)
+(
+rıyaH
+,ıtnalpot
+ezüy
+züy/içimirveç
+,nofelet(
+?kacalıpay
+alloy
+ignah
+imitiğe
+eliA
+.eli
+uloy
+ıtnalpot
+içi
+mirveÇ
+).bv
+ılızay
+ralraraK
+reğiD
+.C
+.rıtkacanalğas
+ıralampay
+emnelseb
+adnıralara
+elğÖ
+.ridrelkeceriteg
+kemey
+aluko
+eli
+ıcama
+kemelketsed
+inirelemnelseb
+ılkılğas
+nirelicnerğÖ
+.1
+.rıtkacanalğas
+isemrüdrüs
+etkilrib
+eli
+ıralnarka
+neretsög
+mişileg
+lamron
+inirelsred
+imitiğe
+nedeb
+ev
+kizüm
+,miser
+adnıfınıs
+C-6
+etkilrib
+eli
+ıraltışay
+adnığıdnıla
+enünözög
+ısnamrofrep
+niyeriB
+.2
+32
+pulo
+şimlirev
+rarak
+enisemliridnelreğed
+nibelat
+erög
+anıralsnamrofrep
+nirelyeriB
+.ritşimte
+pelat
+inisemlide
+lihad
+anıralnuyo
+klah
+nunuğucoç
+,inisemlirev
+kılrığa
+erelteyilaaf
+laysos
+mınaH
+alyeL
+isenna
+nin'ilA
+.3
+.rıtkacanalğas
+ısamla
+verög
+ednirelneröt
+sıyaM
+91
+ev
+nasiN
+1202.30.02
+: ihirat
+ıtnalpot
+imirib
+emritşileg
+PEB
+ikarnoS
+riB
+.rıtşımlırıdnazak
+elyümüt
+ederüs
+nanalnalp
+,ralçama
+nanıla
+et’PEB
+:*İSEMRİDNELREĞED
+PEB
+LENEG
+-nucunos
+emridnelreğed
+uB
+.rılıpay
+isemliridnelreğed
+ni’PEB
+nanalrızah
+kereliridnelreğed
+karalo
+leneg
+iyezüd
+amlışalu
+aralçama
+nala
+rey
+edniğireçi
+PEB
+niçi
+icnerğö
+acnuyob
+ılıy
+miterğö-mitiğE*
+.rıtkacalo
+edniğiletin
+irenö
+edni’PEB
+kacanalrızah
+niçi
+ılıy
+miterğö-mitiğe
+ikarnos
+rib ninicnerğö
+ad
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-7
+V- BEP GELİŞTİRME BİRİM ÜYELERİ
+BEP Geliştirme Birimi Üyeleri
+Ünvanı Adı Soyadı İmza
+Müdür/Müdür Yardımcısı (BEP Geliştirme Birim Başkanı)
+Öğrencinin Velisi (Anne/Baba/Yasal Vasi)
+Öğrencinin Sınıf Öğretmeni
+Öğrencinin Dersini Okutan Alan Öğretmenleri
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Rehber Öğretmen/Psikolojik Danışman
+Özel Eğitim Değerlendirme Kurulundan Üye (Varsa)
+Mesleki Eğitim Veren Özel Eğitim Okullarında Meslek Derslerini Okutan Alan Öğretmeni
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Diğer
+Uygundur
+Okul Müdürü
+.........../.........../20...........
+66
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-8 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği (Ortaokul – Orta-
+Ağır Düzey Zihinsel Yetersizlik)*
+BİREYSELLEŞTİRİLMİŞ EĞİTİM
+PROGRAMI DOSYASI
+ÖĞRENCİNİN
+ADI SOYADI : Me*** SA***
+OKULU : ..................... Okulu
+NUMARASI : 1234
+*Örneğin gerçek kişi ve kurumlarla ilgisi bulunmamaktadır.
+67
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-8
+I- ÖĞRENCİ BİLGİLERİ
+T.C
+........................................ Valiliği/Kaymakamlığı
+İl/İlçe Millî Eğitim Müdürlüğü
+........................................ Okulu
+20..... - 20..... Eğitim ve Öğretim Yılı
+Bireyselleştirilmiş Eğitim Programı Dosyası
+Adı-Soyadı Me*** SA***
+Sınıfı 7. Sınıf A Şubesi
+Okul numarası 1234
+Doğum tarihi 20.07.2006
+İl/ilçe özel eğitim hizmetleri yerleştirme kurul kararı .................... tarihli ve .................... nolu İlçe Kurul Kararı
+Özel eğitim ihtiyacına yönelik aldığı eğitsel tanı Orta-Ağır Düzeyde Zihinsel Yetersizlik
+Özel eğitim ve rehabilitasyon merkezinde okul öncesinden iti-
+Varsa daha önce aldığı okul içi ve okul dışı destek eğitim hizmetleri ve
+baren bireysel ve grup eğitimi alıyor. Geçen sene tamamalayıcı
+süresi*
+eğitim almış.
+Özel eğitim ve rehabilitasyon merkezinde haftada 2 saat birey-
+Varsa almakta olduğu okul dışı destek eğitim hizmetleri ve süresi**
+sel, 1 saat grup eğitimi alıyor.
+Varsa kullandığı destek materyalleri/cihazlar (protez, işitme cihazı,
+Yok
+baston, büyüteç vb.)
+Önemli sağlık bilgileri (alerji, sürekli kullandığı ilaç, tüketmesi sakıncalı Epilepsi ............. ilacını günde 2 kez sabahları tok karnına 1
+gıdalar vb.) mg alıyor.
+Olası nöbet durumuna karşı tek başına etrafında nesne bulun-
+Eğitim ortamına ilişkin düzenlemeler***
+maması sağlanacaktır.
+BEP Başlangıç Tarihi 01.10.2021
+BEP Bitiş Tarihi 01.06.2022
+Aile ile İlgili Bilgiler
+Anne Baba Veli/Vasi
+Adı-Soyadı Si*** SA*** Se*** SA***
+Telefon 05** *** ** ** 05** *** ** **
+Ev Adresi
+İş Adresi
+*Öğrencinin daha önce almış olduğu okul içi ve okul dışı destek eğitim hizmetleri (destek eğitim odası, özel eğitim ve rehabi-
+litasyon vb.) süresi ile birlikte bu kısma yazılmalıdır.
+**Öğrencinin BEP tamamlanma tarihine kadar aldığı/alacağı okul dışı destek eğitim hizmetleri (özel eğitim ve rehabilitasyon
+merkezi, yaygın eğitim kursları vb.) süresi ile birlikte bu kısma kaydedilmelidir.
+***Eğitim-öğretim yılı boyunca öğrencinin bireysel ihtiyaçlarına uygun olarak sınıf içi ve sınıf dışında yapılacak fiziki ortam
+düzenlemesi (sınıf içi oturma düzeni, ışık ayarlaması vb.) eklenmelidir.
+68
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-8
+II – EĞİTSEL PERFORMANS FORMU*
+Meltem anne karnında 35 haftalık iken erken doğum ile prematüre bebek olarak dünya-
+ya gelmiştir. Yapılan incelemeler ve tetkikler sonucunda zihinsel olarak yetersizlik olabi-
+leceği belirtilmiştir. Daha sonraki süreçlerde tıbbi tanılama yapılmış ve eğitsel tanılama
+Öğrencinin Gelişim Öyküsü
+için Rehberlik Araştırma Merkezine yönlendirilmiştir. 48 aylıktan itibaren özel eğitim ve
+rehabilitasyon merkezine devam etmektedir. Okul öncesi dönemde özel eğitim anaoku-
+luna ve ilkokul eğitiminde özel eğitim uygulama okulunda eğitimlerine devam etmiştir.
+Gelişim alanları/Dersler Performans düzeyi
+Türkçe ve Okuma Yazma: Yazı araç gereçlerini kullanır. Bağımsız ses okur. Dinlediği metinin sorularını yanıtlar.
+İleriye doğru 20 ye kadar sayar. 10 dan geriye doğru sayar. Rakamları tanır. Tek basas-
+Matematik:
+maklı sayıyı tek basamaklı olacak şekilde toplar.
+Uygun şekilde sosyal etkileşime girer. Tanışma becerileri gösterir. İzin almak için, yar-
+Sosyal Beceriler:
+dım istemek için, merak edilen bir konuda ve bir etkileşimin ardından soru sorar.
+Müzik: Müziği kurallarına uygun dinler. Yaşadığı ve doğduğu yöreye ait türküleri dinler.
+Resim çizme çalışmalarında kullanılan araç gereçleri ifade eder. Boyama çalışmaların-
+Görsel Sanatlar ve El Becerileri:
+da kullanılan araç gereçleri ifade eder.
+Kişisel temizlik becerilerini gerçekleştirir. Okul yemekhanesinde kurallara uyarak ye-
+Günlük Yaşam Becerileri:
+mek yeme becerilerini gerçekleştirir.
+Temel jimnastik duruşları yapar. Jimnastik araçları ile hareketler yapar. Çeşitli şekiller-
+Spor ve Fizikî Etkinlikler:
+de dönüşler yapar. Çeşitli şekillerde sıralanmalar yapar.
+Aile bireyleri ile olumlu ilişkiler kurar. Aile içi sorumluluklarını yerine getirir. İslam dini-
+Din Kültürü ve Ahlak Bilgisi:
+nin temizliğe verdiği önemi söyler. Günlük temizliğin gereklerini yerine getirir.
+Beslenme ile ilgili kavramları ayırt eder. Beslenme ile ilgili önlem alır. Beslenme bece-
+Beslenme, Sağlık ve Güvenlik:
+rilerini yerine getirir.
+İlgi duyduğu nesneler / etkinlikler ve zorlandığı etkinlikler hakkında soru sorar. Bir kişi
+İletişim Becerileri: ya da nesneyi ayırt etmek için soru sorar. Yönergeleri yerine getirir. Yetişkin birini taklit
+eder. Videodan taklit eder.
+Varsa davranış problemini tanımlayınız.** YOK
+*Öğrencinin takip ettiği program esas alınarak, öğrencinin güçlü yanlarını belirlemek ve yıl içerisinde öğrencinin geliştirmesi
+beklenen gelişim alanlarına/derslere ilişkin amaçların tespit edilebilmesi için informal değerlendirme araçları kullanılarak
+(gözlem, görüşme, kaba değerlendirme formları, yazılı sınavlar vb.) bu form doldurulmalıdır. Öğrencinin gelişim düzeyine ve
+bireysel ihtiyaçlarına göre gelişim alanları/dersler düzenlenebilir.
+* *Öğrencinin davranış problemi varsa davranış problemlerinin azaltılmasına yönelik davranış mdeğiştirme programı hazırlan-
+malıdır.
+69
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+70
+8-KE
+INALP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+–
+III
+emridnelreğeD-emçlÖ
+ev metnöY miterğÖ
+ilreteY
+snamrofreP
+emridnelreğeD
+ihiraT
+şitiB
+ev
+amalşaB
+rellayretaM
+kacalınalluK
+*tüçlÖ
+ralçamA
+ilmenöD
+asıK
+ralçamA
+ilmenöD
+nuzU
+emridnelreğeD
+irelkinkeT
+ilemliritşileG
+/
+)+(
+ev
+metnöY
+irelhiraT
+)-(
+irelkinkeT
+kilnevüG ev kılğaS
+emnelseB
+nos
+nıya
+reH
+)+(ilreteY
+sred
+ünüg
+amuC
+TBÖ
+1202
+mısaK
+- 1202
+mikE
+.relyös
+inirelvelşi
+ninirelçereg-çara
+kılğas
+karalo
+zısmığab
+adnınaro
+08%
+metleM
+.1.1
+ednitaas
+,melak
+,retfed
+,athat
+ıllıkA
+iligli
+alkılğas
+adnınaro
+08% metleM
+.1
+miterğÖ nadurğoD
+.rellesrög
+,ıdığak
+amşılaç
+.rede
+trıya ıralmarvak
+nos
+nıya
+reH
+)+(ilreteY
+sred
+ünüg
+amuC
+TBÖ
+1202
+kılarA
+- 1202
+mısaK
+.relyös
+inirelverög
+nınıralnaşılaç
+kılğas
+karalo
+zısmığab
+adnınaro
+08%
+metleM
+.2.1
+ednitaas
+…
+…
+…
+1202
+mısaK
+- 1202
+mikE
+.reçes
+tefayık
+nugyu
+erög emisvem
+karalo
+zısmığab
+ednü3
+nedzek
+4
+metleM
+.1.2
+,melak
+,retfed
+, ,athat
+ıllıkA
+…
+…
+…
+1202
+kılarA
+- 1202
+mısaK
+.reyig
+itefayık
+iğitçes
+erög emisvem
+karalo
+zısmığab
+ednü3
+nedzek
+4
+metleM
+.2.2
+zısmığab
+ednü3 nedzek
+4 metleM
+.2
+,ıraltrak
+ensen
+,ıdığak
+amşılaç
+miterğÖ nadurğoD
+.rıla melnö
+iligli eli
+emniyig
+karalo
+.relensen
+keçreg
+ıyayşe
+iğitçes
+nugyu
+anumurud
+avaH
+karalo
+zısmığab
+ednü3
+nedzek
+4
+metleM
+.3.2
+…
+…
+…
+2202
+kacO
+- 1202
+kılarA
+.rıla
+anınay
+irelireceB
+mişitelİ
+1202
+kılarA
+- 1202
+mısaK
+.ralarıs
+erög
+anısarıs
+şulo ınıtrak
+ükyö
+idey karalo
+zısmığab
+adnısafed
+reh
+metleM
+.2.1
+zısmığab
+adnısafed
+reh metleM
+.1
+ıraltraK
+ükyÖ
+imetnöY miterğÖ
+zısşılnaY
+anısarıs
+şulo ınıraltrak
+ükyö
+karalo
+1202
+kılarA
+- 1202
+mısaK
+.ralarıs
+erög
+anısarıs
+şulo ınıtrak
+ükyö
+zikes karalo
+zısmığab
+adnısafed
+reh
+metleM
+.3.1
+.ralarıs
+erög
+1202
+kılarA
+- 1202
+mısaK
+.rırıdnalda
+ınıralnagro
+çi ednirezü
+tekam karalo
+zısmığab
+adnısafed
+reh
+metleM
+.2.2
+1202
+kacO
+- 1202
+kılarA
+,athat
+ıllıka
+,itekam
+zumuducüV
+,miterğö ilerüs
+emelkeB
+.rırıdnalda
+ınıralnagro
+çi ednirezü
+miser karalo
+zısmığab
+adnısafed
+reh
+metleM
+.3.2
+nasni
+adnısafed
+reh metleM
+.2
+bv
+ıraltığak
+amşılaç
+imiterğö tasrıF
+.rırıdnalda
+ıralnagro
+çi ikadnuducüv
+çi neliretsög
+irey ednirezü
+uducüv
+idneK
+karalo
+zısmığab
+adnısafed
+reh
+metleM
+.4.2
+1202
+tabuŞ
+- 1202
+kacO
+.relyös
+ınınagro
+relireceB
+laysoS
+miterğÖ ilkilpeR
+elyös
+ınısaramun
+nofelet
+ninenna
+karalo
+zısmığab
+adnısafed
+reh
+metleM
+.1.1
+1202
+mısaK
+- 1202
+mikE
+miterğÖ elrelemeneD
+kıryA
+.relyös
+ınısaramun
+nofelet
+ninisenna
+edniğidlined
+elyös
+ınısaramun
+nofelet
+nınabab
+karalo
+zısmığab
+adnısafed
+reh
+metleM
+.2.1
+1202
+kılarA
+- 1202
+mısaK
+.relyös
+ınısaramun
+nofelet
+nınısabab
+edniğidlined
+zısmığab
+adnınaro
+08% metleM
+.1
+.rışalyap
+inireliglib
+mişiteli
+karalo
+iniserda
+ve edniğidlined
+elyös iziniserda
+ve karalo
+zısmığab
+adnısafed
+reh
+metleM
+.3.1
+1202
+kacO
+- 1202
+kılarA
+.relyös
+luko
+edniğidlined
+elyös iniserda
+luko karalo
+zısmığab
+adnısafed
+reh
+metleM
+.4.1
+.relyös
+iniserda
+..rıtkacanalrızah
+ıraltığak
+amşılaç
+nugyu
+eniyezüd
+niyeriB
+**:irelemelnezüd
+ımatro
+mitiğE
+;niğenrÖ
+.rıdılamlızay
+yezüd
+o esi kacalıyas
+ılıraşab
+edemened
+çak
+şınarvad
+nenetsi
+kamlırıdnazak
+nekrılızay
+)iyezüD
+emşelkeçreG(
+tüçlÖ*
+;tüçlÖ*
+)001%(
+5/5
+esi
+kacalıyas
+ılıraşab
+adnımamat
+ninemened
+5
+)08%(
+5/4
+esi
+kacalıyas
+ılıraşab
+icnerğö
+ednü’4
+ninemened
+5
+.rıdılamlızay
+ednilkeş
+)06%(
+5/3
+esi
+kacalıyas
+ılıraşab
+icnerğö
+ednü’3
+ninemened
+5
+ilayretam
+miterğö
+,isemnelnezüd
+kilenöy
+anıralçayithi
+ninicnerğö
+nınıravutarobal
+nef
+.nrö(
+relemelnezüd
+kacalıpay
+nikşili
+anınala
+mişileg/esred
+nenelrileb
+kilenöy
+anıralçama
+ninicnerğÖ
+:irelemelnezüd
+ımatro
+mitiğE**
+.ridilemnelke
+).bv irelemelnezüd
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+71
+8-KE
+IRALRARAK
+MİRİB
+EMRİTŞİLEG
+PEB
+-VI
+).bv
+iteyilaaf
+mitiğe
+ıcıyalmamat
+,ısamalugyu
+kılrızah
+enimitiğe
+purg
+,ısado
+mitiğe
+ketsed(
+ireltemzih
+mitiğe
+reğid
+içi
+luko
+ığacala
+ninicnerğÖ
+.A
+)rel(işik
+ulmuroS
+erüS
+kılatfaH
+sreD/ınalA
+mişileG
+ürüT
+temziH
+RALĞA
+laliH
+ev
+ZİNED
+ılzaN
+itaas
+sred
+2
+irelireceB
+mişitelİ
+ev
+relireceB
+laysoS
+iteyilaaf
+mitiğe
+ıcıyalmamaT
+icerüS
+emridneligliB
+eliA
+.B
+rib
+adya
+3
+?keceliridneliglib
+alkılkıs
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+,nofelet(
+?keceliridneliglib
+alloy
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+.eli
+uloy
+ıtnalpot
+içi
+mirveÇ
+).bv
+ılızay
+,ıtnalpot
+ezüy
+züy/içimirveç
+) x (
+tevE
+?ım
+kacalıpay
+imitiğe
+eliA
+) (
+rıyaH
+,ıtnalpot
+ezüy
+züy/içimirveç
+,nofelet(
+?kacalıpay
+alloy
+ignah
+imitiğe
+eliA
+.eli
+uloy
+ıtnalpot
+içi
+mirveÇ
+).bv
+ılızay
+ralraraK
+reğiD
+.C
+.ritşimlirev
+rarak
+ednünöy
+ısamla
+irelireceb
+mişiteli
+ev
+relireceb
+laysos
+taas
+iki
+adatfaH
+.ritşimliridnelnöy
+ednünöy
+isemrev
+eçkelid
+eyeradi
+pulo
+şimte
+pelat
+iteyilaaf
+mitiğe
+ıcıyalmamat
+eliA
+.1
+.ritşimlirev
+rarak
+ednünöy
+isemlide
+lihad
+amargorp
+nıralçama
+iliglİ
+.ritşimte
+pelat
+inisemnide
+inisiglib
+nofelet
+ev
+serda
+nunuğucoç
+,inisemlirev
+kılrığa
+erelireceb
+laysos
+mınaH
+netlüG
+isenna
+nin'metleM
+.2
+1202.30.02
+:
+ihirat
+ıtnalpot
+imirib
+emitşileg
+PEB
+ikarnoS
+riB
+.ritkecede
+maved
+ıralamşılaç
+kılıcılak
+ev
+emelleneG
+.rıtşımlırıdnazak
+ederüs
+nanalnalp
+,ralçama
+nanıla
+et’PEB
+:*İSEMRİDNELREĞED
+PEB
+LENEG
+-nucunos
+emridnelreğed
+uB
+.rılıpay
+isemliridnelreğed
+ni’PEB
+nanalrızah
+kereliridnelreğed
+karalo
+leneg
+iyezüd
+amlışalu
+aralçama
+nala
+rey
+edniğireçi
+PEB
+niçi
+icnerğö
+acnuyob
+ılıy
+miterğö-mitiğE*
+.rıtkacalo
+edniğiletin
+irenö
+edni’PEB
+kacanalrızah
+niçi
+ılıy
+miterğö-mitiğe
+ikarnos
+rib
+ninicnerğö
+ad
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-8
+V- BEP GELİŞTİRME BİRİM ÜYELERİ
+BEP Geliştirme Birimi Üyeleri
+Ünvanı Adı Soyadı İmza
+Müdür/Müdür Yardımcısı (BEP Geliştirme Birim Başkanı)
+Öğrencinin Velisi (Anne/Baba/Yasal Vasi)
+Öğrencinin Sınıf Öğretmeni
+Öğrencinin Dersini Okutan Alan Öğretmenleri
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Rehber Öğretmen/Psikolojik Danışman
+Özel Eğitim Değerlendirme Kurulundan Üye (Varsa)
+Mesleki Eğitim Veren Özel Eğitim Okullarında Meslek Derslerini Okutan Alan Öğretmeni
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Diğer
+Uygundur
+Okul Müdürü
+.........../.........../20...........
+72
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-9 Bireyselleştirilmiş Eğitim Programı (BEP) Dosyası Örneği (Lise – Öğrenme
+Güçlüğü)*
+BİREYSELLEŞTİRİLMİŞ EĞİTİM
+PROGRAMI DOSYASI
+ÖĞRENCİNİN
+ADI SOYADI : Ay*** AS***
+OKULU : ..................... Okulu
+NUMARASI : 3482
+*Örneğin gerçek kişi ve kurumlarla ilgisi bulunmamaktadır.
+73
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-9
+I- ÖĞRENCİ BİLGİLERİ
+T.C
+........................................ Valiliği/Kaymakamlığı
+İl/İlçe Millî Eğitim Müdürlüğü
+........................................ Okulu
+20..... - 20..... Eğitim ve Öğretim Yılı
+Bireyselleştirilmiş Eğitim Programı Dosyası
+Adı-Soyadı Ay*** AS***
+Sınıfı 10/C
+Okul numarası 3482
+Doğum tarihi 18.07.2006
+İl/ilçe özel eğitim hizmetleri yerleştirme kurul kararı ......................... tarihli ve ......................... nolu İlçe Kurul Kararı
+Özel eğitim ihtiyacına yönelik aldığı eğitsel tanı Özel Öğrenme Güçlüğü
+Bir önceki eğitim öğretim yılı boyunca BEP Geliştirme Birimi
+Varsa daha önce aldığı okul içi ve okul dışı destek eğitim hizmetleri ve kararı doğrultusunda haftada 4 saat destek eğitim odasından
+süresi* faydalanmıştır. Ayrıca özel eğitim ve rehabilitasyon merkezin-
+den haftada 2 saat bireysel destek eğitimi almıştır.
+Özel eğitim ve rehabilitasyon merkezinden haftada 2 saat bi-
+Varsa almakta olduğu okul dışı destek eğitim hizmetleri ve süresi**
+reysel destek eğitim alacaktır.
+Varsa kullandığı destek materyalleri/cihazlar (protez, işitme cihazı,
+baston, büyüteç vb.)
+Önemli sağlık bilgileri (alerji, sürekli kullandığı ilaç, tüketmesi sakıncalı
+gıdalar vb.)
+Ayşe’nin pencere kenarında oturduğunda dikkati dağıldığı için
+Eğitim ortamına ilişkin düzenlemeler*** sınıfta duvar kenarında en ön sırada oturmasına karar veril-
+miştir.
+BEP Başlangıç Tarihi 01.11.2021
+BEP Bitiş Tarihi 17.06.2022
+Aile ile İlgili Bilgiler
+Anne Baba Veli/Vasi
+Adı-Soyadı As*** As*** Mu*** As***
+Telefon 05** *** ** ** 05** *** ** **
+Ev Adresi
+İş Adresi
+*Öğrencinin daha önce almış olduğu okul içi ve okul dışı destek eğitim hizmetleri (destek eğitim odası, özel eğitim ve rehabi-
+litasyon vb.) süresi ile birlikte bu kısma yazılmalıdır.
+**Öğrencinin BEP tamamlanma tarihine kadar aldığı/alacağı okul dışı destek eğitim hizmetleri (özel eğitim ve rehabilitasyon
+merkezi, yaygın eğitim kursları vb.) süresi ile birlikte bu kısma kaydedilmelidir.
+***Eğitim-öğretim yılı boyunca öğrencinin bireysel ihtiyaçlarına uygun olarak sınıf içi ve sınıf dışında yapılacak fiziki ortam
+düzenlemesi (sınıf içi oturma düzeni, ışık ayarlaması vb.) eklenmelidir.
+74
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-9
+II – EĞİTSEL PERFORMANS FORMU*
+Ayşe 10. sınıf öğrencisidir. Mimar Sinan Anadolu Lisesine adres değişikliğinden dolayı
+nakil gelmiştir. Ayşe özel öğrenme güçlüğü tanısından dolayı eğitimine kaynaştırma/
+bütünleştirme uygulamaları yoluyla devam etmektedir. Bu sebeple Ayşe’nin annesi
+okulun açıldığı ilk hafta okula gelmiş psikolojik danışman/ rehber öğretmen ile görüşe-
+Öğrencinin Gelişim Öyküsü rek Ayşe’nin durumu ile ilgili bilgi vermiştir. PDR öğretmeni sınıf rehber öğretmeni ile
+görüşerek BEP geliştirme biriminden toplantı talep etmiştir. Yapılan toplantıya Ayşe de
+katılmıştır. Ayşe fizik dersini öğrenmekte zorlandığını, birebir çalışıldığında daha etkili
+olduğunu ifade etmiştir. Bunun üzerine fizik dersinden performans alımı yapılarak BEP
+hazırlama çalışmalarına başlanmıştır.
+Gelişim alanları/Dersler Performans düzeyi
+Ayşe fiziğin felsefe, biyoloji, kimya, teknoloji gibi alanlarla ilişkili olduğunu ifade etmek-
+tedir. Kütle ve hacim kavramlarını bilmektedir. Düzgün geometrik şekilli cisimleri küp,
+FİZİK
+dikdörtgen prizması, silindir, kürenin adlarını bilmekte ve görselleri ile eşleştirebilmek-
+tedir. Düzgün geometrik şekillerden ismi söylenilen şekli çizebilir.
+Kaba değerlendirme ve informal araçlar ile yapılan değerlendirme sonuçlarında birey diğer derslerde akranları ile aynı performansa sahip
+olduğu görülmüştür.
+Varsa davranış problemini tanımlayınız.** Öğrencinin herhangi bir davranış programı bulunmamaktadır.
+*Öğrencinin takip ettiği program esas alınarak, öğrencinin güçlü yanlarını belirlemek ve yıl içerisinde öğrencinin geliştirmesi
+beklenen gelişim alanlarına/derslere ilişkin amaçların tespit edilebilmesi için informal değerlendirme araçları kullanılarak
+(gözlem, görüşme, kaba değerlendirme formları, yazılı sınavlar vb.) bu form doldurulmalıdır. Öğrencinin gelişim düzeyine ve
+bireysel ihtiyaçlarına göre gelişim alanları/dersler düzenlenebilir.
+* *Öğrencinin davranış problemi varsa davranış problemlerinin azaltılmasına yönelik davranış mdeğiştirme programı hazırlan-
+malıdır.
+75
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+76
+9-KE
+INALP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+–
+III
+emridnelreğeD-emçlÖ
+snamrofreP
+emridnelreğeDt
+şitiB
+ev
+amalşaB
+kacalınalluK
+metnöY
+miterğÖ
+/
+)+(
+ilreteY
+emridnelreğeD
+*tüçlÖ
+ralçamA
+ilmenöD
+asıK
+ralçamA
+ilmenöD
+nuzU
+ev
+metnöY
+ihiraT
+rellayretaM
+irelkinkeT
+ev
+ilemliritşileG
+irelhiraT
+irelkinkeT
+)-(
+relsreD/ıralnala
+mişileG
+amşılaç
+ılızaY
+- 1202.11.1
+)+(ilreteY
+1202.11.21
+)5/4(08%
+.rapay ınımınat
+nineltük
+zö eşyA
+.1.1
+yened
+,ıraltığak
+1202.11.21
+rellesrög
+,ralıvıs
+iltişeÇ
+amşılaç
+ılızaY
+- 1202.11.51
+nadurğod
+,yeneD
+inirelmüşünöd
+mirib
+micah ev
+eltük
+eşyA
+.2.1
+)+(ilreteY
+1202.21.3
+nuşruk
+,rimed
+,nıtla(
+)5/4(08%
+.rede
+edafi
+iyeltük
+zÖ
+.1
+yened
+,ıraltığak
+1202.21.30
+,miterğö
+.rapay
+).bv
+amşılaç
+ılızaY
+- 1202.21.60
+)+(ilreteY
+1202.21.71
+)5/4(08%
+.reziç
+kifarg
+iligli
+elmicah
+ev
+eltük
+eşyA
+.3.1
+yened
+,ıraltığak
+1202.21.71
+amşılaç
+ılızaY
+- 1202.21.02
+)+(ilreteY
+2202.10.12
+)5/4(08%
+.rırıdnalfınıs
+inireltekerah
+nirelmisic
+eşyA
+.1.2
+ıraltığak
+2202.10.12
+amşılaç
+ılızaY
+- 2202.20.70
+tarüs
+,emritşiğed
+rey
+,loy
+nanıla ,munok
+eşyA
+.2.2
+)+(ilreteY
+2202.30.4
+)5/4(08%
+ıraltığak
+2202.30.40
+.riridnelikşili
+eli
+irelribrib
+ınıralmarvak
+zıh
+ev
+amşılaç
+ılızaY
+- 2202.30.70
+zıh
+,munok
+niçi
+tekerah
+lasurğod
+nügzüd
+eşyA
+.3.2
+)+(ilreteY
+2202.30.52
+)5/4(08%
+ıraltığak
+2202.30.52
+,pot
+,eylib
+,çapoT
+,melzög
+,şunuS
+.riridnelikşili
+ınıralmarvak
+namaz
+ev
+.ralmınat
+itekeraH
+.2
+amşılaç
+ılızaY
+- 2202.30.82
+arakam
+,sıtankım
+pavec
+uros
+,yened
+)+(ilreteY
+2202.40.51
+)5/4(08%
+.ralkıça
+ınımarvak
+zıh amalatro
+eşyA
+.4.2
+ıraltığak
+2202.40.51
+amşılaç
+ılızaY
+- 2202.40.81
+amalşavay
+ev
+amnalzıh
+ınımarvak
+emvi
+eşyA
+.5.2
+)+(ilreteY
+2202.50.31
+)5/4(08%
+ıraltığak
+2202.50.31
+.riridnelikşili
+eli
+ıralyalo
+amşılaç
+ılızaY
+- 2202.50.61
+snarefer
+ılkraf initekerah
+nimsic
+rib eşyA
+.6.2
+)+(ilreteY
+2202.60.71
+)5/4(08%
+ıraltığak
+2202.60.71
+.ralkıça erög
+anıralatkon
+ımatro
+mitiğE
+..rıtkacanalrızah
+ıraltığak
+amşılaç
+nugyu eniyezüd
+niyeriB
+**:irelemelnezüd
+;niğenrÖ
+.rıdılamlızay
+yezüd
+o
+esi
+kacalıyas
+ılıraşab
+edemened
+çak
+şınarvad
+nenetsi
+kamlırıdnazak
+nekrılızay
+)iyezüD
+emşelkeçreG(
+tüçlÖ*
+;tüçlÖ*
+)001%(
+5/5 esi
+kacalıyas
+ılıraşab
+adnımamat
+ninemened
+5
+)08%(
+5/4
+esi kacalıyas
+ılıraşab
+icnerğö
+ednü’4
+ninemened
+5
+.rıdılamlızay
+ednilkeş
+)06%(
+5/3
+esi kacalıyas
+ılıraşab
+icnerğö
+ednü’3
+ninemened
+5
+ilayretam
+miterğö
+,isemnelnezüd
+kilenöy
+anıralçayithi
+ninicnerğö
+nınıravutarobal
+nef
+.nrö(
+relemelnezüd
+kacalıpay
+nikşili
+anınala
+mişileg/esred
+nenelrileb
+kilenöy
+anıralçama
+ninicnerğÖ
+:irelemelnezüd
+ımatro
+mitiğE**
+.ridilemnelke
+).bv
+irelemelnezüd
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+77
+9-KE
+IRALRARAK
+MİRİB
+EMRİTŞİLEG
+PEB
+-VI
+).bv
+iteyilaaf
+mitiğe
+ıcıyalmamat
+,ısamalugyu
+kılrızah
+enimitiğe
+purg
+,ısado
+mitiğe
+ketsed(
+ireltemzih
+mitiğe
+reğid
+içi
+luko
+ığacala
+ninicnerğÖ
+.A
+)rel(işik
+ulmuroS
+erüS
+kılatfaH
+sreD/ınalA
+mişileG
+ürüT
+temziH
+.G
+peceR
+4
+kiziF
+ısado
+mitiğe
+ketseD
+icerüS
+emridneligliB
+eliA
+.B
+.keceliridneliglib
+nüg
+rib
+adatfah
+eliA
+?keceliridneliglib
+alkılkıs
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+-yığılıcara
+nofelet
+emridneliglib
+admurud
+iska
+keceliritşelkeçreg
+ezüy
+züy
+relemşürög
+adnumurud
+ısamlo
+tiasüm
+ninemterğö
+ev
+nineliA
+,nofelet(
+?keceliridneliglib
+alloy
+ignah
+iligli
+eli
+imişileg
+ninicnerğö
+eliA
+.rıtkacalıpay
+al
+).bv
+ılızay
+,ıtnalpot
+ezüy
+züy/içimirveç
+)
+(
+tevE
+?ım
+kacalıpay
+imitiğe
+eliA
+)
+x (
+rıyaH
+,ıtnalpot
+ezüy
+züy/içimirveç
+,nofelet(
+?kacalıpay
+alloy
+ignah
+imitiğe
+eliA
+).bv
+ılızay
+ralraraK
+reğiD
+.C
+.rıtkacanaladyaf
+nadnısado
+mitiğe
+ketsed
+nednisred
+kizif
+taas
+4 adatfaH
+.1 .2 .3
+2202/20/70
+: ihirat
+ıtnalpot
+imirib
+emitşileg
+PEB
+ikarnoS
+riB
+:*İSEMRİDNELREĞED
+PEB
+LENEG
+-nucunos
+emridnelreğed
+uB
+.rılıpay
+isemliridnelreğed
+ni’PEB
+nanalrızah
+kereliridnelreğed
+karalo
+leneg
+iyezüd
+amlışalu
+aralçama
+nala
+rey
+edniğireçi
+PEB
+niçi
+icnerğö
+acnuyob
+ılıy
+miterğö-mitiğE*
+.rıtkacalo
+edniğiletin
+irenö
+edni’PEB
+kacanalrızah
+niçi
+ılıy
+miterğö-mitiğe
+ikarnos
+rib
+ninicnerğö
+ad
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-9
+V- BEP GELİŞTİRME BİRİM ÜYELERİ
+BEP Geliştirme Birimi Üyeleri
+Ünvanı Adı Soyadı İmza
+Müdür/Müdür Yardımcısı (BEP Geliştirme Birim Başkanı)
+Öğrencinin Velisi (Anne/Baba/Yasal Vasi)
+Öğrencinin Sınıf Öğretmeni
+Öğrencinin Dersini Okutan Alan Öğretmenleri
+Fizik 1
+Kimya 2
+Biyoloji 3
+Matematik 4
+Tarih 5
+Coğrafya 6
+Felsefe 7
+Almanca 8
+Din Kültürü ve Ahlak Bilgisi 9
+İngilizce 10
+Beden Eğitimi ve Spor 11
+Görsel Sanatlar / Müzik 12
+Türk Dili ve Edebiyatı 13
+Rehber Öğretmen/Psikolojik Danışman
+Özel Eğitim Değerlendirme Kurulundan Üye (Varsa)
+Mesleki Eğitim Veren Özel Eğitim Okullarında Meslek Derslerini Okutan Alan Öğretmeni
+Branşı 1
+Branşı 2
+Branşı 3
+Branşı 4
+Branşı 5
+Ayşe AS*** (Öğrenci)
+Uygundur
+Okul Müdürü
+.........../.........../20...........
+78
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-10 Kaba Değerlendirme Formu Örneği
+Öğrenci Adı-Soyadı : Uygulayıcı :
+Numarası : Uygulama Tarihi :
+Sınıfı :
+TÜRKÇE DERSİ
+DİNLEME/İZLEME Evet Hayır
+Dinlediklerinde /izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. +
+Dinlediği/izlediği metni anlatır. -
+Dinlediklerinin/izlediklerinin konusunu belirler. +
+Dinlediklerine/izlediklerine yönelik sorulara cevap verir. -
+Dinlediklerine/izlediklerine farklı başlıklar önerir. -
+Sözlü yönergeleri uygular. +
+Dinleme stratejilerini uygular. +
+Konuşmacının sözlü olmayan mesajını kavrar. -
+KONUŞMA
+Kelimeleri anlamlarına uygun kullanır. +
+Hazırlıksız konuşmalar yapar. -
+Çerçevesi belirli bir konu hakkında konuşur. +
+Konuşma stratejilerini uygular. -
+MATEMATİK DERSİ
+DOĞAL SAYILARLA TOPLAMA İŞLEMİ Evet Hayır
+Toplamları 100’e kadar (100 dâhil) olan doğal sayılarla eldesiz ve eldeli toplama işlemini yapar. +
+İki sayının toplamında verilmeyen toplananı bulur. +
+İki doğal sayının toplamını tahmin eder ve tahminini işlem sonucuyla karşılaştırır. -
+Zihinden toplama işlemi yapar. -
+Doğal sayılarla toplama işlemini gerektiren problemleri çözer. -
+DOĞAL SAYILARLA ÇIKARMA İŞLEMİ Evet Hayır
+100’e kadar olan doğal sayılarla onluk bozmayı gerektiren ve gerektirmeyen çıkarma işlemini yapar. -
+100 içinde 10’un katı olan iki doğal sayının farkını zihinden bulur. +
+Doğal sayılarla yapılan çıkarma işleminin sonucunu tahmin eder ve tahminini işlem sonucuyla
+-
+karşılaştırır.
+Toplama ve çıkarma işlemleri arasındaki ilişkiyi fark eder. +
+79
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-11 Ölçüt Bağımlı Ölçü Aracı Örneği
+KARE KAVRAMI ANALİZİ
+İlişkili nitelik İlişkisiz nitelik
+Dört kenarının 90 derece olup Renk
+birbirine eşit olması Büyüklük
+Malzeme
+Bildirimler Ölçüt Sorular
+1. Dört farklı şekilde, aynı tipte (renk, büyüklük, 3/4 1. Önündeki şekillere bak. Kare olanı göster.
+malzemede), her bir şekilden birer tane geometrik
+şekil arasından ‘kare olanı göster’ denildiğinde kare
+olanı gösterir. a. Plastik 6 cm.
+b. El işi kağıdı 8 cm.
+c. Fon kağ. 10 cm.
+d. Kumaş 12 cm.
+2. Dört farklı şekilde, aynı tipte (renk, büyüklük, 3/4 2. Önündeki şekil resimlerine bak. Kare olanı göster.
+malzemede), her bir şekilden birer tane geometrik
+şekil resmi arasından ‘kare olanı göster’ denildiğin-
+de kare olanı gösterir.
+a. 6 cm El işi
+b. 10 cm Fon
+c. plastik 12 cm
+d. kumaş 8 cm
+80
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-11
+3. Dört farklı şekilde, aynı tipte, her bir şekilden 3/4 3. Önündeki şekillere bak. Bu şeklin adı ne söyle.
+birer tane geometrik şekil ya da şekil resmi ara-
+sından kare olan gösterilip ‘Bu şeklin adı ne? Söyle’
+denildiğinde kare olduğunu söyler.
+a. fon 8 cm
+b. plastik 12 cm
+c. el işi 6cm
+d. kumaş 10 cm
+4. Dört farklı şekilde, farklı tipte, her bir şekilden 3/4 4. Önündeki şekillere bak. Kare olanı göster.
+birer tane geometrik şekil arasından ‘kare olanı
+göster’ denildiğinde kare olanı gösterir.
+a. 10 cm.
+Plastik Fon El işi Kumaş
+b. 12 cm.
+Fon El işi Kumaş Plastik
+c. 8 cm.
+El işi Kumaş Plastik Fon
+d. 6 cm
+Plastik Fon El işi Kumaş
+81
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-11
+5. Dört farklı şekilde, farklı tipte,her bir şekilden bi- 3/4 5. Önündeki şekil resimlerine bak. Kare olanı göster.
+rer tane geometrik şekil resmi arasından ‘kare olanı
+göster’ denildiğinde kare olanı gösterir.
+a.
+10 cm 8 cm 6 cm 12 cm
+b.
+12 cm 10 cm 8 cm 6 cm
+c.
+6 cm 8 cm 10 cm 12 cm
+d.
+8 cm 10 cm 6 cm 12 cm
+6. Dört farklı şekilde, farklı tipte, her bir şekilden 3/4 6. Önündeki şekil resimlerine bak. Bu şeklin adı ne söyle.
+birer tane geometrik şekil ya da şekil resmi arasın-
+dan kare olan gösterilip ‘Bu şeklin adı ne? Söyle’
+denildiğinde kare olduğunu söyler.
+a.
+P l a s t i k E l i ş i F o n K u m a ş
+12 cm 10 cm 8 cm 6 cm
+b.
+10 cm 8 cm 6 cm 12 cm
+c.
+Plastik Mukavva Fon Kumaş
+8 cm 6 cm 12 cm 10 cm
+d.
+6 cm 12 cm 10 cm 8 cm
+82
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-11
+7. Farklı şekilde bölümleri olan bir nesnenin ‘kare 3/4 7. Önündeki ……. bak, kare olan bölümünü göster.
+olan yerini (bölümünü) göster’ denildiğinde kare
+a. Yapboz parçası
+olan bölümünü gösterir.
+b. Yapboz parçası
+c. Teyp maketi
+d. Yapboz oyuncak
+8. Farklı şekilde bölümleri olan bir nesne resminin 3/4 8. Elimdeki …….. resmine bak, kare olan bölümünü göster.
+‘kare olan bölümünü göster’ denildiğinde kare olan
+a. Çamaşır makinası resmi
+bölümünü gösterir.
+b. Karışık şekilli tişört resmi
+c. Karışık şekilli valiz resmi
+d. Fırın resmi
+9. Farklı şekilde bölümleri olan bir nesne ya da 9. Elimdeki …… \ …….. resmine bak burası hangi şekil söyle?
+nesne resminin kare olan bölümü gösterilip ‘bura-
+a. Oyuncak kamera
+sı hangi şekil? Söyle’ denildiğinde kare olduğunu
+söyler.
+b. Karışık şekilli kazak resmi
+c. Araba maketi
+d. Karışık şekilli mutfak tezgahı resmi.
+83
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-12 Davranış Değiştirme Programı Formu Örneği
+DAVRANIŞ DEĞİŞTİRME
+PROGRAMI
+ÖĞRENCİNİN ADI SOYADI : ..................................................................
+HAZIRLAYAN : ........................................................................................
+84
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-12
+BÖLÜM-1
+ANEKTOD KAYIT RAPORU
+Gözleyen: Gözlem Süresi:
+Gözlenen: Gözlem Tarihi:
+Etkinlik: No:
+A-B-C BETİMSEL ANALİZ RAPORU
+Gözleyen: Gözlem Süresi:
+Gözlenen: Gözlem Tarihi:
+Etkinlik: Analiz No:
+A B C
+85
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-12
+ANEKTOD KAYIT RAPORU
+Gözleyen: Gözlem Süresi:
+Gözlenen: Gözlem Tarihi:
+Etkinlik: No:
+A-B-C BETİMSEL ANALİZ RAPORU
+Gözleyen: Gözlem Süresi:
+Gözlenen: Gözlem Tarihi:
+Etkinlik: Analiz No:
+A B C
+86
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-12
+ANEKTOD KAYIT RAPORU
+Gözleyen: Gözlem Süresi:
+Gözlenen: Gözlem Tarihi:
+Etkinlik: No:
+A-B-C BETİMSEL ANALİZ RAPORU
+Gözleyen: Gözlem Süresi:
+Gözlenen: Gözlem Tarihi:
+Etkinlik: Analiz No:
+A B C
+87
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-12
+BÖLÜM-2
+DAVRANIŞ DEĞİŞTİRME PROGRAMI GİRİŞ
+AZALTILMAK İSTENEN DAVRANIŞ
+88
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-12
+BÖLÜM-3
+HEDEF DAVRANIŞ BELİRLEME
+Açıklama: Anektod Kaydı ve ABC Betimsel Analiz Kaydına göre olası problem davranış ortaya konulmuştur. Bu belirlen davranış/ların hedef
+davranış olma özelliği açısından aşağıdaki “Hedef Davranış Belirleme Formu” kullanılmıştır.
+Hedef Davranış:
+Hedef Davranışın Tanımı:
+Hedef Davranışın Sıklığı:
+Amaç:
+89
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-12
+No Hedef Davranış Belirleme Formu Soru Yönergesi Evet Hayır Yorum
+1 İşlevsel mi?
+2 Pekiştireç sağlayıcı mı?
+3 Önkoşul niteliğinde mi?
+4 Başka ortamlara girmeyi kolaylaştırır mı?
+5 Kişilerarası ilişiklerde kolaylık sağlar mı?
+6 Yaşa uygun mu?
+7 Bağımsız yaşa katkı sağlar mı?
+8 Azaltılmak istenen bir davranışsa, alternatif var mı?
+Toplam:
+HEDEF DAVRANIŞ BELİRLEME FORMU SORU YÖNERGESİNE VERİLEN CEVAPLARIN GEREKÇELİ AÇIKLAMASI
+Hedef davranış işlevsel mi?:
+Hedef davranış pekiştireç sağlayıcı mı?:
+90
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-12
+Hedef davranış önkoşul niteliğinde mi?:
+Hedef davranış başka ortamlara girmeyi kolaylaştırır mı?:
+Hedef davranış kişilerarası ilişiklerde kolaylık sağlar mı?:
+Hedef davranış yaşa uygun mu?:
+Hedef davranış bağımsız yaşa katkı sağlar mı?:
+Hedef davranış azaltılmak istenen bir davranışsa, alternatif var mı?:
+91
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-12
+ÖZET
+92
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-12
+HEDEF DAVRANIŞIN TOPLUMSAL ÖNEMİNİ DEĞERLENDİRME
+Açıklama: Hedef davranışın toplumsal önemini belirlemek için iki olası hedef davranışı karşılaştırmak amacıyla aşağıdaki “Hedef Davranışı
+Toplumsal Önemini Değerlendirme Formu” kullanılmıştır. Toplumsal önem açısından daha yüksek puan alan davranış, değiştirilmesi önce-
+likle hedeflenmesi gereken davranış olarak belirlenmiştir.
+HEDEF DAVRANIŞIN TOPLUMSAL ÖNEMİNİ DEĞERLENDİRME FORMU
+Gözleyen :
+Tarih :
+Gözlenen:
+I . Hedef Davranış: II . Hedef Davranış:
+No Öncelik Ölçütleri
+1 2 3 4 5 1 2 3 4 5
+1 Sakınca Derecesi
+2 İleride kullanılma olasılığı
+3 Sorunun süreğenlik derecesi
+4 Pekiştireç sağlama olasılığı
+5 Önkoşul özelliğinin derecesi
+6 İstenmeyen dikkati azaltma derecesi
+7 Değiştirme kolaylığı
+Değiştirme maliyetinin uygunluğunun
+8
+derecesi
+Toplam
+Hedef Davranış Dereceleme Ölçeği
+1. Çok Zayıf
+2. Zayıf
+3. Orta
+4. Yüksek
+5. Çok Yüksek
+93
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-12
+BÖLÜM-4
+DAVRANIŞ ÖLÇÜMÜ VE KAYIT TEKNİĞİ
+Hedef Davranışın Kayıt Tekniği:
+Hedef Davranışın Kayıt Tekniğinin Seçilme Nedeni:
+Hedef Davranışın Kayıt Tekniğinin Uygulama Esasları:
+94
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+HEDEF DAVRANIŞ İÇİN KAYIT TEKNİĞİ VERİ TOPLAMA FORMU
+Açıklama: …….. nin davranış değiştirme programında aşağıdaki “Serbest Davranışlar İçin Veri Kayıt Formu” kullanılacaktır.
+SERBEST SAYILABİLİR DAVRANIŞLAR İÇİN OLAY KAYDI VERİ TOPLAMA FORMU
+Gözlenen:
+Gözleyen:
+Hedef Davranış:
+Gözlem Süresi:
+Tarih 1 . Etkinlik 2 . Etkinlik 3 . Etkinlik 4 . Etkinlik Rakamla
+...../...../20......
+...../...../20......
+...../...../20......
+TOPLAM
+6
+5
+4
+3
+2
+1
+0
+...../...../20......
+95
+ısıyaS
+şınarvaD
+EK-12
+Veri Toplama Grafiği
+10
+9
+8
+7
+...../...../20...... ...../...../20......
+Tepki Sayısı / Süre = Tepki Oran
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-12
+BÖLÜM-5
+DAVRANIŞ DEĞİŞTİRME PROGRAMININ UYGULANMASI
+…………..’nın Genel Davranış Özellikleri:
+PROBLEM DAVRANIŞ
+Öğrencide Azaltılmak İstenen Davranış:
+Problem Davranışın Nedeni:
+Hedef Davranışın Tanımlanması:
+Performans Düzeyinin Belirlenmesi:
+96
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+SERBEST SAYILABİLİR DAVRANIŞLAR İÇİN OLAY KAYDI BAŞLAMA DÜZEYİ VERİ TOPLAMA FORMU
+Gözlenen:
+Gözleyen:
+Hedef Davranış:
+Gözlem Süresi:
+Tarih 1 . Etkinlik 2 . Etkinlik 3 . Etkinlik 4 . Etkinlik Rakamla
+...../...../20......
+...../...../20......
+...../...../20......
+TOPLAM
+6
+5
+4
+3
+2
+1
+0
+...../...../20......
+97
+ısıyaS
+şınarvaD
+EK-12
+Veri Toplama Grafiği
+10
+9
+8
+7
+...../...../20...... ...../...../20......
+Tepki Sayısı / Süre = Tepki Oran
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-12
+Davranış Değiştirmede Seçilen Yöntem Teknikler:
+Seçilme Nedeni:
+Seçilen Yöntem ve Tekniklerin Uygulama Süreci:
+98
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-12
+BÖLÜM-6
+Pekiştireçler ve Pekiştirme Tarifesi:
+Pekiştireç Listesi Formu
+99
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-12
+BÖLÜM-7
+Gözlemciler Arası Güvenirlik Hesaplaması:
+BÖLÜM-8
+Aile Bilgilendirme Formu:
+Çocuğumun problem davranışlarıyla ilgili olarak hazırlanan Davranış Değiştirme Programı yazılı uygulama planını gözden geçirdim ve
+uygulama yöntemleri hakkında bilgilendirildim. Programın potansiyel faydalarına ilişkin açıklamalar ile birlikte olası risklerle ilgili ve
+uygulama yöntemleri hakkında bilgilendirildim.
+Adı Soyadı (Anne/Baba/Yasal Vasi) Tarih: ........../........../20......
+İMZASI
+100
+
+ISATİRAH
+LOY
+NİÇİ
+RELNEMTERĞÖ
+MÜT
+:IMARGORP
+MİTİĞE
+ŞİMLİRİTŞELLESYERİB
+EK-12
+BÖLÜM-9
+Davranış Değiştirme Programının Sonlandırılması
+Sonlandırma Tarih :...................................
+Grafiğe aktarılan Performans, uygulama ve genelleme verileri karşılaştırılarak, hedef davranışa ilişkin aşağıdaki sonuçlardan birine karar
+verilir.
+----Ön değerlendirme verileri, çocuğun bu programa ihtiyacı olmadığını gösterdi.
+----Öğrenci programın hedefini karşıladı.
+----Genelleme gerçekleşti.
+----Davranış uygun seviyede sürdürüldü.
+----Program istenilen sonucu sağlamadı, yerine başka program geliştirilecek.
+----Program geçici olarak _________________’ e kadar sonlandırıldı
+----Diğer (açıklama yazın) ______________________________________
+BÖLÜM-10
+Davranış Değiştirme Programının Gözden Geçirilmesi ve Değerlendirilmesi: Bu programın hazırlanmasında yer alan BEP
+geliştirme birimi üyeleri ve alan uzmanları tarafından gözden geçirilerek değerlendirilmiştir.
+BEP Geliştirme Birimi Üyesi ......../......../20........ (Varsa) Alan Uzmanı * ......../......../20......
+BEP Geliştirme Birimi Üyesi ......../......../20...... (Varsa) Program Danışmanı ** ......../......../20......
+BEP Geliştirme Birimi Üyesi ......../......../20...... Program Uygulayıcısı *** ......../......../20......
+BEP Geliştirme Birimi Üyesi ......../......../20...... BEP Geliştirme Birimi Üyesi ......../......../20......
+BEP Geliştirme Birimi Üyesi ......../......../20...... BEP Geliştirme Birimi Başkanı ......../......../20......
+* Alan Uzmanı: Davranış Değiştirme Programının hazırlanması ve uygulanmasında destek alınan resmî okul veya kurumlarda görev yapan özel eğitim uzmanı.
+** Program Danışmanı: Davranış Değiştirme Programının hazırlanması ve uygulanmasında destek alınan özel eğitim alanında görev yapan akademik personel.
+*** Program Uygulayıcısı: Davranış Değiştirme Programını uygulayan öğretmen.
+101
+
+üğülrüdüM
+leneG
+ireltemziH
+kilrebheR
+ev
+mitiğE
+lezÖ
+EK-12
+BÖLÜM-11
+Bir Sonraki Problem Davranış Değiştirme Program Çalışması:
+102
+
