@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bilge Asistan | Eğitim Yönetim Sistemi</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+
+    <div id="landing-screen">
+        <div class="landing-logo-box"><i class="fa-solid fa-robot"></i></div>
+        <div class="landing-title">Bilge Asistan</div>
+        <div class="landing-subtitle">"Her Sınıfa Alanında Uzman Bilge Bir Asistan"</div>
+        <div class="landing-buttons">
+            <button class="btn-landing btn-login" onclick="goToAuth('login')">Giriş Yap</button>
+            <button class="btn-landing btn-register" onclick="goToAuth('register')">Üye Ol</button>
+        </div>
+    </div>
+
+    <div id="auth-screen" class="hidden">
+        <div id="login-box" class="hidden">
+            <h2 style="color:#0984e3;">Giriş Yap</h2>
+            <input type="email" id="login-email" class="auth-input" placeholder="E-Posta">
+            <input type="password" id="login-pass" class="auth-input" placeholder="Şifre">
+            <button onclick="login()" class="btn-primary" style="width:100%; margin-top:20px;">Giriş</button>
+            <p onclick="goToLanding()" style="margin-top:10px; cursor:pointer;">Geri</p>
+        </div>
+        <div id="register-box" class="hidden">
+            <h2 style="color:#00b894;">Kayıt Ol</h2>
+            <input type="text" id="reg-school" class="auth-input" placeholder="Okul">
+            <input type="email" id="reg-email" class="auth-input" placeholder="E-Posta">
+            <input type="password" id="reg-pass" class="auth-input" placeholder="Şifre">
+            <button onclick="register()" class="btn-success" style="width:100%; margin-top:20px;">Kaydol</button>
+            <p onclick="goToAuth('login')" style="margin-top:10px; cursor:pointer;">Giriş</p>
+        </div>
+    </div>
+
+    <div id="app-screen" class="hidden">
+        <div class="header">
+            <div style="display:flex; align-items:center; gap:10px;">
+                <i class="fa-solid fa-bars menu-toggle-btn" onclick="toggleMenu()"></i>
+                
+                <i class="fa-solid fa-robot" style="font-size:1.5rem; color:#0984e3;"></i>
+                <h3>Bilge<span style="color:#0984e3;">Asistan</span></h3>
+            </div>
+            <button onclick="logout()" class="btn-danger">Çıkış</button>
+        </div>
+
+        <div class="container">
+            <div class="sidebar" id="sidebar">
+                <div class="menu-section"><div class="menu-title">GENEL</div><div class="menu-item" onclick="showDashboardHome()"><i class="fa-solid fa-house"></i> Ana Sayfa</div></div>
+                
+                <div class="menu-section">
+                    <div class="menu-title">BEP MODÜLÜ</div>
+                    <div class="menu-item" onclick="openModule('kaba-degerlendirme-list')"><i class="fa-solid fa-clipboard-check"></i> Kaba Değerlendirme</div>
+                    <div class="menu-item" onclick="openModule('bep-olustur-list')"><i class="fa-solid fa-file-signature"></i> Bep Oluştur</div>
+                    <div class="menu-item" onclick="openModule('bep-listesi-secim')"><i class="fa-solid fa-list-check"></i> Bep Listesi</div>
+                    <div class="menu-item" onclick="alert('Yakında')"><i class="fa-solid fa-users-rectangle"></i> Bep Ekip Üyeleri</div>
+                </div>
+
+                <div class="menu-section">
+                    <div class="menu-title">BÖP MODÜLÜ</div>
+                    <div class="menu-item" onclick="alert('Yakında')"><i class="fa-solid fa-share-nodes"></i> Böp Oluştur</div>
+                    <div class="menu-item" onclick="alert('Yakında')"><i class="fa-solid fa-list-ol"></i> Böp Listesi</div>
+                </div>
+
+                <div class="menu-section">
+                    <div class="menu-title">ÖĞRENCİ MODÜLÜ</div>
+                    <div class="menu-item" onclick="openModule('student-list')"><i class="fa-solid fa-user-graduate"></i> Öğrencilerim</div>
+                    <div class="menu-item" onclick="openModule('student-list')"><i class="fa-solid fa-users"></i> Öğrenci Listesi</div>
+                    <div class="menu-item" onclick="openModule('add-student')"><i class="fa-solid fa-user-plus"></i> Öğrenci Ekle</div>
+                </div>
+                
+                <div class="menu-section">
+                    <div class="menu-title">DİĞER</div>
+                    <div class="menu-item" onclick="openModule('ask-bilge')"><i class="fa-solid fa-wand-magic-sparkles"></i> Bilge'ye Sor</div>
+                </div>
+            </div>
+
+            <div class="main-content">
+                <div id="dashboard-home" class="content-panel active">
+                    <h2 style="text-align:center;">Hızlı İşlemler</h2>
+                    <div class="dashboard-grid">
+                        <div class="dash-card card-bep" onclick="openModule('bep-olustur-list')"><i class="fa-solid fa-file-contract"></i><h3>BEP Oluştur</h3></div>
+                        <div class="dash-card card-ask" onclick="openModule('ask-bilge')"><i class="fa-solid fa-wand-magic-sparkles"></i><h3>Bilge'ye Sor</h3></div>
+                    </div>
+                </div>
+
+                <div id="panel-student-select" class="content-panel">
+                    <h2 id="student-select-title">Öğrenci Seçiniz</h2>
+                    <div id="student-list-container"></div>
+                </div>
+
+                <div id="panel-add-student" class="content-panel">
+                    <h2>Yeni Öğrenci</h2>
+                    <div style="display:grid; grid-template-columns: 1fr 1fr; gap:20px;">
+                        <div>
+                            <h4>Kimlik</h4>
+                            <input type="text" id="new-tc" placeholder="TC Kimlik">
+                            <input type="text" id="new-name" placeholder="Ad Soyad *">
+                            <input type="date" id="new-dob">
+                            <select id="new-gender"><option value="">Cinsiyet</option><option>Erkek</option><option>Kız</option></select>
+                        </div>
+                        <div>
+                            <h4>Eğitim</h4>
+                            <input type="text" id="new-diagnosis" placeholder="Tanı">
+                            <input type="text" id="new-parent" placeholder="Veli Adı">
+                            <input type="tel" id="new-phone" placeholder="Veli Tel">
+                            <input type="text" id="new-meds" placeholder="İlaç/Sağlık">
+                        </div>
+                    </div>
+                    <textarea id="new-notes" rows="2" placeholder="Notlar"></textarea>
+                    <button onclick="saveStudent()" class="btn-success" style="width:100%; margin-top:15px;">Kaydet</button>
+                </div>
+
+                <div id="panel-kaba-degerlendirme" class="content-panel">
+                    <h2 id="kaba-student-name" style="color:#0984e3;"></h2>
+                    <select id="lesson-select" onchange="switchLesson(this.value)">
+                        <option value="" disabled selected>-- Ders Seç --</option>
+                        <option>Bilişsel</option><option>Alıcı Dil</option><option>İfade Edici Dil</option>
+                        <option>İnce Motor</option><option>Kaba Motor</option><option>Sosyal Duygusal</option><option>Uyumsal Beceriler</option>
+                    </select>
+                    <div id="checklist-wrapper" class="hidden">
+                        <div id="checklist-area" class="checklist-container"></div>
+                        <textarea id="expect" rows="2" placeholder="Hedefiniz..." style="margin-top:10px;"></textarea>
+                        <button onclick="saveAssessment()" class="btn-success" style="width:100%; margin-top:10px;">Kaydet</button>
+                    </div>
+                </div>
+
+                <div id="panel-bep-create" class="content-panel">
+                    <h2 id="bep-create-student-name" style="color:#d63031;"></h2>
+                    <p>Kaba değerlendirme verileri kullanılarak BEP oluşturulacak.</p>
+                    <button onclick="generateBEP()" class="btn-primary" style="width:100%;">BEP OLUŞTUR</button>
+                    <div id="ai-result" class="hidden" style="margin-top:20px; border:2px solid #ccc; padding:15px;"></div>
+                </div>
+
+                <div id="panel-bep-list" class="content-panel">
+                    <h2 id="bep-list-student-name">Geçmiş BEP Raporları</h2>
+                    <div id="bep-history-container" style="margin-top:20px;"></div>
+                    <div id="bep-viewer" class="hidden" style="margin-top:20px; border-top:2px solid #eee; padding-top:20px;"></div>
+                </div>
+
+                <div id="panel-ask-bilge" class="content-panel">
+                    <div style="display:flex; align-items:center; gap:15px; margin-bottom:15px; border-bottom:1px solid #eee;">
+                        <div style="background:#6c5ce7; color:white; width:50px; height:50px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:1.5rem;"><i class="fa-solid fa-robot"></i></div>
+                        <div><h2 style="margin:0;">Bilge Asistan</h2><small style="color:#00b894;">● Çevrimiçi</small></div>
+                    </div>
+                    <div id="chat-container">
+                        <div class="chat-message bot-message">Merhaba! Ben Bilge. Sınıfınla ilgili ne sorarsan sor, buradayım! 👋</div>
+                    </div>
+                    <div class="chat-input-area">
+                        <input type="text" id="chat-input" placeholder="Bir soru sor..." onkeypress="handleEnter(event)">
+                        <button onclick="sendChatMessage()" class="btn-primary" style="background:#6c5ce7;"><i class="fa-solid fa-paper-plane"></i></button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <script src="/static/js/script.js?v=4"></script>
+</body>
+</html>
